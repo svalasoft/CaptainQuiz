@@ -1,0 +1,234 @@
+[
+  {
+    "category_id": 800,
+    "category_name": "Ham Techician",
+    "category_description": "Take the Ham Technican's Exam",
+    "category_questionlimit": 30,
+    "category_passpercent": 90,
+    "category_image_path": "Icons/ham.png"
+  },
+  {
+    "category_id": 100,
+    "category_name": "Six-Pack - Rules of the Road",
+    "category_description": "Take the Six-Pack Captain's Exam",
+    "category_questionlimit": 30,
+    "category_passpercent": 90,
+    "category_image_path": "Icons/rulesoftheroad.png"
+  },
+  {
+    "category_id": 200,
+    "category_name": "Six-Pack - Navigation General",
+    "category_description": "Take the Six-Pack Captain's Exam",
+    "category_questionlimit": 20,
+    "category_passpercent": 70,
+    "category_image_path": "Icons/navigation_general.png"
+  },
+  {
+    "category_id": 300,
+    "category_name": "Six-Pack - Navigation Problems",
+    "category_description": "Take the Six-Pack Captain's Exam\nRestricted to the Block Island Sound chart.",
+    "category_questionlimit": 10,
+    "category_passpercent": 70,
+    "category_image_path": "Icons/navigation_problems.png"
+  },
+  {
+    "category_id": 301,
+    "category_name": "Six-Pack - Navigation Problems",
+    "category_description": "Take the Six-Pack Captain's Exam\nRestricted to the Long Island Sound chart.",
+    "category_questionlimit": 10,
+    "category_passpercent": 70,
+    "category_image_path": "Icons/navigation_problems.png"
+  },
+  {
+    "category_id": 302,
+    "category_name": "Six-Pack - Navigation Problems",
+    "category_description": "Take the Six-Pack Captain's Exam\nRestricted to the Chesapeake Bay Entrance chart.",
+    "category_questionlimit": 10,
+    "category_passpercent": 70,
+    "category_image_path": "Icons/navigation_problems.png"
+  },
+  {
+    "category_id": 700,
+    "category_name": "Six-Pack - Deck General & Safety",
+    "category_description": "Take the Six-Pack Captain's Exam",
+    "category_questionlimit": 60,
+    "category_passpercent": 70,
+    "category_image_path": "Icons/deck_general.png"
+  },
+  {
+    "category_id": 100,
+    "category_name": "Master & Mate Inland - Rules of the Road",
+    "category_description": "Take the Master & Mate Inland Captain's Exam",
+    "category_questionlimit": 30,
+    "category_passpercent": 90,
+    "category_image_path": "Icons/rulesoftheroad.png"
+  },
+  {
+    "category_id": 200,
+    "category_name": "Master & Mate Inland - Navigation General",
+    "category_description": "Take the Master & Mate Inland Captain's Exam",
+    "category_questionlimit": 20,
+    "category_passpercent": 70,
+    "category_image_path": "Icons/navigation_general.png"
+  },
+  {
+    "category_id": 300,
+    "category_name": "Master & Mate Inland - Navigation Problems",
+    "category_description": "Take the Master & Mate Inland Captain's Exam\nRestricted to the Block Island Sound chart.",
+    "category_questionlimit": 10,
+    "category_passpercent": 70,
+    "category_image_path": "Icons/navigation_problems.png"
+  },
+  {
+    "category_id": 301,
+    "category_name": "Master & Mate Inland - Navigation Problems",
+    "category_description": "Take the Master & Mate Inland Captain's Exam\nRestricted to the Long Island Sound chart.",
+    "category_questionlimit": 10,
+    "category_passpercent": 70,
+    "category_image_path": "Icons/navigation_problems.png"
+  },
+  {
+    "category_id": 302,
+    "category_name": "Master & Mate Inland - Navigation Problems",
+    "category_description": "Take the Master & Mate Inland Captain's Exam\nRestricted to the Chesapeake Bay Entrance chart.",
+    "category_questionlimit": 10,
+    "category_passpercent": 70,
+    "category_image_path": "Icons/navigation_problems.png"
+  },
+  {
+    "category_id": 700,
+    "category_name": "Master & Mate Inland - Deck General & Safety",
+    "category_description": "Take the Master & Mate Inland Captain's Exam",
+    "category_questionlimit": 60,
+    "category_passpercent": 70,
+    "category_image_path": "Icons/deck_general.png"
+  },
+  {
+    "category_id": 100,
+    "category_name": "Master & Mate Near Coastal - Rules of the Road",
+    "category_description": "Take the Master & Mate Near Coastal Captain's Exam",
+    "category_questionlimit": 30,
+    "category_passpercent": 90,
+    "category_image_path": "Icons/rulesoftheroad.png"
+  },
+  {
+    "category_id": 200,
+    "category_name": "Master & Mate Near Coastal - Navigation General",
+    "category_description": "Take the Master & Mate Near Coastal Captain's Exam",
+    "category_questionlimit": 20,
+    "category_passpercent": 70,
+    "category_image_path": "Icons/navigation_general.png"
+  },
+  {
+    "category_id": 300,
+    "category_name": "Master & Mate Near Coastal - Navigation Problems",
+    "category_description": "Take the Master & Mate Near Coastal Captain's Exam\nRestricted to the Block Island Sound chart.",
+    "category_questionlimit": 10,
+    "category_passpercent": 70,
+    "category_image_path": "Icons/navigation_problems.png"
+  },
+  {
+    "category_id": 301,
+    "category_name": "Master & Mate Near Coastal - Navigation Problems",
+    "category_description": "Take the Master & Mate Near Coastal Captain's Exam\nRestricted to the Long Island Sound chart.",
+    "category_questionlimit": 10,
+    "category_passpercent": 70,
+    "category_image_path": "Icons/navigation_problems.png"
+  },
+  {
+    "category_id": 302,
+    "category_name": "Master & Mate Near Coastal - Navigation Problems",
+    "category_description": "Take the Master & Mate Near Coastal Captain's Exam\nRestricted to the Chesapeake Bay Entrance chart.",
+    "category_questionlimit": 10,
+    "category_passpercent": 70,
+    "category_image_path": "Icons/navigation_problems.png"
+  },
+  {
+    "category_id": 700,
+    "category_name": "Master & Mate Near Coastal - Deck General & Safety",
+    "category_description": "Take the Master & Mate Near Coastal Captain's Exam",
+    "category_questionlimit": 70,
+    "category_passpercent": 70,
+    "category_image_path": "Icons/deck_general.png"
+  },
+  {
+    "category_id": 600,
+    "category_name": "Sail Auxiliary - Auxiliary Sail",
+    "category_description": "Take the Sail Auxiliary Exam",
+    "category_questionlimit": 20,
+    "category_passpercent": 70,
+    "category_image_path": "Icons/auxiliary_sail.png"
+  },
+  {
+    "category_id": 100,
+    "category_name": "Rules of the Road",
+    "category_description": "ALL QUESTIONS for the Rules of the Road exam",
+    "category_questionlimit": 0,
+    "category_passpercent": 0,
+    "category_image_path": "Icons/rulesoftheroad.png"
+  },
+  {
+    "category_id": 200,
+    "category_name": "Navigation General",
+    "category_description": "ALL QUESTIONS for the Navigation General exam",
+    "category_questionlimit": 0,
+    "category_passpercent": 0,
+    "category_image_path": "Icons/navigation_general.png"
+  },
+  {
+    "category_id": 300,
+    "category_name": "Navigation Problems",
+    "category_description": "ALL QUESTIONS for the Navigation Problems exam\nRestricted to the Block Island Sound chart.",
+    "category_questionlimit": 0,
+    "category_passpercent": 0,
+    "category_image_path": "Icons/navigation_problems.png"
+  },
+  {
+    "category_id": 301,
+    "category_name": "Navigation Problems",
+    "category_description": "ALL QUESTIONS for the Navigation Problems exam\nRestricted to the Long Island Sound chart.",
+    "category_questionlimit": 0,
+    "category_passpercent": 0,
+    "category_image_path": "Icons/navigation_problems.png"
+  },
+  {
+    "category_id": 302,
+    "category_name": "Navigation Problems",
+    "category_description": "ALL QUESTIONS for the Navigation Problems exam\nRestricted to the Chesapeake Bay Entrance chart.",
+    "category_questionlimit": 0,
+    "category_passpercent": 0,
+    "category_image_path": "Icons/navigation_problems.png"
+  },
+  {
+    "category_id": 400,
+    "category_name": "Deck General",
+    "category_description": "ALL QUESTIONS for the Deck General exam",
+    "category_questionlimit": 0,
+    "category_passpercent": 0,
+    "category_image_path": "Icons/deck_general.png"
+  },
+  {
+    "category_id": 500,
+    "category_name": "Safety",
+    "category_description": "ALL QUESTIONS for the Safety exam",
+    "category_questionlimit": 0,
+    "category_passpercent": 0,
+    "category_image_path": "Icons/safety.png"
+  },
+  {
+    "category_id": 700,
+    "category_name": "Deck General & Safety",
+    "category_description": "ALL QUESTIONS for the Deck General & Safety exam",
+    "category_questionlimit": 0,
+    "category_passpercent": 0,
+    "category_image_path": "Icons/deck_general.png"
+  },
+  {
+    "category_id": 600,
+    "category_name": "Auxiliary Sail",
+    "category_description": "ALL QUESTIONS for the Auxiliary Sail exam",
+    "category_questionlimit": 0,
+    "category_passpercent": 0,
+    "category_image_path": "Icons/auxiliary_sail.png"
+  }
+]

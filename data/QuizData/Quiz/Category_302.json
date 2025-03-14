@@ -1,0 +1,4526 @@
+[
+  {
+    "options": [
+      "35 feet (10.6 meters)",
+      "43 feet (13.1 meters)",
+      "46 feet (13.9 meters)",
+      "53 feet (15.5 meters)"
+    ],
+    "question": "At 2015, your vessel is at the Chesapeake Bay Bridge and Tunnel midway between buoys \"13\" and \"14\".  If the height of tide is -1 foot (-0.3 meters), what is the approximate depth of water?",
+    "answer": 3,
+    "number": 500171,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2029",
+      "2032",
+      "2035",
+      "2037"
+    ],
+    "question": "If you steer 143°pgc from your 2015 position at an engine speed of 8.0 knots, at what time would you reach a point midway between buoys \"11\" and \"12\" (ignore set and drift)?",
+    "answer": 0,
+    "number": 500172,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "142°psc",
+      "152°psc",
+      "157°psc",
+      "162°psc"
+    ],
+    "question": "At 2015, you alter course to 154°pgc.  What is the course per standard magnetic compass (psc)?",
+    "answer": 3,
+    "number": 500173,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Only deep-draft passenger ships and large naval vessels may use the main channel.",
+      "A tow drawing 20 feet is excluded from the main channel.",
+      "The channel is 14.5 miles in length.",
+      "Thimble Shoal Channel is in international waters."
+    ],
+    "question": "Which of the following concerning Thimble Shoal Channel is TRUE?",
+    "answer": 1,
+    "number": 500174,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "6.5 knots",
+      "6.0 knots",
+      "5.5 knots",
+      "5.0 knots"
+    ],
+    "question": "At 2118, you obtain the following bearings:\n\nCape Henry Light -    148°pgc\nCape Charles Light -  033°pgc\nThimble Shoal Light - 291°pgc\n\nFrom this position, you proceed to Norfolk, VA, a distance of approximately 26.0 miles.  To arrive at Norfolk by 0200 the next day, what is the speed to make good from your 2118 position to arrive at this time?",
+    "answer": 2,
+    "number": 500175,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 36°56.6'N,  LONG 76°01.0'W",
+      "LAT 36°57.0'N,  LONG 76°01.5'W",
+      "LAT 36°57.4'N,  LONG 76°01.9'W",
+      "LAT 36°58.0'N,  LONG 76°02.4'W"
+    ],
+    "question": "What is your 2118 position?",
+    "answer": 2,
+    "number": 500176,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Light of reduced intensity",
+      "Alternating red and white",
+      "Flashing yellow",
+      "Strobe light"
+    ],
+    "question": "If the Old Point Comfort main light was inoperative what emergency light would be shown?",
+    "answer": 0,
+    "number": 500178,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 37°21.5'N,  LONG 75°34.8'W",
+      "LAT 37°22.0'N,  LONG 75°34.9'W",
+      "LAT 37°22.2'N,  LONG 75°35.0'W",
+      "LAT 37°22.6'N,  LONG 75°35.7'W"
+    ],
+    "question": "You are on course 192°pgc at 12 knots.  You obtain a loran fix at 1900 using the following information:\n\n 9960-X-27120\n 9960-Y-41623\n 9960-Z-58729\n\n What is your latitude and longitude at 1900?",
+    "answer": 3,
+    "number": 500181,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "188°psc",
+      "203°psc",
+      "205°psc",
+      "208°psc"
+    ],
+    "question": "What course should you steer using the standard magnetic compass (psc) to make good the course of 192°pgc?",
+    "answer": 1,
+    "number": 500182,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Sand Shoal Inlet Lighted Buoy \"A\"",
+      "Hog Island Lighted Bell Buoy",
+      "South Light Buoy",
+      "an interrupted quick flashing buoy"
+    ],
+    "question": "At 1920, the buoy off your starboard bow is __________.",
+    "answer": 0,
+    "number": 500183,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "40 feet (12.2 meters)",
+      "50 feet (15.2 meters)",
+      "60 feet (18.3 meters)",
+      "70 feet (23.2 meters)"
+    ],
+    "question": "At 1930, your position is LAT 37°16.7'N, LONG 75°37.7'W. The depth of water is approximately __________.",
+    "answer": 1,
+    "number": 500184,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "150°T at 1.6 knot",
+      "150°T at 0.6 knots",
+      "330°T at 0.6 knot",
+      "330°T at 1.6 knots"
+    ],
+    "question": "At 1950, your position is LAT 37°12.3'N, LONG 75°38.6'W. The set and drift from 1930 to 1950 were __________.",
+    "answer": 0,
+    "number": 500185,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0.1 mile",
+      "0.5 mile",
+      "0.8 mile",
+      "1.1 miles"
+    ],
+    "question": "Assume set and drift have no effect on your vessel.  If you change course to 187°pgc from your 1950 position, how close will you pass Cape Charles Lighted Bell Buoy \"14\"?",
+    "answer": 3,
+    "number": 500186,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "75°38.9'W",
+      "75°39.1'W",
+      "75°40.5'W",
+      "75°41.4'W"
+    ],
+    "question": "At 2020, you obtain a fix using the following information:\n 9960-X-27112\n 9960-Y-41432\n\n Cape Charles Lighted Bell Buoy \"14\" bears 333°pgc.  Your longitude is __________.",
+    "answer": 2,
+    "number": 500187,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "227°pgc",
+      "221°pgc",
+      "218°pgc",
+      "215°pgc"
+    ],
+    "question": "At 2020, what is the course to steer to enter the inbound lane of North Chesapeake Entrance traffic separation scheme if a northwesterly wind causes 3° of leeway?",
+    "answer": 1,
+    "number": 500188,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2121",
+      "2116",
+      "2111",
+      "2101"
+    ],
+    "question": "If you make good 12 knots, what is the ETA at North Chesapeake Channel Entrance Buoy \"NCA\" (LL #375)?",
+    "answer": 2,
+    "number": 500191,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "37°00.6'N",
+      "37°00.0'N",
+      "36°59.7'N",
+      "36°59.4'N"
+    ],
+    "question": "At 2100, Cape Charles Light bears 321°pgc, and Cape Henry Light bears 247°pgc.  Your latitude is __________.",
+    "answer": 3,
+    "number": 500192,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The light has never been visible.",
+      "4.6 miles",
+      "6.4 miles",
+      "8.3 miles"
+    ],
+    "question": "If the visibility is 3 miles, at what range will you lose sight of Chesapeake Light?",
+    "answer": 3,
+    "number": 500193,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "an area with local magnetic disturbances",
+      "a pilotage area",
+      "a precautionary area centered on buoy \"CBJ\"",
+      "in inland waters"
+    ],
+    "question": "At 2100, you alter course to 250°T and reduce speed to 7 knots.  You enter the traffic separation scheme on the inbound side.  At 2200, your fix shows you crossing a broken purple line on the chart, and you observe North Chesapeake Entrance Lighted Gong Buoy \"NCD\" to port.  This area is __________.",
+    "answer": 2,
+    "number": 500194,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "257°psc",
+      "260°psc",
+      "262°psc",
+      "265°psc"
+    ],
+    "question": "What course per standard magnetic compass is (psc) the same as 247°pgc?",
+    "answer": 0,
+    "number": 500196,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "014°",
+      "017°",
+      "280°",
+      "332°"
+    ],
+    "question": "At 2215, Cape Henry Light bears 242°pgc, Cape Charles Light bears 010.5°pgc, and Chesapeake Channel Tunnel North Light bears 319°pgc.  You are heading 271°pgc.  What is the relative bearing of Thimble Shoal Light?",
+    "answer": 0,
+    "number": 500197,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "navigate in the main channel when between Trestles A & B",
+      "use the north auxiliary channel",
+      "remain 1500 yards (1360 meters) from large naval vessels",
+      "maintain a speed of six knots"
+    ],
+    "question": "While navigating inbound Thimble Shoal Channel system you must __________.",
+    "answer": 1,
+    "number": 500198,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "59 feet (17.3 meters)",
+      "52 feet (15.8 meters)",
+      "45 feet (13.6 meters)",
+      "38 feet (11.5 meters)"
+    ],
+    "question": "Your 1600 position is LAT 37°22.5'N, LONG 75°32.3'W.  The depth of water under the keel is about __________.",
+    "answer": 3,
+    "number": 500217,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "199°pgc",
+      "196°pgc",
+      "193°pgc",
+      "190°pgc"
+    ],
+    "question": "If there is no current, what is the course per gyro compass from your 1600 position to point A located 0.5 mile due east of Hog Island Lighted Bell Buoy \"12\"?",
+    "answer": 2,
+    "number": 500218,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "067°T at 1.4 knots",
+      "246°T at 1.0 knots",
+      "067°T at 1.0 knots",
+      "246°T at 1.4 knots"
+    ],
+    "question": "At 1630, you reach point A and come right to 204°T.  Your engine speed is 12 knots.  Your 1715, position is LAT 37°09.8'N, LONG 75°37.4'W.  The current was __________.",
+    "answer": 0,
+    "number": 500219,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 37°02.7'N,  LONG 75°42.7'W",
+      "LAT 37°02.9'N,  LONG 75°43.1'W",
+      "LAT 37°03.0'N,  LONG 75°43.3'W",
+      "LAT 37°03.1'N,  LONG 75°42.8'W"
+    ],
+    "question": "From your 1715 fix, you steer 214°T at 12 knots.  At 1800,\nyou take a fix using the following Loran-C readings:\n\n 9960 - X - 27116.8\n 9960 - Y - 41386.0\n 9960 - Z - 58620.6\n\nYour 1800 position is __________.",
+    "answer": 1,
+    "number": 500220,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "257.0°",
+      "255.5°",
+      "251.0°",
+      "249.0°"
+    ],
+    "question": "At 1815, your position is LAT 37°01.0'N, LONG 75°42.7'W.  If there is no current, what is the course per standard magnetic compass to arrive at a point 0.3 mile due north of North Chesapeake Entrance Lighted Whistle Buoy \"NCA\" (LL#375)?",
+    "answer": 0,
+    "number": 500221,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1904",
+      "1859",
+      "1854",
+      "1849"
+    ],
+    "question": "From your 1815 position, you want to make good a course of 263°T.  Your engines are turning RPM's for 12 knots.  The current is 050°T at 1.9 knots.  Adjusting your course for set and drift, at what time should you expect to enter the red sector of Cape Henry Light?",
+    "answer": 0,
+    "number": 500222,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "206°",
+      "213°",
+      "215°",
+      "220°"
+    ],
+    "question": "At 1920, Cape Henry Light bears 225°pgc, and Chesapeake Channel Tunnel North Light bears 288°pgc.  If your heading is 268°T, what is the relative bearing of Chesapeake Light?",
+    "answer": 1,
+    "number": 500223,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "You are governed by the Inland Rules of the Road.",
+      "You are entering a restricted area.",
+      "You are within the Chesapeake Bay Entrance traffic separation scheme.",
+      "You can expect differences of as much as 6° from the normal magnetic variation of the area."
+    ],
+    "question": "Which statement concerning your 1920 position is TRUE?",
+    "answer": 1,
+    "number": 500224,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "274°psc",
+      "280°psc",
+      "283°psc",
+      "286°psc"
+    ],
+    "question": "From your 1920 position, you change course to enter Chesapeake Channel between buoys 9 and 10.  What is the course per standard magnetic compass (psc) ?",
+    "answer": 2,
+    "number": 500225,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "020°T",
+      "014°T",
+      "006°T",
+      "359°T"
+    ],
+    "question": "At 2000, your position is LAT 37°04.1'N, LONG 76°05.6'W. You change course for the Eastern Shore.  At 2037, Old Plantation Flats Light bears 033°pgc, and York Spit Light bears 282°pgc.  The course made good from your 2000 position is __________.",
+    "answer": 3,
+    "number": 500226,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "022°psc",
+      "025°psc",
+      "028°psc",
+      "031°psc"
+    ],
+    "question": "At 2037, you change course to make good a course of 016°T.  There is no current, but a westerly wind is causing  3° leeway.  What course per standard magnetic compass (psc) should you steer to make good the course 016°T?",
+    "answer": 0,
+    "number": 500227,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "17.0 miles",
+      "16.0 miles",
+      "12.0 miles",
+      "7.5 miles"
+    ],
+    "question": "Your height of eye is 25 feet (7.6 meters).  If the visibility is 5.5 nautical miles, what is the luminous range of Wolf Trap Light?",
+    "answer": 3,
+    "number": 500228,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "12222",
+      "12225",
+      "12224",
+      "12222"
+    ],
+    "question": "If you want a more detailed chart of the area at your 2115 DR position, which chart should you use?",
+    "answer": 2,
+    "number": 500229,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1.7 miles",
+      "2.6 miles",
+      "3.4 miles",
+      "4.6 miles"
+    ],
+    "question": "At 2123, your position is LAT 37°20.0'N, LONG 76°03.0'W. What is your distance offshore of Savage Neck?",
+    "answer": 0,
+    "number": 500230,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0148",
+      "0112",
+      "0037",
+      "2359"
+    ],
+    "question": "From your 2123 position, you are approximately 42 miles from Crisfield, MD.  If you are making good a speed of 13 knots, at what time should you arrive at Crisfield, MD?",
+    "answer": 2,
+    "number": 500231,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "162.55 MHz",
+      "162.85 MHz",
+      "181.15 MHz",
+      "202.35 MHz"
+    ],
+    "question": "The National Weather Service provides 24 hour weather broadcasts to vessels transiting the Chesapeake Bay Bridge Tunnel area on which frequency?",
+    "answer": 0,
+    "number": 500278,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "south southeast",
+      "south southwest",
+      "east southeast",
+      "north northwest"
+    ],
+    "question": "At 1752, your position is LAT 37°04.3'N, LONG 76°06.4'W. On a flood current you should expect to be set to the __________.",
+    "answer": 3,
+    "number": 500279,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "less than 0.5 mile eastward of York Spit Channel",
+      "less than 0.5 mile westward of York Spit Channel",
+      "greater than 0.5 mile westward of York Spit Channel",
+      "greater than 0.5 mile eastward of York Spit Channel"
+    ],
+    "question": "Your 1752 position places you __________.",
+    "answer": 1,
+    "number": 500280,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1.6 knot",
+      "1.3 knot",
+      "0.9 knots",
+      "0.6 knots"
+    ],
+    "question": "What is the average velocity of the maximum flood current at the Tail of the Horseshoe?",
+    "answer": 2,
+    "number": 500281,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 37°05.9'N,  LONG 76°08.0'W",
+      "LAT 37°06.0'N,  LONG 76°08.4'W",
+      "LAT 37°05.9'N,  LONG 76°07.7'W",
+      "LAT 37°06.1'N,  LONG 76°07.5'W"
+    ],
+    "question": "From your 1752 position, you steer 307°pgc at 9 knots.  At 1805, you obtain the visual bearings.  What are the latitude and longitude of your 1805 position?  Old Pt. Comfort Light 232°pgc. Chesapeake Bay Tunnel North Light 130°pgc.",
+    "answer": 0,
+    "number": 500282,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "the side of York Spit Channel",
+      "the visibility limit of the red sector of Cape Henry Light",
+      "the end of York Spit Channel",
+      "the junction of the York Spit and York River Entrance Channels"
+    ],
+    "question": "At 1810, you sight a buoy on your starboard side labeled \"19\".  This buoy marks __________.",
+    "answer": 0,
+    "number": 500283,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "enter a traffic separation zone",
+      "cross a submerged pipeline",
+      "depart a regulated area",
+      "depart a restricted area"
+    ],
+    "question": "Based on a DR, at approximately 1817 you would expect to __________.",
+    "answer": 2,
+    "number": 500284,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "37°10.7'N",
+      "37°10.9'N",
+      "37°11.2'N",
+      "37°11.6'N"
+    ],
+    "question": "At 1845, you obtain a loran fix using the following information:\n 9960-X-27252.0\n 9960-Y-41432.0\n 9960-Z-58537.5\n\nYour latitude is __________.",
+    "answer": 2,
+    "number": 500285,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "329°psc",
+      "319°psc",
+      "311°psc",
+      "309°psc"
+    ],
+    "question": "Your 1900 position is LAT 37°12.9'N, LONG 76°13.5'W.  You change course to 317°pgc and slow to 8.0 knots.  What is the course per standard magnetic compass?",
+    "answer": 0,
+    "number": 500286,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "6.5 mile",
+      "5.0 miles",
+      "3.3 miles",
+      "2.0 miles"
+    ],
+    "question": "If the visibility is 11 miles, what is the luminous range of New Point Comfort Spit Light \"4\"?",
+    "answer": 1,
+    "number": 500287,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0.5 mile",
+      "0.9 miles",
+      "1.5 miles",
+      "1.8 miles"
+    ],
+    "question": "According to your track line, how far off New Point Comfort Spit Light \"4\" will you be when abeam of this light?",
+    "answer": 1,
+    "number": 500288,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "76°16.2'W",
+      "76°16.5'W",
+      "76°16.8'W",
+      "76°17.2'W"
+    ],
+    "question": "At 1930, you take a fix using the following radar ranges:\nYork Spit Light - 3.6 miles;\nNew Point Comfort Spit Light \"2\"  - 2.0 miles;\nYork Spit Swash Channel Light \"3\" - 2.5 miles.\n \nYour longitude is __________.",
+    "answer": 2,
+    "number": 500289,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "6.2 knots",
+      "6.8 knots",
+      "7.5 knots",
+      "8.3 knots"
+    ],
+    "question": "What was the speed made good from 1845 to 1930?",
+    "answer": 3,
+    "number": 500290,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "15 feet (4.6 meters)",
+      "17 feet (5.2 meters)",
+      "19 feet (5.8 meters)",
+      "24 feet (7.3 meters)"
+    ],
+    "question": "What is the height above water of Davis Creek Channel Light \"1\"?",
+    "answer": 0,
+    "number": 500291,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "6.9 knots",
+      "6.5 knots",
+      "6.1 knots",
+      "5.7 knots"
+    ],
+    "question": "If you have 17.3 miles to reach your destination from your 2000 position and want to be there at 2230, what speed should you make good?",
+    "answer": 0,
+    "number": 500292,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "3.2 miles",
+      "3.0 miles",
+      "2.8 miles",
+      "2.6 miles"
+    ],
+    "question": "At 1730, your position is LAT 37°13.9'N, LONG 76°26.4'W. You are steering course 088° per standard magnetic compass (psc) at an engine speed of 8.0 knots.  What is your distance off Tue Marshes Light at 1730?",
+    "answer": 3,
+    "number": 500293,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "12 knots",
+      "10 knots",
+      "8 knots",
+      "6 knots"
+    ],
+    "question": "What is the maximum allowable speed of vessels underway up river from Tue Marshes Light?",
+    "answer": 0,
+    "number": 500294,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "081°T",
+      "078°T",
+      "075°T",
+      "072°T"
+    ],
+    "question": "At 1750, your position is LAT 37°14.5'N, LONG 76°22.9'W. What was the course made good between 1730 and 1750?",
+    "answer": 1,
+    "number": 500295,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 37°15.5'N,  LONG 76°19.8'W",
+      "LAT 37°15.2'N,  LONG 76°20.3'W",
+      "LAT 37°14.5'N,  LONG 76°20.1'W",
+      "LAT 37°15.0'N,  LONG 76°20.4'W"
+    ],
+    "question": "At 1800, Tue Marshes Light bears 264.5°pgc, York Spit Swash Channel Light \"3\" bears 007°pgc.  Your position is __________.",
+    "answer": 2,
+    "number": 500296,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "149°psc",
+      "145°psc",
+      "141°psc",
+      "139°psc"
+    ],
+    "question": "What course should you steer per standard magnetic compass in order to navigate down the center of York River Entrance Channel (ignore set and drift)?",
+    "answer": 2,
+    "number": 500297,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "York Spit Light",
+      "New Point Comfort Shoal Light",
+      "Mobjack Bay Entrance Light",
+      "York River Entrance Channel Light \"1\""
+    ],
+    "question": "You have just passed York River Entrance Channel Lighted Buoys \"13\" and \"14\".  The chart shows a light approximately 1.0 mile off your port beam with a light characteristic \"Fl 6 sec\".  What is the name of this light?",
+    "answer": 0,
+    "number": 500298,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "127° at 0.5 knot",
+      "127° at 1.1 knot",
+      "307° at 1.1 knot",
+      "307° at 0.5 knot"
+    ],
+    "question": "At 1930, your vessel is between York River Entrance Channel Lighted Buoys \"1YR\" and \"2\".  From this position, you change course to 142°pgc at an engine speed of 8.0 knots. At 2001, you obtain the following information: \n\nChesapeake Channel Tunnel North Light - 131°pgc; Thimble Shoal Light -                                  248°pgc  \n\nWhat were the set and drift between 1930 and 2001?",
+    "answer": 0,
+    "number": 500299,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "125°psc",
+      "122°psc",
+      "119°psc",
+      "108°psc"
+    ],
+    "question": "At 1400, your position is LAT 37°14.7'N, LONG 76°22.3'W. From this position, you head for the York River Entrance Channel Buoy \"17\".  What should you steer per standard magnetic compass for this heading?",
+    "answer": 0,
+    "number": 500313,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "York River Entrance Channel",
+      "Fish trap areas",
+      "the piloting channel for Mobjack Bay",
+      "New Point Comfort shoal area"
+    ],
+    "question": "At 1430, your position is LAT 37°12.8'N, LONG 76°17.7'W. At this time, you come left and steer 045°T.  This course will lead you through a channel bordered by yellow buoys. The dashed magenta lines between the buoys mark __________.",
+    "answer": 1,
+    "number": 500314,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1510",
+      "1504",
+      "1458",
+      "1452"
+    ],
+    "question": "From your 1430 fix, you order turns for 8 knots.  You steer 045°T and experience no set and drift.  At what time would you expect to have New Point Comfort Spit Light \"4\" abeam?",
+    "answer": 2,
+    "number": 500315,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "162°T",
+      "158°T",
+      "150°T",
+      "144°T"
+    ],
+    "question": "From your 1830 fix, you continue south on a course of 150°T turning RPMs for 6 knots.  You encounter a flood current in the direction of 330°T at 2 knots.  Adjusting your course for set and drift, which course would you steer to make good a course of 150°T while turning RPMs for 6 knots?",
+    "answer": 2,
+    "number": 500316,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 37°03.5'N, LONG 76°05.9'W",
+      "LAT 37°03.5'N, LONG 76°09.3'W",
+      "LAT 37°09.3'N, LONG 76°03.1'W",
+      "LAT 37°09.8'N, LONG 76°04.1'W"
+    ],
+    "question": "Determine your 1915 position using the following information obtained at 1915.  \n          Visual bearings \nCape Charles Light 107°pgc\nCape Henry Light   172°pgc \n \n          Radar Bearing and Range \nChesapeake Channel Tunnel South Light  189°pgc at 7.2 miles",
+    "answer": 2,
+    "number": 500317,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "156°",
+      "151°",
+      "139°",
+      "134°"
+    ],
+    "question": "From your 1915 fix you come right and steer a course of 200°T.  At 2000, your position is LAT 37°05.5'N, LONG 76°07.0'W.  Your intention is to pass through Chesapeake Channel.  If there are no set and drift, what course would you steer per standard magnetic compass to make good a course of 145°T?",
+    "answer": 0,
+    "number": 500318,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "190°T",
+      "183°T",
+      "164°T",
+      "156°T"
+    ],
+    "question": "At 2100, you have passed through the Chesapeake Bay Bridge and Tunnel and determine your position to be LAT 37°01.3'N, LONG 76°03.0'W.  The current is flooding in a direction of 303°T at 2.5 knots.  Adjusting your course for set and drift, which course would you steer while turning RPMs for 6 knots to make good a course of 175°T?",
+    "answer": 3,
+    "number": 500319,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "a pilotage area",
+      "a precautionary area",
+      "the Cape Henry Light red sector",
+      "chart 12222"
+    ],
+    "question": "At 2150, your position is LAT 36°57.2'N, LONG 76°01.3'W. In this position on the chart, you note a light magenta line running in a direction of 030°T.  This line indicates the limits of __________.",
+    "answer": 0,
+    "number": 500320,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "45 feet (13.7 meters)",
+      "36 feet (11.0 meters)",
+      "32 feet (9.8 meters)",
+      "28 feet (8.5 meters)"
+    ],
+    "question": "At 2200, you are in position LAT 36°57.5'N, LONG 76°02.5'W.  You intend to travel up the Thimble Shoals auxiliary Channel to Hampton Roads. According to the Coast Pilot, what is the depth of the auxiliary channel on either side of the main channel?",
+    "answer": 2,
+    "number": 500321,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2355",
+      "2344",
+      "2335",
+      "2324"
+    ],
+    "question": "From your 2200 fix, you steer course 288°T to travel up the Thimble Shoal North Auxiliary Channel.  If you are making good 6.0 knots, at what time would you expect to pass buoy \"18\" at the west end of the channel?  (There are no set and drift.)",
+    "answer": 1,
+    "number": 500322,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2258",
+      "2246",
+      "2240",
+      "2230"
+    ],
+    "question": "At 2205, you are in Thimble Shoal North Auxiliary Channel abeam of lighted gong buoy \"4\".  At this time the visibility decreases to 5 miles.  You continue to turn RPMs for 6 knots and experience no set and drift.  What time would you expect Old Point Comfort Light (white sector) to become visible?",
+    "answer": 2,
+    "number": 500323,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "3.3 feet (1.1 meters)",
+      "2.6 feet (0.8 meters)",
+      "1.2 feet (0.4 meters)",
+      "0.0"
+    ],
+    "question": "The mean high water level at Old Point Comfort is __________.",
+    "answer": 1,
+    "number": 500324,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "12263",
+      "12253",
+      "12248",
+      "12238"
+    ],
+    "question": "You are entering Norfolk Harbor and have just passed Craney Island.  Which chart should you use for your final approach into Norfolk Harbor?",
+    "answer": 1,
+    "number": 500325,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The depth of the water in your vicinity is about 38 to 40 fathoms (69.1 meters to 72.7 meters).",
+      "The closest major aid to navigation is  New Point Comfort.",
+      "You are less than a mile from a sunken wreck which could interfere with your tow.",
+      "You will pass through a disposal area on your present course."
+    ],
+    "question": "Your 0200 position is LAT 37°23.5'N, LONG 76°09.2'W. Your speed is 8 knots, and your course is 095°T.  Which statement is TRUE?",
+    "answer": 2,
+    "number": 500326,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "217°",
+      "211°",
+      "208°",
+      "203°"
+    ],
+    "question": "At 0315, you obtain the following loran readings:\n\n 9960-Y-41588.0\n 9960-X-27240.0\n\nWhat is the true course from this position to the entrance of York Spit Channel?",
+    "answer": 2,
+    "number": 500327,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0423",
+      "0417",
+      "0412",
+      "0405"
+    ],
+    "question": "From your 0315 position, what time can you expect to reach York Spit Channel Buoys \"37\" and \"38\"?",
+    "answer": 3,
+    "number": 500328,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "218°psc",
+      "216°psc",
+      "214°psc",
+      "212°psc"
+    ],
+    "question": "The engineer has advised that it will be necessary to secure the gyrocompass and the electronic equipment.  From your 0315 position, what is your course per standard magnetic compass to York Spit Channel Buoy \"38\", if there is no current?",
+    "answer": 1,
+    "number": 500329,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "12254",
+      "12226",
+      "12224",
+      "12222"
+    ],
+    "question": "Which chart could you use for greater detail of the area at the south end of York Spit Channel?",
+    "answer": 3,
+    "number": 500330,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0935",
+      "0910",
+      "0850",
+      "0830"
+    ],
+    "question": "You leave York Spit Channel at buoy \"14\" at 0600 with an engine speed of 12 knots.  You receive orders to rendezvous with the tug \"Quicksilver\" and her tow at Hog Island Bell Buoy \"12\".  What is your ETA at the rendezvous point, if you pass through Chesapeake Channel to buoy \"CBJ\", through the outbound traffic separation lane to buoy \"NCA\" (LL#375), and then to the rendezvous point?",
+    "answer": 1,
+    "number": 500331,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 37°15.0'N, LONG 75°37.5'W",
+      "LAT 37°16.0'N, LONG 75°38.0'W",
+      "LAT 37°17.0'N, LONG 75°39.5'W",
+      "LAT 37°19.0'N, LONG 75°40.5'W"
+    ],
+    "question": "You arrive at the rendezvous point, secure the tow, and head back southward.  At 1200, you take the following loran readings:\n\n 9960-Y-41534\n 9960-X-27114\n 9960-Z-58691\n\nWhat is your 1200 position?",
+    "answer": 0,
+    "number": 500332,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "221°psc",
+      "219°psc",
+      "217°psc",
+      "215°psc"
+    ],
+    "question": "From your noon position, if there is no set and drift, what is your course per standard magnetic compass to the \"NCA\" (LL #375) buoy?",
+    "answer": 2,
+    "number": 500333,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "250°",
+      "261°",
+      "265°",
+      "269°"
+    ],
+    "question": "Your gyro and electronic gear are again operating.  At 1710, Chesapeake Light bears 137°pgc at 6.6 miles.  The current is setting 160°T at 2 knots.  At your speed of 6 knots, what is your true course to steer to remain in the inbound traffic lane?",
+    "answer": 3,
+    "number": 500334,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 36°56.0'N, LONG 75°58.5'W",
+      "LAT 36°55.4'N, LONG 75°56.0'W",
+      "LAT 36°56.8'N, LONG 75°55.6'W",
+      "LAT 36°57.4'N, LONG 75°54.6'W"
+    ],
+    "question": "At 1810, you obtain the following loran readings:\n\n 9960-X-27158.0\n 9960-Y-41292.5\n 9960-Z-58546.9\n\nWhat is your position?",
+    "answer": 2,
+    "number": 500335,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "6.3 knots",
+      "5.5 knots",
+      "4.9 knots",
+      "4.2 knots"
+    ],
+    "question": "What speed have you made good from 1710 to 1810?",
+    "answer": 0,
+    "number": 500336,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1900",
+      "1855",
+      "1845",
+      "1833"
+    ],
+    "question": "If you make good a speed of 6.0 knots from your 1810 position, what is your ETA at Chesapeake Channel Lighted Bell Buoy \"2C\"?",
+    "answer": 3,
+    "number": 500337,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Slack before ebb",
+      "Slack before flood",
+      "Flood current",
+      "Ebb current"
+    ],
+    "question": "You passed Cape Henry Light at 0730 outbound at maximum flood.  What approximate current can you expect on entering Chesapeake Channel?",
+    "answer": 2,
+    "number": 500338,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "rocky with pine scrubs",
+      "low wetlands",
+      "sandy hills about eighty feet high",
+      "low and thinly wooded with many beach houses"
+    ],
+    "question": "The coastline by Cape Henry is best described as __________.",
+    "answer": 2,
+    "number": 500339,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "alternate regardless of your position",
+      "change after you reach Chesapeake Channel Lighted Bell Buoy \"2C\"",
+      "remain the same",
+      "change before you reach Chesapeake Channel Lighted Bell Buoy \"2C\""
+    ],
+    "question": "Inbound, the color of Cape Henry Light will __________.",
+    "answer": 3,
+    "number": 500340,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 37°20.9'N, LONG 76°07.7'W",
+      "LAT 37°21.0'N, LONG 76°08.1'W",
+      "LAT 37°21.1'N, LONG 76°07.9'W",
+      "LAT 37°21.2'N, LONG 76°08.2'W"
+    ],
+    "question": "At 0410, you take the following bearings:\n\nNew Point Comfort Light \"2\"           242°T  \nWolf Trap Light                               313°T  \nHorn Harbor Entrance Light \"HH\"  262°T  \n\nWhat is your 0410 position?",
+    "answer": 1,
+    "number": 500356,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "09 miles",
+      "11 miles",
+      "13 miles",
+      "15 miles"
+    ],
+    "question": "If the visibility is 5 miles and you are in the red sector, at what distance off should you sight Cape Henry Light?",
+    "answer": 0,
+    "number": 500357,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "152°",
+      "156°",
+      "176°",
+      "178°"
+    ],
+    "question": "From your 0410 fix, what is the course per standard magnetic compass to the entrance to York Spit Channel between buoys \"37\" and \"38\"?",
+    "answer": 2,
+    "number": 500358,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "203°T",
+      "197°T",
+      "194°T",
+      "191°T"
+    ],
+    "question": "You are turning for 9 knots, a westerly wind is causing 3°\nof leeway, and the current is 320°T at 1.2 knots.  What true course should you steer to remain in the northern leg of York Spit Channel?",
+    "answer": 2,
+    "number": 500359,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0522",
+      "0508",
+      "0456",
+      "0448"
+    ],
+    "question": "If you are making 8.3 knots over the ground, what is your ETA at the first turning point in York Spit Channel between buoys \"29\" and \"30\"?",
+    "answer": 0,
+    "number": 500360,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Coast Pilot",
+      "Light List",
+      "Chesapeake Bay Harbor- master's Regulations Manual",
+      "Navigator's Manual - Chesapeake Bay"
+    ],
+    "question": "Which publication contains the specific information about navigating in York Spit Channel?",
+    "answer": 0,
+    "number": 500361,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "193°pgc",
+      "190°pgc",
+      "187°pgc",
+      "185°pgc"
+    ],
+    "question": "At 0530, the Coast Guard announces that Chesapeake Channel is closed indefinitely due to a collision occurring in the channel between Trestle \"B\" and \"C\" of the Chesapeake Bay Bridge and Tunnel.  You exit York Spit Channel, leaving buoy \"20\" abeam to port at 0.1 mile, and alter course to leave Horseshoe Crossing Lighted Bell Buoy abeam to port at 0.2 mile.  What is the course per gyrocompass?",
+    "answer": 0,
+    "number": 500362,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Thimble Shoal Main Channel or the South Auxiliary Channel",
+      "Any of the channels but keep to the right hand side",
+      "Thimble Shoal Main Channel",
+      "The South Auxiliary Channel"
+    ],
+    "question": "After you enter Thimble Shoal Channel, you will alter course to pass between Trestle \"A\" and \"B\".  Which channel should you use?",
+    "answer": 3,
+    "number": 500363,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2°E",
+      "0°E",
+      "1°W",
+      "2°W"
+    ],
+    "question": "As you pass through the Chesapeake Bay Bridge and Tunnel, you sight Trestle \"A\" in line bearing 198°pgc.  What is the gyro error?",
+    "answer": 3,
+    "number": 500364,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "9.4 knots",
+      "9.2 knots",
+      "8.8 knots",
+      "8.3 knots"
+    ],
+    "question": "You sighted Trestle \"A\" in line at 0707 and are steering 108°T.  At 0731, Cape Henry Light bears 136°T; Cape Charles Light bears 032.5°T; and Thimble Shoal Tunnel South Light bears 282°T.  What was the speed made good between 0707 and 0731?",
+    "answer": 2,
+    "number": 500365,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "26 feet (7.9 meters)",
+      "31 feet (9.4 meters)",
+      "48 feet (14.5 meters)",
+      "54 feet (16.4 meters)"
+    ],
+    "question": "At 0731, approximately how much water is under your keel?",
+    "answer": 1,
+    "number": 500366,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "486 miles",
+      "402 miles",
+      "363 miles",
+      "339 miles"
+    ],
+    "question": "What is the distance from your 0731 fix to Wilmington, N.C.  (LAT 34°14.0'N, LONG 77°57.0'W)?",
+    "answer": 3,
+    "number": 500367,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "you cross the territorial sea boundary line",
+      "abeam of buoy \"CBJ\"",
+      "Cape Charles Light bears 022°T",
+      "you cross the boundary of the contiguous zone"
+    ],
+    "question": "You will enter waters governed by the International Rules when __________.",
+    "answer": 2,
+    "number": 500368,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 36°53.7'N, LONG 75°56.0'W",
+      "LAT 36°53.8'N, LONG 75°56.1'W",
+      "LAT 36°54.6'N, LONG 75°55.8'W",
+      "LAT 36°55.2'N, LONG 75°55.4'W"
+    ],
+    "question": "At 0812, you take the following loran readings:\n\n 9960-X-27155.2\n 9960-Y-41267.9\n 9960-Z-58537.8\n\nWhat is your 0812 position?",
+    "answer": 2,
+    "number": 500369,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The deviation table is correct for that heading.",
+      "You should adjust the magnetic compass.",
+      "The deviation is increasing as you go south.",
+      "Your compass may be influenced by a local magnetic disturbance."
+    ],
+    "question": "At 0812, you are on course 132°T.  The standard magnetic compass reads 135°.  What should you conclude?",
+    "answer": 3,
+    "number": 500370,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "129°pgc",
+      "123°pgc",
+      "117°pgc",
+      "109°pgc"
+    ],
+    "question": "At 1540, your position is LAT 37°18.4'N, LONG 76°10.5'W. Which course should you steer per gyrocompass to head for the entrance to Cape Charles City?",
+    "answer": 0,
+    "number": 500381,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 37°10.3'N, LONG 76°04.5'W",
+      "LAT 37°10.3'N, LONG 76°06.5'W",
+      "LAT 37°12.3'N, LONG 76°06.5'W",
+      "LAT 37°12.3'N, LONG 76°04.4'W"
+    ],
+    "question": "You arrive at Cape Charles City at 1700 and depart at 1800.   You are underway in Chesapeake Bay and encounter heavy fog.  At 1830, you obtain the following Loran-C readings:\n\n 9960-X-27224\n 9960-Y-41456\n 9960-Z-58572\n\nWhat is your 1830 position?",
+    "answer": 3,
+    "number": 500382,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "12224",
+      "12241",
+      "12245",
+      "12256"
+    ],
+    "question": "Your cargo vessel is berthed near Lamberts Point in Norfolk.  You are on a voyage to Baltimore, Maryland.  Which larger scale chart should you use to show the area from Lamberts Point to Hampton Roads?",
+    "answer": 2,
+    "number": 500566,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "11.2 miles",
+      "10.6 miles",
+      "9.8 miles",
+      "9.0 miles"
+    ],
+    "question": "What is the distance from Lamberts Point to abeam of Thimble Shoal Lt. following the navigable channel?",
+    "answer": 0,
+    "number": 500567,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "PUB 117",
+      "Coast Pilot",
+      "Light List",
+      "Chart Number 1"
+    ],
+    "question": "You are delayed in sailing due to engineering problems. You get underway at 0630.  A Coast Guard radio broadcast advises that an aircraft carrier will transit the Elizabeth River enroute Norfolk Naval Shipyard and a safety zone is in effect.  Further information on how far you must remain from the carrier found is in __________.",
+    "answer": 1,
+    "number": 500568,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 36°59.8'N, LONG 76°18.0'W",
+      "LAT 36°59.5'N, LONG 76°18.4'W",
+      "LAT 36°59.0'N, LONG 76°19.6'W",
+      "LAT 36°55.5'N, LONG 76°18.6'W"
+    ],
+    "question": "At 0823, Old Point Comfort Light bears 000°T at 0.6 mile. What is your 0823 position?",
+    "answer": 1,
+    "number": 500569,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The South Auxiliary Channel or Thimble Shoal Channel, but you must remain on the right hand side of the channel.",
+      "The South Auxiliary Channel since your draft is less than 25 feet (7.6 meters) and you are not a passenger vessel.",
+      "The North Auxiliary Channel since you are going to turn to a northerly heading near buoy \"12\".",
+      "You are not permitted to use any of the channels, but must remain outside the buoyed channel line."
+    ],
+    "question": "At 0845, you are approaching the entrances to Thimble Shoal Channel.  What channel must you use?",
+    "answer": 1,
+    "number": 500571,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "359°",
+      "021°",
+      "017°",
+      "003°"
+    ],
+    "question": "At 0908, you change course to 010°T.  What course should you steer per standard magnetic compass?",
+    "answer": 1,
+    "number": 500572,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "010°pgc",
+      "008°pgc",
+      "004°pgc",
+      "001°pgc"
+    ],
+    "question": "Visibility has decreased to 1 mile in haze.  At 0948, you take the following radar ranges.  What course should you steer from this fix to the York Spit channel between buoys \"19\" and \"20\"?\n\nThimble Shoal Light - 5.9 miles  South end of trestle C of the Chesapeake Bay Bridge  and Tunnel - 3.8 miles  South end of trestle B of the Chesapeake Bay Bridge  and Tunnel - 5.4 miles",
+    "answer": 0,
+    "number": 500573,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0959",
+      "1002",
+      "1004",
+      "1006"
+    ],
+    "question": "If you are making 10 knots, what is your ETA at York Spit Channel Buoys \"19\" and \"20\"?",
+    "answer": 3,
+    "number": 500574,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "341°",
+      "339°",
+      "322°",
+      "319°"
+    ],
+    "question": "What is the course per standard magnetic compass on the southern leg of York Spit Channel between buoys \"15\" and \"23\"?",
+    "answer": 1,
+    "number": 500575,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "You are crossing the demarcation line between the COLREGS and the Inland Rules.",
+      "The line indicates a submarine cable, and you should not anchor in the area.",
+      "The line marks the limits of a regulated area.",
+      "It marks the range between Ft. Wool Light and Cape Charles Harbor Range, Rear Light."
+    ],
+    "question": "What is indicated by the dashed magenta line crossing York Spit Channel between buoys \"20\" and \"22\"?",
+    "answer": 2,
+    "number": 500576,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "14 hours 44 minutes",
+      "14 hours 38 minutes",
+      "14 hours 30 minutes",
+      "14 hours 22 minutes"
+    ],
+    "question": "At 1015, you estimate you have 139 miles to complete the voyage.  If you average 9.5 knots, you will complete the voyage in __________.",
+    "answer": 1,
+    "number": 500577,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "9.9 knots",
+      "9.7 knots",
+      "9.0 knots",
+      "8.4 knots"
+    ],
+    "question": "At 1008, you are entering York Spit Channel and buoy \"19\" is abeam to your starboard.  What speed are you making good?",
+    "answer": 2,
+    "number": 500578,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Not less than 9960-X-27246",
+      "Not more than 9960-Y-41595",
+      "Not less than 9960-Y-41595",
+      "Not less than 9960-Z-58622"
+    ],
+    "question": "Which loran line of position will serve as a danger reading on the loran to keep you west of the submerged obstruction at LAT 37°24.2'N, LONG 76°03.7'W, after you leave York Spit Channel?",
+    "answer": 0,
+    "number": 500579,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 37°15.9'N, LONG 76°07.9'W",
+      "LAT 37°15.9'N, LONG 76°07.7'W",
+      "LAT 37°16.1'N, LONG 76°07.4'W",
+      "LAT 37°16.3'N, LONG 76°07.2'W"
+    ],
+    "question": "At 1037, you are on course 010°T at 10 knots, when you take the following loran readings:\n 9960-X-27243.8\n 9960-Y-41497.6\n 9960-Z-58575.9\n\nWhat is your 1037 position?",
+    "answer": 2,
+    "number": 500580,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "358°, 0.7 knot",
+      "358°, 0.5 knot",
+      "178°, 0.7 knot",
+      "178°, 0.5 knot"
+    ],
+    "question": "At 1119, Wolf Trap Light bears 268°T at 4.4 miles by radar.  What were the set and drift since your 1037 fix?",
+    "answer": 0,
+    "number": 500581,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "216°T",
+      "219°T",
+      "222°T",
+      "225°T"
+    ],
+    "question": "From your 2129 position you reduce engine speed to 14 knots.  What is the course to make good from your 2129 position to arrive 0.3 mile north of Lighted Whistle Buoy \"NCA\" (LL#375) assuming no set and drift?",
+    "answer": 2,
+    "number": 501642,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2242",
+      "2245",
+      "2247",
+      "2250"
+    ],
+    "question": "From your 2207 position you adjust your course to arrive 0.3 mile north of Lighted Whistle Buoy \"NCA\". If you make good 14 knots, at what time will Cape Charles Light be abeam?",
+    "answer": 0,
+    "number": 501644,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The light is visible at 2118.",
+      "2155",
+      "2220",
+      "2232"
+    ],
+    "question": "From your 2118 position, you steer a course of 288°T at an engine speed of 7.0 knots.  Visibility is suddenly reduced to 2 miles.  At what time can you expect to see Old Point Comfort Light?",
+    "answer": 3,
+    "number": 502100,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Your fathometer reads 47 feet.",
+      "You are in a danger area.",
+      "Chesapeake Light is due south of you.",
+      "You are north of Smith Island Shoal."
+    ],
+    "question": "You continue on course from your 1126 fix.  At 1131 Cape Charles Light bears 322°T.  At 1135 you change course to 000°T.  At 1149 Cape Henry Light bears 247°T.  Which statement concerning your 1149 running fix is TRUE?",
+    "answer": 1,
+    "number": 506446,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "5.9 knots",
+      "7.5 knots",
+      "8.2 knots",
+      "9.8 knots"
+    ],
+    "question": "At 1010 your vessel passes close abeam to Buoy \"NCB\" in the inbound traffic lane.  At this time the Chesapeake Bay Pilot informs you that he will not board your vessel until 1100.  The pilot boat is located 1.5 miles northeast of Cape Henry Light.  What should you reduce your speed to in order to arrive at the pilot boat at this time?",
+    "answer": 2,
+    "number": 506844,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "a precautionary area",
+      "a pilotage area",
+      "the Cape Henry Light red sector",
+      "chart 12222"
+    ],
+    "question": "At 2150, your position is LAT 36°57.2'N, LONG 76°01.3'W. In this position on the chart, you note a light magenta line running in a direction of 030°T.  This line indicates the limits of __________.",
+    "answer": 1,
+    "number": 514515,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2239",
+      "2255",
+      "2315",
+      "2344"
+    ],
+    "question": "From your 2200 fix, you steer course 288°T to travel up the Thimble Shoal North Auxiliary Channel.  If you are making good 6.0 knots, at what time would you expect to pass buoy \"18\" at the west end of the channel?  (There are no set and drift.)",
+    "answer": 3,
+    "number": 514517,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 37°21.5'N,  LONG 75°34.8'W",
+      "LAT 37°22.4'N,  LONG 75°34.9'W",
+      "LAT 37°22.6'N,  LONG 75°35.7'W",
+      "LAT 37°22.9'N,  LONG 75°36.2'W"
+    ],
+    "question": "You are on course 192°pgc at 12 knots.  You obtain a loran fix at 1900 using the following information:\n\n 9960-X-27120\n 9960-Y-41623\n 9960-Z-58729\n\n What is your latitude and longitude at 1900?",
+    "answer": 2,
+    "number": 515006,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "188°psc",
+      "195°psc",
+      "203°psc",
+      "205°psc"
+    ],
+    "question": "What course should you steer using the standard magnetic compass (psc) to make good the course of 192°pgc?",
+    "answer": 2,
+    "number": 515007,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "an interrupted quick flashing buoy",
+      "Hog Island Lighted Bell Buoy",
+      "South Light Buoy",
+      "Sand Shoal Inlet Lighted Buoy \"A\""
+    ],
+    "question": "At 1920, the buoy forward of your starboard beam is __________.",
+    "answer": 3,
+    "number": 515008,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "30 feet ( 9.1 meters)",
+      "40 feet (12.1 meters)",
+      "50 feet (15.1 meters)",
+      "60 feet (18.1 meters)"
+    ],
+    "question": "At 1930, your position is LAT 37°16.7'N, LONG 75°37.7'W. The depth of water is approximately __________.",
+    "answer": 2,
+    "number": 515009,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "150°T at 0.6 knot",
+      "150°T at 1.6 knots",
+      "330°T at 0.6 knot",
+      "330°T at 1.6 knots"
+    ],
+    "question": "At 1950, your position is LAT 37°12.3'N, LONG 75°38.6'W. The set and drift from 1930 to 1950 were __________.",
+    "answer": 1,
+    "number": 515010,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0.1 mile",
+      "0.5 mile",
+      "1.1 mile",
+      "1.7 miles"
+    ],
+    "question": "Assume set and drift have no effect on your vessel.  If you change course to 187°pgc from your 1950 position, how close will you pass Cape Charles Lighted Bell Buoy \"14\"?",
+    "answer": 2,
+    "number": 515011,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "75°38.9'W",
+      "75°39.1'W",
+      "75°39.3'W",
+      "75°40.5'W"
+    ],
+    "question": "At 2020, you obtain a fix using the following information:\n\n 9960-X-27112\n 9960-Y-41432\n\n Cape Charles Lighted Bell Buoy \"14\" bears 333°pgc.  Your longitude is __________.",
+    "answer": 3,
+    "number": 515012,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "227°pgc",
+      "224°pgc",
+      "221°pgc",
+      "215°pgc"
+    ],
+    "question": "At 2020, what is the course to steer to enter the inbound lane of North Chesapeake Entrance traffic separation scheme if a northwesterly wind causes 3° of leeway?",
+    "answer": 2,
+    "number": 515013,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2116",
+      "2111",
+      "2106",
+      "2101"
+    ],
+    "question": "If you make good 12 knots, what is the ETA at North Chesapeake Channel Entrance Buoy \"NCA\" (LL #375)?",
+    "answer": 1,
+    "number": 515014,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "37°00.0'N",
+      "36°59.7'N",
+      "36°59.4'N",
+      "36°59.1'N"
+    ],
+    "question": "At 2100, Cape Charles Light bears 321°pgc, and Cape Henry Light bears 247°pgc.  Your latitude is __________.",
+    "answer": 2,
+    "number": 515015,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The light has never been visible.",
+      "6.4 miles",
+      "8.3 miles",
+      "12.1 miles"
+    ],
+    "question": "If the visibility is 3 miles, at what range will you lose sight of Chesapeake Light?",
+    "answer": 2,
+    "number": 515016,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "a precautionary area centered on buoy \"CBJ\"",
+      "a pilotage area",
+      "an area with local magnetic disturbances",
+      "in inland waters"
+    ],
+    "question": "At 2100, you alter course to 250°T and reduce speed to 7 knots.  You enter the traffic separation scheme on the inbound side.  At 2200, your fix shows you crossing a broken purple line on the chart, and you observe North Chesapeake Entrance Lighted Gong Buoy \"NCD\" to port.  This area is __________.",
+    "answer": 0,
+    "number": 515017,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "240°psc",
+      "246°psc",
+      "257°psc",
+      "260°psc"
+    ],
+    "question": "What course per standard magnetic compass (psc) is the same as 247°pgc?",
+    "answer": 2,
+    "number": 515018,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "280°",
+      "332°",
+      "014°",
+      "017°"
+    ],
+    "question": "At 2215, Cape Henry Light bears 242°pgc, Cape Charles Light bears 010.5°pgc, and Chesapeake Channel Tunnel North Light bears 319°pgc.  You are heading 271°pgc.  What is the relative bearing of Thimble Shoal Light?",
+    "answer": 2,
+    "number": 515019,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "navigate in the main channel when between Trestles A & B",
+      "maintain a minimum speed of 6 knots",
+      "remain 1500 yards (1360 meters) from large naval vessels",
+      "use the north auxiliary channel"
+    ],
+    "question": "While navigating inbound in the Thimble Shoal Channel system you must __________.",
+    "answer": 3,
+    "number": 515020,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "37°20.4'N 75°30.2'W",
+      "37°20.8'N 75°29.9'W",
+      "37°21.3'N 75°29.5'W",
+      "37°21.2'N 75°30.4'W"
+    ],
+    "question": "At 0705 you obtained the following Loran readings:\n\n 9960-X-27091.2\n 9960-Y-41612.8\n 9960-Z-58744.2\n\n What is your vessel's position?",
+    "answer": 1,
+    "number": 515038,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0750",
+      "0754",
+      "0758",
+      "0802"
+    ],
+    "question": "At 0725 you determined your vessel's position to be 37°15.5'N, 75°33.2'W.  Assuming that you make good your course of 206° true and a speed of 18 knots, at what time would you expect to be abeam of Cape Charles Lighted Bell Buoy \"14\"?",
+    "answer": 2,
+    "number": 515039,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0729",
+      "0733",
+      "0738",
+      "0742"
+    ],
+    "question": "At about what time will you see Chesapeake Light if visibility is exceptionally clear?",
+    "answer": 0,
+    "number": 515040,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "259°true at 3.2 knots",
+      "049°true at 2.5 knots",
+      "240° true at 1.9 knots",
+      "042°true at 3.3 knots"
+    ],
+    "question": "At 0741 you are still steering a course of 206° true, with a speed of 18 knots.  At this time you observe Cape Charles Lighted Bell Buoy \"14\" bearing 222° true, Hog Island Lighted Bell Buoy \"12\" bearing 015° true and the Loran reading 9960-Z-58677.3.  What were the set and drift experienced since 0725?",
+    "answer": 0,
+    "number": 515041,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "179°true",
+      "185°true",
+      "190° true",
+      "197°true"
+    ],
+    "question": "From your 0741 position, you wish to change course in order to pass 2.2 miles easterly of Cape Charles Lighted Bell Buoy \"14\". Your engine speed is now 14.0 knots.  You estimate the current to be 240° true at 1.8 knots.  What is the true course to steer to make good the desired course?",
+    "answer": 2,
+    "number": 515042,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0826",
+      "0831",
+      "0837",
+      "0846"
+    ],
+    "question": "At 0811 your vessel's position is 37°04.9'N, 75°39.7'W. You are steering a course of 220° true at a speed of 14.0 knots.  At what time would you expect the buoys in the northeasterly traffic scheme to line up, if you do not correct for a southwesterly current of 1.8 knots?",
+    "answer": 2,
+    "number": 515043,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "226°true",
+      "230°true",
+      "233° true",
+      "237°true"
+    ],
+    "question": "At 0841 Chesapeake Light bears 164° true, Cape Charles Light bears 312° true, and Cape Henry Light bears 247°\ntrue.  What was your course made good since 0811?",
+    "answer": 0,
+    "number": 515044,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0850",
+      "0855",
+      "0901",
+      "0911"
+    ],
+    "question": "From your 0841 position, you are steering a course of 241°\ntrue to the northeasterly inbound channel entrance, your speed is now 15 knots.  What is your ETA abeam of buoy \"NCA\" (LL#375)?",
+    "answer": 1,
+    "number": 515045,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "3°E",
+      "1°E",
+      "1°W",
+      "9°W"
+    ],
+    "question": "As you pass through the Chesapeake Bay Bridge and Tunnel,\nyou take a bearing of 047°pgc along trestle C when it is in line.  The helmsman reports the vessel's heading as 316°\npgc and 329°psc.  What is the deviation on that heading?",
+    "answer": 2,
+    "number": 515046,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "147.45 MHz",
+      "162.55 MHz",
+      "181.15 MHz",
+      "202.35 MHz"
+    ],
+    "question": "The National Weather Service provides 24 hour weather broadcasts to vessels transiting the Chesapeake Bay Bridge Tunnel area on which frequency?",
+    "answer": 1,
+    "number": 515106,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "north northwest",
+      "south southwest",
+      "east southeast",
+      "east"
+    ],
+    "question": "At 1752, your position is LAT 37°04.3'N, LONG 76°06.4'W. On a flood current you should expect to be set to the __________.",
+    "answer": 0,
+    "number": 515107,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "less than 0.5 mile westward of York Spit Channel",
+      "less than 0.5 mile eastward of York Spit Channel",
+      "greater than 0.5 mile westward of York Spit Channel",
+      "greater than 0.5 mile eastward of York Spit Channel"
+    ],
+    "question": "Your 1752 position places you __________.",
+    "answer": 0,
+    "number": 515108,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0.6 knot",
+      "0.9 knot",
+      "1.3 knots",
+      "1.6 knots"
+    ],
+    "question": "What is the average velocity of the maximum flood current at the Tail of the Horseshoe?",
+    "answer": 1,
+    "number": 515109,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 37°06.1'N,  LONG 76°08.1'W",
+      "LAT 37°06.0'N,  LONG 76°08.4'W",
+      "LAT 37°05.9'N,  LONG 76°07.7'W",
+      "LAT 37°05.9'N,  LONG 76°08.0'W"
+    ],
+    "question": "From your 1752 position, you steer 307°pgc at 9 knots.  At 1805, you obtain the following visual bearings:  \n\n Old Pt. Comfort Light                          232°pgc.\n Chesapeake Bay Tunnel North Light 130°pgc.\n\nWhat are the latitude and longitude of you 1805 position?",
+    "answer": 3,
+    "number": 515110,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "a submerged obstruction in York Spit Channel",
+      "the visibility limit of the red sector of Cape Henry Light",
+      "the side of York Spit Channel",
+      "the junction of the York Spit and York River Entrance Channels"
+    ],
+    "question": "At 1810, you sight a buoy on your starboard side labeled \"19\".\n This buoy marks __________.",
+    "answer": 2,
+    "number": 515111,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "enter a traffic separation zone",
+      "depart a regulated area",
+      "cross a submerged pipeline",
+      "depart a restricted area"
+    ],
+    "question": "Based on a DR, at approximately 1817 you would expect to __________.",
+    "answer": 1,
+    "number": 515112,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "37°10.7'N",
+      "37°10.9'N",
+      "37°11.0'N",
+      "37°11.2'N"
+    ],
+    "question": "At 1845, you obtain a loran fix using the following information:\n\n 9960-X-27252.0\n 9960-Y-41432.0\n 9960-Z-58537.5\n\n Your latitude is __________.",
+    "answer": 3,
+    "number": 515113,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "331°psc",
+      "329°psc",
+      "311°psc",
+      "309°psc"
+    ],
+    "question": "Your 1900 position is LAT 37°12.9'N, LONG 76°13.5'W.  You change course to 317°pgc and slow to 8.0 knots.  What is the course per standard magnetic compass?",
+    "answer": 1,
+    "number": 515114,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0.5 mile",
+      "3.8 miles",
+      "4.3 miles",
+      "5.0 miles"
+    ],
+    "question": "If the visibility is 11 miles, what is the luminous range of New Point Comfort Spit Light \"4\"?",
+    "answer": 3,
+    "number": 515115,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0.9 mile",
+      "1.2 miles",
+      "1.5 miles",
+      "1.8 miles"
+    ],
+    "question": "According to your track line, how far off New Point Comfort Spit Light \"4\" will you be when abeam of this light?",
+    "answer": 0,
+    "number": 515116,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "76°16.5'W",
+      "76°16.8'W",
+      "76°17.0'W",
+      "76°17.2'W"
+    ],
+    "question": "At 1930, you take a fix using the following radar ranges:\n\n York Spit Light -                                 3.6 miles\n New Point Comfort Spit Light \"2\"  -    2.0 miles\n York Spit Swash Channel Light \"3\" - 2.5 miles\n\n Your longitude is __________.",
+    "answer": 1,
+    "number": 515117,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "6.2 knots",
+      "7.5 knots",
+      "8.3 knots",
+      "9.4 knots"
+    ],
+    "question": "What was the speed made good from 1845 to 1930?",
+    "answer": 2,
+    "number": 515118,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "6 feet (1.8 meters)",
+      "15 feet (4.6 meters)",
+      "17 feet (5.2 meters)",
+      "24 feet (7.3 meters)"
+    ],
+    "question": "What is the height above water of Davis Creek Channel Light \"1\"?",
+    "answer": 1,
+    "number": 515119,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "5.7 knots",
+      "6.1 knots",
+      "6.5 knots",
+      "6.9 knots"
+    ],
+    "question": "If you have 17.3 miles to reach your destination from your 2000 position and want to be there at 2230, what speed should you make good?",
+    "answer": 3,
+    "number": 515120,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "38 feet (11.5 meters)",
+      "45 feet (13.6 meters)",
+      "52 feet (15.8 meters)",
+      "59 feet (17.3 meters)"
+    ],
+    "question": "Your 1600 position is LAT 37°22.5'N, LONG 75°32.3'W.  The depth of water is about __________.",
+    "answer": 2,
+    "number": 515156,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "190°pgc",
+      "193°pgc",
+      "196°pgc",
+      "199°pgc"
+    ],
+    "question": "If there is no current, what is the course per gyro compass from your 1600 position to point \"A\" located 0.5 mile due east of Hog Island Lighted Bell Buoy \"12\"?",
+    "answer": 3,
+    "number": 515157,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "067°T at 1.1 knots",
+      "067°T at 1.5 knots",
+      "247°T at 1.1 knots",
+      "247°T at 1.6 knots"
+    ],
+    "question": "At 1630, you reach point \"A\" and come right to 204°T. Your engine speed is 12 knots.  Your 1715 position is LAT 37°09.8'N, LONG 75°37.4'W.  The current was __________.",
+    "answer": 1,
+    "number": 515158,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 37°02.8'N,  LONG 75°43.9'W",
+      "LAT 37°02.9'N,  LONG 75°43.1'W",
+      "LAT 37°03.0'N,  LONG 75°43.3'W",
+      "LAT 37°03.1'N,  LONG 75°42.8'W"
+    ],
+    "question": "From your 1715, fix you steer 214°T at 12 knots.  At 1800,\nyou take the following Loran-C readings:\n\n 9960 - X - 27116.8\n 9960 - Y - 41386.0\n 9960 - Z - 58620.6\n\n Your 1800 position is __________.",
+    "answer": 1,
+    "number": 515159,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "249.0°psc",
+      "251.5°psc",
+      "255.0°psc",
+      "257.0°psc"
+    ],
+    "question": "At 1815, your position is LAT 37°01.0'N, LONG 75°42.7'W.  If there is no current, what is the course per standard magnetic compass to arrive at a point 0.3 mile due north of North Chesapeake Entrance Lighted Whistle Buoy \"NCA\"?",
+    "answer": 3,
+    "number": 515160,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1851",
+      "1857",
+      "1904",
+      "1911"
+    ],
+    "question": "From your 1815 position, you want to make good course 263°\nT.  Your engines are turning RPMs for 12 knots.  The current is 050°T at 1.9 knots.  Adjusting your course for set and drift, at what time should you expect to enter the red sector of Cape Henry Light?",
+    "answer": 2,
+    "number": 515161,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "213°",
+      "201°",
+      "194°",
+      "179°"
+    ],
+    "question": "At 1920, Cape Henry Light bears 231°pgc, and Chesapeake Channel Tunnel North Light bears 294°pgc.  If your heading is 268°T, what is the relative bearing of Chesapeake Light?",
+    "answer": 0,
+    "number": 515162,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "You are entering a restricted area.",
+      "You are governed by the Inland Rules of the Road.",
+      "You are within the Chesapeake Bay Entrance traffic separation scheme.",
+      "On your present course Trestle \"C\" of the Chesapeake Bay Bridge - Tunnel is dead ahead."
+    ],
+    "question": "Which statement concerning your 1920 position is TRUE?",
+    "answer": 0,
+    "number": 515163,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "271°pgc",
+      "274°pgc",
+      "277°pgc",
+      "280°pgc"
+    ],
+    "question": "From your 1920 position, you change course to enter Chesapeake Channel between buoys 9 and 10.  What is the course per gyrocompass?",
+    "answer": 2,
+    "number": 515164,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "006°T",
+      "014°T",
+      "020°T",
+      "028°T"
+    ],
+    "question": "At 2000, your position is LAT 37°04.1'N, LONG 76°05.6'W. You change course for the Eastern Shore.  At 2037, Old Plantation Flats Light bears 033°pgc, and York Spit Light bears 282°pgc.  The course made good from your 2000 position was __________.",
+    "answer": 0,
+    "number": 515165,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "022°psc",
+      "025°psc",
+      "028°psc",
+      "031°psc"
+    ],
+    "question": "At 2037, you change course and wish to make good a course of 016°T.  There is no current, but an easterly wind is causing 3° leeway.  What course per standard magnetic compass should you steer to make good the course 016°T?",
+    "answer": 2,
+    "number": 515166,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "8.2 miles",
+      "12.0 miles",
+      "16.0 miles",
+      "17.0 miles"
+    ],
+    "question": "Your height of eye is 25 feet (7.6 meters).  If the visibility is 11 nautical miles, what is the luminous range of Wolf Trap Light?",
+    "answer": 1,
+    "number": 515167,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "12238",
+      "12225",
+      "12224",
+      "12222"
+    ],
+    "question": "Which chart provides more detail of Cape Charles harbor and its approaches?",
+    "answer": 2,
+    "number": 515168,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1.7 miles",
+      "2.5 miles",
+      "3.6 miles",
+      "10.9 miles"
+    ],
+    "question": "At 2123, your position is LAT 37°20.0'N, LONG 76°03.0'W. What is your distance offshore of Savage Neck?",
+    "answer": 0,
+    "number": 515169,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2359",
+      "0037",
+      "0112",
+      "0149"
+    ],
+    "question": "From your 2123 position, you are approximately 42 miles from Crisfield, MD.  If you are making good a speed of 11 knots, at what time should you arrive at Crisfield, MD?",
+    "answer": 2,
+    "number": 515170,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2.6 miles",
+      "2.8 miles",
+      "3.0 miles",
+      "3.2 miles"
+    ],
+    "question": "At 1730, your position is LAT 37°13.9'N, LONG 76°26.4'W. You are steering course 088° per standard magnetic compass (psc) at an engine speed of 8.0 knots.  What is your distance off Tue Marshes Light at 1730?",
+    "answer": 0,
+    "number": 515206,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "6 knots",
+      "8 knots",
+      "10 knots",
+      "12 knots"
+    ],
+    "question": "What is the maximum allowable speed of vessels underway up river from Tue Marshes Light?",
+    "answer": 3,
+    "number": 515207,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "072°T",
+      "075°T",
+      "078°T",
+      "080°T"
+    ],
+    "question": "At 1750, your position is LAT 37°14.5'N, LONG 76°22.9'W. What was the course made good between 1730 and 1750?",
+    "answer": 2,
+    "number": 515208,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 37°15.5'N,  LONG 76°19.8'W",
+      "LAT 37°15.2'N,  LONG 76°20.3'W",
+      "LAT 37°15.0'N,  LONG 76°20.0'W",
+      "LAT 37°14.5'N,  LONG 76°20.1'W"
+    ],
+    "question": "At 1800, Tue Marshes Light bears 264.5°pgc, York Spit Swash Channel Light \"3\" bears 007°pgc.  Your position is __________.",
+    "answer": 3,
+    "number": 515209,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "139°psc",
+      "141°psc",
+      "147°psc",
+      "149°psc"
+    ],
+    "question": "What course should you steer per standard magnetic compass in order to navigate down the center of York River Entrance Channel (ignore set and drift)?",
+    "answer": 1,
+    "number": 515210,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Mobjack Bay Entrance Light",
+      "New Point Comfort Shoal Light",
+      "York Spit Light",
+      "York River Entrance Channel Light \"1\""
+    ],
+    "question": "You have just passed York River Entrance Channel Lighted Buoys \"13\" and \"14\".  The chart shows a light approximately 1.0 mile off your port beam with a light characteristic \"Fl 6 sec\".  What is the name of this light?",
+    "answer": 2,
+    "number": 515211,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "127° at 1.1 knot",
+      "127° at 0.5 knot",
+      "307° at 1.1 knot",
+      "307° at 0.5 knot"
+    ],
+    "question": "At 1930, your vessel is between York River Entrance Channel Lighted Buoys \"1YR\" and \"2\".  From this position, you change course to 142°pgc at an engine speed of 8.0 knots. At 2001, you obtain the following information: \n Chesapeake Channel Tunnel North Light - 131°pgc;\n Thimble Shoal Light -                                  248°pgc  \n\nWhat were the set and drift between 1930 and 2001?",
+    "answer": 1,
+    "number": 515212,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "53 feet (15.5 meters)",
+      "46 feet (13.9 meters)",
+      "40 feet (12.1 meters)",
+      "35 feet (10.6 meters)"
+    ],
+    "question": "At 2015, your vessel is at the Chesapeake Bay Bridge and Tunnel midway between buoys \"13\" and \"14\".  If the height of tide is -1 foot (-0.3 meters), what is the approximate depth of water?",
+    "answer": 0,
+    "number": 515213,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2023",
+      "2029",
+      "2032",
+      "2037"
+    ],
+    "question": "If you steer 143°pgc from your 2015 position at an engine speed of 8.0 knots, at what time would you reach a point midway between buoys \"11\" and \"12\" (ignore set and drift)?",
+    "answer": 1,
+    "number": 515214,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "162°psc",
+      "157°psc",
+      "152°psc",
+      "142°psc"
+    ],
+    "question": "At 2015, you alter course to 154°pgc.  What is the course per standard magnetic compass (psc)?",
+    "answer": 0,
+    "number": 515215,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Only deep-draft passenger ships and large naval vessels may use the main channel.",
+      "The channel is 14.5 miles in length.",
+      "A tow drawing 20 feet is excluded from the main channel.",
+      "Thimble Shoal Channel is in international waters."
+    ],
+    "question": "Which of the following concerning Thimble Shoal Channel is TRUE?",
+    "answer": 2,
+    "number": 515216,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "5.0 knots",
+      "5.5 knots",
+      "6.0 knots",
+      "6.5 knots"
+    ],
+    "question": "At 2118, you obtain the following bearings:\n\n Cape Henry Light -     148°pgc \n Cape Charles Light -   033°pgc \n Thimble Shoal Light - 291°pgc  \n\nFrom this position, you proceed to Norfolk, VA, a distance of approximately 26.0 miles.  To arrive at Norfolk at 0200 the next day, what is the speed to make good from your 2118 position to arrive at this time?",
+    "answer": 1,
+    "number": 515217,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 36°57.0'N,  LONG 76°01.5'W",
+      "LAT 36°57.4'N,  LONG 76°01.9'W",
+      "LAT 36°57.8'N,  LONG 76°01.5'W",
+      "LAT 36°58.2'N,  LONG 76°02.4'W"
+    ],
+    "question": "What is your 2118 position?",
+    "answer": 1,
+    "number": 515218,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2136",
+      "2143",
+      "2202",
+      "2228"
+    ],
+    "question": "From your 2118 position, you steer a course of 288°T at an engine speed of 7.0 knots.  At 2120 visibility is suddenly reduced to 2 miles.  At what time can you expect to see Old Point Comfort Light?",
+    "answer": 3,
+    "number": 515219,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Flashing yellow",
+      "Alternating red and white",
+      "Light of reduced intensity",
+      "Strobe light"
+    ],
+    "question": "If the Old Point Comfort main light was inoperative what emergency light would be shown?",
+    "answer": 2,
+    "number": 515220,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The depth of the water in your vicinity is about 38 to 40 fathoms (69.1 meters to 72.7 meters).",
+      "You are less than a mile from a sunken wreck which could interfere with your tow.",
+      "The closest major aid to navigation is New Point Comfort Light.",
+      "You will pass through a disposal area on your present course."
+    ],
+    "question": "Your 0200 position is LAT 37°23.5'N, LONG 76°09.2'W. Your speed is 8 knots, and your course is 095°T.  Which statement is TRUE?",
+    "answer": 1,
+    "number": 515306,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "203°",
+      "208°",
+      "211°",
+      "217°"
+    ],
+    "question": "At 0315, you obtain the following loran readings:\n\n 9960-Y-41588.0\n 9960-X-27240.0\n\n What is the true course from this position to the entrance of York Spit Channel?",
+    "answer": 1,
+    "number": 515307,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0405",
+      "0412",
+      "0417",
+      "0423"
+    ],
+    "question": "From your 0315 position, what time can you expect to reach York Spit Channel Buoys \"37\" and \"38\"?",
+    "answer": 0,
+    "number": 515308,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "212°psc",
+      "214°psc",
+      "216°psc",
+      "218°psc"
+    ],
+    "question": "The engineer has advised that it will be necessary to secure the gyrocompass and the electronic equipment.  From your 0315 position, what is your course per standard magnetic compass to York Spit Channel Buoy \"38\", if there is no current?",
+    "answer": 2,
+    "number": 515309,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "12222",
+      "12224",
+      "12226",
+      "12254"
+    ],
+    "question": "Which chart could you use for greater detail of the area at the south end of York Spit Channel?",
+    "answer": 0,
+    "number": 515310,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0830",
+      "0850",
+      "0910",
+      "0935"
+    ],
+    "question": "You leave York Spit Channel at buoy \"14\" at 0600 with an engine speed of 12 knots.  You receive orders to rendezvous with the tug \"Quicksilver\" and her tow at Hog Island Bell Buoy \"12\".  What is your ETA at the rendezvous point, if you pass through Chesapeake Channel to buoy \"CBJ\", through the outbound traffic separation lane to buoy \"NCA\"\n(LL#375), and then to the rendezvous point?",
+    "answer": 2,
+    "number": 515311,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 37°10.5'N, LONG 75°33.0'W",
+      "LAT 37°12.0'N, LONG 75°35.0'W",
+      "LAT 37°15.0'N, LONG 75°37.5'W",
+      "LAT 37°19.0'N, LONG 75°40.5'W"
+    ],
+    "question": "You arrive at the rendezvous point, secure the tow, and head back southward.  At 1200, you take the following loran readings:\n\n 9960-Y-41534\n 9960-X-27114\n 9960-Z-58691\n\n What is your 1200 position?",
+    "answer": 2,
+    "number": 515312,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "215°psc",
+      "217°psc",
+      "219°psc",
+      "221°psc"
+    ],
+    "question": "From your noon position, if there is no set and drift, what is your course per standard magnetic compass to the \"NCA\"\n(LL #375) buoy?",
+    "answer": 1,
+    "number": 515313,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "269°",
+      "265°",
+      "261°",
+      "250°"
+    ],
+    "question": "Your gyro and electronic gear are again operating.  At 1710, Chesapeake Light bears 137°pgc at 6.6 miles.  The current is setting 160°T at 2 knots.  At your speed of 6 knots, what is your true course to steer to remain in the inbound traffic lane?",
+    "answer": 0,
+    "number": 515314,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 36°56.0'N, LONG 75°58.5'W",
+      "LAT 36°55.4'N, LONG 75°56.0'W",
+      "LAT 36°54.9'N, LONG 75°53.8'W",
+      "LAT 36°56.8'N, LONG 75°55.6'W"
+    ],
+    "question": "At 1810, you obtain the following loran readings:\n\n 9960-X-27158.0\n 9960-Y-41292.5\n 9960-Z-58546.9\n\n What is your position?",
+    "answer": 3,
+    "number": 515315,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "4.2 knots",
+      "4.9 knots",
+      "5.5 knots",
+      "6.3 knots"
+    ],
+    "question": "What speed have you made good from 1710 to 1810?",
+    "answer": 3,
+    "number": 515316,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1833",
+      "1845",
+      "1855",
+      "1900"
+    ],
+    "question": "If you make good a speed of 6.0 knots from your 1810 position, what is your ETA at Chesapeake Channel Lighted Bell Buoy \"2C\"?",
+    "answer": 0,
+    "number": 515317,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Slack before ebb",
+      "Slack before flood",
+      "Ebb current",
+      "Flood current"
+    ],
+    "question": "You passed Cape Henry Light at 0730 outbound at maximum flood.  What approximate current can you expect on entering Chesapeake Channel?",
+    "answer": 3,
+    "number": 515318,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "rocky with pine scrubs",
+      "sandy hills about eighty feet high",
+      "low wetlands",
+      "low and thinly wooded with many beach houses"
+    ],
+    "question": "The coastline by Cape Henry is best described as __________.",
+    "answer": 1,
+    "number": 515319,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "change before you reach Chesapeake Channel Lighted Bell Buoy \"2C\"",
+      "change after you reach Chesapeake Channel Lighted Bell Buoy \"2C\"",
+      "remain the same",
+      "alternate regardless of your position"
+    ],
+    "question": "Inbound, the color of Cape Henry Light will __________.",
+    "answer": 0,
+    "number": 515320,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "108°psc",
+      "119°psc",
+      "122°psc",
+      "125°psc"
+    ],
+    "question": "At 1400, your position is LAT 37°14.7'N, LONG 76°22.3'W. From this position, you head for the York River Entrance Channel Buoy \"17\".  What should you steer per standard magnetic compass for this heading?",
+    "answer": 3,
+    "number": 515406,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "York River Entrance Channel",
+      "New Point Comfort shoal area",
+      "the piloting channel for Mobjack Bay",
+      "the limits of fish trap areas"
+    ],
+    "question": "At 1430, your position is LAT 37°12.8'N, LONG 76°17.7'W. At this time, you come left and steer 045°T.  This course will lead you through a channel bordered by yellow buoys. The dashed magenta lines between the buoys mark __________.",
+    "answer": 3,
+    "number": 515407,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1452",
+      "1458",
+      "1504",
+      "1510"
+    ],
+    "question": "From your 1430 fix, you order turns for 8 knots.  You steer 045°T and experience no set and drift.  At what time would you expect to have New Point Comfort Spit Light \"4\" abeam?",
+    "answer": 1,
+    "number": 515408,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "109°pgc",
+      "117°pgc",
+      "123°pgc",
+      "129°pgc"
+    ],
+    "question": "At 1540, your position is LAT 37°18.4'N, LONG 76°10.5'W. Which course should you steer per gyrocompass to head for the entrance to Cape Charles City?",
+    "answer": 3,
+    "number": 515409,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 37°10.3'N, LONG 76°04.5'W",
+      "LAT 37°10.3'N, LONG 76°06.5'W",
+      "LAT 37°12.3'N, LONG 76°04.4'W",
+      "LAT 37°12.3'N, LONG 76°06.5'W"
+    ],
+    "question": "You arrive at Cape Charles City at 1700 and depart at 1800.\n You are underway in Chesapeake Bay and encounter heavy fog.  At 1830, you obtain the following Loran-C readings:\n\n 9960-X-27224\n 9960-Y-41456\n 9960-Z-58572\n\n What is your 1830 position?",
+    "answer": 2,
+    "number": 515410,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "144°T",
+      "150°T",
+      "158°T",
+      "162°T"
+    ],
+    "question": "From your 1830 fix, you continue south on a course of 150°T turning RPMs for 6 knots.  You encounter a flood current in the direction of 330°T at 2 knots.  Adjusting your course for set and drift, which course would you steer to make good a course of 150°T while turning RPMs for 6 knots?",
+    "answer": 1,
+    "number": 515411,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 37°03.5'N, LONG 76°05.9'W",
+      "LAT 37°03.5'N, LONG 76°09.3'W",
+      "LAT 37°05.9'N, LONG 76°03.5'W",
+      "LAT 37°09.3'N, LONG 76°03.1'W"
+    ],
+    "question": "Determine your 1915 position using the following information obtained at 1915.\n\n               Visual bearings \nCape Charles Light 107°pgc \nCape Henry Light   172°pgc  \n\n             Radar Bearing and Range \nChesapeake Channel Tunnel South Light  189°pgc at 7.2 miles",
+    "answer": 3,
+    "number": 515412,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "134°",
+      "139°",
+      "151°",
+      "156°"
+    ],
+    "question": "From your 1915 fix you come right and steer a course of 200°T.  At 2000, your position is LAT 37°05.5'N, LONG 76°07.0'W.  Your intention is to pass through Chesapeake Channel.  If there are no set and drift, what course would you steer per standard magnetic compass to make good a course of 145°T?",
+    "answer": 3,
+    "number": 515413,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "156°T",
+      "164°T",
+      "183°T",
+      "190°T"
+    ],
+    "question": "At 2100, you have passed through the Chesapeake Bay Bridge and Tunnel and determine your position to be LAT 37°01.3'\nN, LONG 76°03.0'W.  The current is flooding in a direction of 303°T at 2.5 knots.  Adjusting your course for set and drift, which course would you steer while turning RPMs for 6 knots to make good a course of 175°T?",
+    "answer": 0,
+    "number": 515414,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "28 feet (8.5 meters)",
+      "32 feet (9.8 meters)",
+      "36 feet (11.0 meters)",
+      "45 feet (13.7 meters)"
+    ],
+    "question": "At 2200, you are in position LAT 36°57.5'N, LONG 76°02.5'W.  You intend to travel up the Thimble Shoals auxiliary Channel to Hampton Roads.  According to the Coast Pilot,\nwhat is the depth of the auxiliary channel on either side of the main channel?",
+    "answer": 1,
+    "number": 515416,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2230",
+      "2240",
+      "2246",
+      "2258"
+    ],
+    "question": "At 2205, you are in Thimble Shoal North Auxiliary Channel abeam of lighted gong buoy \"4\".  At this time the visibility decreases to 5 miles.  You continue to turn RPMs for 6 knots and experience no set and drift.  What time would you expect Old Point Comfort Light (white sector) to become visible?",
+    "answer": 1,
+    "number": 515418,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2.6 feet (0.8 meters)",
+      "1.2 feet (0.4 meters)",
+      "0.0 feet",
+      "-3.5 feet (-1.1 meters)"
+    ],
+    "question": "The mean high water level at Old Point Comfort is __________.",
+    "answer": 0,
+    "number": 515419,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "12223",
+      "12238",
+      "12248",
+      "12253"
+    ],
+    "question": "You are entering Norfolk Harbor and have just passed Craney Island.  Which chart should you use for your final approach into Norfolk Harbor?",
+    "answer": 3,
+    "number": 515420,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "You are inside a ten fathom depth curve.",
+      "You are less than five miles from Chesapeake Light.",
+      "You are 0.6 mile north of a wreck.",
+      "You are inside the contiguous zone."
+    ],
+    "question": "At 2038 you are on course 272°T when you take the following loran readings:\n\n 9960-X-27087.2\n 9960-Y-41234.6\n 9960-Z-58573.6\n\n Based on this fix, which statement is TRUE?",
+    "answer": 0,
+    "number": 515438,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2058",
+      "2104",
+      "2109",
+      "2115"
+    ],
+    "question": "What is your ETA off Chesapeake Bay Entrance Buoy \"CB\" at the entrance to the inbound lane of the traffic separation scheme?",
+    "answer": 0,
+    "number": 515439,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "7.0 knots",
+      "8.2 knots",
+      "11.4 knots",
+      "12.5 knots"
+    ],
+    "question": "Your ETA at Chesapeake Bay Bridge and Tunnel between trestles B + C is 2300.  If your engine speed is 9.8 knots,\nwhat will be your approximate speed over the ground, at that time, allowing for the predicted current?",
+    "answer": 3,
+    "number": 515440,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "297°pgc",
+      "299°pgc",
+      "302°pgc",
+      "305°pgc"
+    ],
+    "question": "At buoy \"CB\" you change course to follow the inbound\ntraffic lane.  What is the course to steer per gyro compass if you correct your heading for a current of 315° at 1.0 knot and allow 3° leeway for northeasterly winds?",
+    "answer": 2,
+    "number": 515441,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "A bell, broad on the port bow",
+      "A whistle,  broad on the starboard beam",
+      "A bell, dead ahead",
+      "A gong, two points on the starboard quarter"
+    ],
+    "question": "At 2216 CBJ Buoy is close abeam to port.  Your lookout reports several sound signals with their relative bearings.\n Which would you judge to be coming from a vessel?",
+    "answer": 1,
+    "number": 515442,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "fixed red light on trestle \"C\"",
+      "fixed green light on trestle \"B\"",
+      "fixed red light on trestle \"B\"",
+      "Thimble Shoal Light"
+    ],
+    "question": "As you enter Chesapeake Bay, visibility improves.  At 2235 you are between Chesapeake Channel Buoys \"5\" and \"6\" in the 41 foot dredged section of Chesapeake Channel.  At that time, you change course to pass between buoys \"9\" and \"10\".  If buoys \"11\" and \"12\" are extinguished, your best leading light to keep you in deep water in the Chesapeake Channel, as you approach the Chesapeake Bay Bridge and Tunnel, would be __________.",
+    "answer": 1,
+    "number": 515443,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0°",
+      "1.5°E",
+      "1.0°W",
+      "2.5°W"
+    ],
+    "question": "At 2306, as you pass through Trestle \"C\", you take a gyro bearing of the trestle when it is in line.  The bearing is 049.0°.  What is the gyro error?",
+    "answer": 0,
+    "number": 515444,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "337.5°, 359.5°, 028.0°",
+      "337.5°, 357.5°, 026.0°",
+      "324.0°, 352.5°, 009.5°",
+      "340.0°, 000.5°, 025.0°"
+    ],
+    "question": "As you proceed up York Spit Channel, what are the three base courses that you must steer to conform to the channel,\nif steering by standard magnetic compass?",
+    "answer": 3,
+    "number": 515445,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1342",
+      "1400",
+      "1424",
+      "1456"
+    ],
+    "question": "You are abeam of buoy \"18\" at 2325.  What is your ETA at Baltimore if you average 9.5 knots?",
+    "answer": 1,
+    "number": 515446,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0513, 0.8 k",
+      "0810, 1.2 k",
+      "0810, 1.5 k",
+      "1124, 1.2 k"
+    ],
+    "question": "On 25 February, your vessel is berthed near Lamberts Point in Norfolk.  You are preparing to sail for Baltimore and wish to be transiting York Spit Channel while the morning flood current is at its maximum speed.  At what time should you be between buoys \"33\" and \"34\"?  And, what will be the speed of the flood at this time?",
+    "answer": 1,
+    "number": 515456,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "9.0 miles",
+      "9.8 miles",
+      "10.6 miles",
+      "11.2 miles"
+    ],
+    "question": "What is the distance from Lamberts Point to Thimble Shoal Lt.?",
+    "answer": 3,
+    "number": 515457,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "PUB 117",
+      "Light List",
+      "Coast Pilot",
+      "Chart Number 1"
+    ],
+    "question": "You are delayed in sailing due to engineering problems. You get underway at 0630.  A Coast Guard radio broadcast advises that an aircraft carrier will transit the Elizabeth River enroute Norfolk Naval Shipyard and a safety zone is in effect.  Further information on how far you must remain from the carrier found is in __________.",
+    "answer": 2,
+    "number": 515458,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 36°59.5'N, LONG 76°18.4'W",
+      "LAT 36°59.0'N, LONG 76°21.6'W",
+      "LAT 36°59.0'N, LONG 76°19.6'W",
+      "LAT 36°55.5'N, LONG 76°18.6'W"
+    ],
+    "question": "At 0823, Old Point Comfort Light bears 000°T at 0.6 mile. What is your 0823 position?",
+    "answer": 0,
+    "number": 515459,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The South Auxiliary Channel since your draft is less than 25 feet (7.6 meters), and you are not a passenger vessel.",
+      "The South Auxiliary Channel or Thimble Shoal Channel, but you must remain on the right hand side of the main channel.",
+      "The North Auxiliary Channel since you are going to turn to a northerly heading near buoy \"12\".",
+      "You are not permitted to use any of the channels, but must remain outside the buoyed channel line."
+    ],
+    "question": "At 0845, you are approaching the entrances to Thimble Shoal Channel.  What channel must you use?",
+    "answer": 0,
+    "number": 515460,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "003°",
+      "017°",
+      "021°",
+      "359°"
+    ],
+    "question": "At 0908, you change course to 010°T.  What course should you steer per standard magnetic compass?",
+    "answer": 2,
+    "number": 515461,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "001°pgc",
+      "004°pgc",
+      "007°pgc",
+      "010°pgc"
+    ],
+    "question": "Visibility has decreased to 1 mile in haze.  At 0948, you take the following radar ranges.  What course should you steer per gyrocompass from this fix to enter the channel between buoys \"19\" and \"20\"?\n\n  Thimble Shoal Light - 5.9 miles  \n  South end of trestle C of the Chesapeake Bay Bridge\n        and Tunnel - 3.8 miles  \n  South end of trestle B of the Chesapeake Bay Bridge  \n        and Tunnel - 5.4 miles",
+    "answer": 3,
+    "number": 515462,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0959",
+      "1002",
+      "1006",
+      "1011"
+    ],
+    "question": "If you are making 10 knots, what is your ETA at York Spit Channel Buoys \"19\" and \"20\"?",
+    "answer": 2,
+    "number": 515463,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "319°",
+      "322°",
+      "339°",
+      "341°"
+    ],
+    "question": "What is the course per standard magnetic compass on the southern leg of York Spit Channel between buoys \"15\" and \"23\"?",
+    "answer": 2,
+    "number": 515464,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "You are crossing the demarcation line between the COLREGS and the Inland Rules.",
+      "The line marks the limits of a regulated area.",
+      "The line indicates a submarine cable, and you should not anchor in the area.",
+      "It marks the range between Hampton Roads and Cherrystone Channel."
+    ],
+    "question": "What is indicated by the dashed magenta line crossing York Spit Channel between buoys \"20\" and \"22\"?",
+    "answer": 1,
+    "number": 515465,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "14 hours 22 minutes",
+      "14 hours 30 minutes",
+      "14 hours 38 minutes",
+      "14 hours 44 minutes"
+    ],
+    "question": "At 1015, you estimate you have 139 miles to complete the voyage.  If you average 9.5 knots, you will complete the voyage in __________.",
+    "answer": 2,
+    "number": 515466,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "8.4 knots",
+      "8.8 knots",
+      "9.7 knots",
+      "9.9 knots"
+    ],
+    "question": "At 1018, you are entering York Spit Channel and buoy \"19\" is abeam to starboard.  At 1031, buoy \"23\" is abeam. What speed are you making good?",
+    "answer": 1,
+    "number": 515467,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Not less than 9960-Z-58622",
+      "Not more than 9960-Y-41595",
+      "Not less than 9960-Y-41595",
+      "Not less than 9960-X-27246"
+    ],
+    "question": "Which loran line of position will serve as a danger reading on the loran to keep you west of the submerged obstruction at LAT 37°24.2'N, LONG 76°03.7'W, after you leave York Spit Channel?",
+    "answer": 3,
+    "number": 515468,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 37°15.9'N, LONG 76°07.1'W",
+      "LAT 37°16.1'N, LONG 76°07.4'W",
+      "LAT 37°16.2'N, LONG 76°07.8'W",
+      "LAT 37°16.3'N, LONG 76°07.2'W"
+    ],
+    "question": "At 1037, you are on course 010°T at 10 knots, when you take the following loran readings:\n\n 9960-X-27243.8\n 9960-Y-41497.6\n 9960-Z-58575.9\n\n What is your 1037 position?",
+    "answer": 1,
+    "number": 515469,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "178°, 0.5 knot",
+      "358°, 0.5 knot",
+      "178°, 0.7 knot",
+      "358°, 0.7 knot"
+    ],
+    "question": "At 1119, Wolf Trap Light bears 268°T at 4.4 miles by radar.  What were the set and drift since your 1037 fix?",
+    "answer": 3,
+    "number": 515470,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "38 feet (11.5 meters)",
+      "45 feet (13.6 meters)",
+      "52 feet (15.8 meters)",
+      "59 feet (17.3 meters)"
+    ],
+    "question": "Your 1600 position is LAT 37°22.5'N, LONG 75°32.3'W.  The depth of water under the keel is about __________.",
+    "answer": 0,
+    "number": 515606,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "190°pgc",
+      "193°pgc",
+      "196°pgc",
+      "199°pgc"
+    ],
+    "question": "If there is no current, what is the course per gyro compass from your 1600 position to point A located 0.5 mile due east of Hog Island Lighted Bell Buoy \"12\"?",
+    "answer": 1,
+    "number": 515607,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "067°T at 1.1 knots",
+      "246°T at 1.1 knots",
+      "067°T at 1.5 knots",
+      "246°T at 1.5 knots"
+    ],
+    "question": "At 1630, you reach point A and come right to 204°T.  Your engine speed is 12 knots.  Your 1715, position is LAT 37°09.8'N, LONG 75°37.4'W.  The current was __________.",
+    "answer": 2,
+    "number": 515608,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 37°02.9'N,  LONG 75°43.1'W",
+      "LAT 37°02.9'N,  LONG 75°43.9'W",
+      "LAT 37°03.0'N,  LONG 75°43.3'W",
+      "LAT 37°03.1'N,  LONG 75°42.8'W"
+    ],
+    "question": "From your 1715 fix, you steer 214°T at 12 knots.  At 1800,\nyou take a fix using the following Loran-C readings:\n\n 9960 - X - 27116.8\n 9960 - Y - 41386.0\n 9960 - Z - 58620.6\n\n Your 1800 position is __________.",
+    "answer": 0,
+    "number": 515609,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "249.0°",
+      "251.5°",
+      "255.0°",
+      "257.0°"
+    ],
+    "question": "At 1815, your position is LAT 37°01.0'N, LONG 75°42.7'W.  If there is no current, what is the course per standard magnetic compass to arrive at a point 0.3 mile due north of North Chesapeake Entrance Lighted Whistle Buoy \"NCA\"\n(LL#375)?",
+    "answer": 3,
+    "number": 515610,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1849",
+      "1854",
+      "1859",
+      "1904"
+    ],
+    "question": "From your 1815 position, you want to make good a course of 263°T.  Your engines are turning RPM's for 12 knots.  The current is 050°T at 1.9 knots.  Adjusting your course for set and drift, at what time should you expect to enter the red sector of Cape Henry Light?",
+    "answer": 3,
+    "number": 515611,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "194°",
+      "205°",
+      "213°",
+      "220°"
+    ],
+    "question": "At 1920, Cape Henry Light bears 225°pgc, and Chesapeake Channel Tunnel North Light bears 288°pgc.  If your heading is 268°T, what is the relative bearing of Chesapeake Light?",
+    "answer": 2,
+    "number": 515612,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "You are entering a restricted area.",
+      "You are governed by the Inland Rules of the Road.",
+      "You are within the Chesapeake Bay Entrance traffic separation scheme.",
+      "You can expect differences of as much as 6° from the normal magnetic variation of the area."
+    ],
+    "question": "Which statement concerning your 1920 position is TRUE?",
+    "answer": 0,
+    "number": 515613,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "286°psc",
+      "283°psc",
+      "280°psc",
+      "274°psc"
+    ],
+    "question": "From your 1920 position, you change course to enter Chesapeake Channel between buoys 9 and 10.  What is the course per standard magnetic compass (psc) ?",
+    "answer": 1,
+    "number": 515614,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "359°T",
+      "006°T",
+      "014°T",
+      "020°T"
+    ],
+    "question": "At 2000, your position is LAT 37°04.1'N, LONG 76°05.6'W. You change course for the Eastern Shore.  At 2037, Old Plantation Flats Light bears 033°pgc, and York Spit Light bears 282°pgc.  The course made good from your 2000 position is __________.",
+    "answer": 0,
+    "number": 515615,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "031°psc",
+      "028°psc",
+      "025°psc",
+      "022°psc"
+    ],
+    "question": "At 2037, you change course to make good a course of 016°T.\n There is no current, but a westerly wind is causing  3°\nleeway.  What course per standard magnetic compass (psc)\nshould you steer to make good the course 016°T?",
+    "answer": 3,
+    "number": 515616,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "7.5 miles",
+      "12.0 miles",
+      "16.0 miles",
+      "17.0 miles"
+    ],
+    "question": "Your height of eye is 25 feet (7.6 meters).  If the visibility is 5.5 nautical miles, what is the luminous range of Wolf Trap Light?",
+    "answer": 0,
+    "number": 515617,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "12222",
+      "12224",
+      "12225",
+      "12238"
+    ],
+    "question": "If you want a more detailed chart of the area at your 2115 DR position, which chart should you use?",
+    "answer": 1,
+    "number": 515618,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "4.3 miles",
+      "3.4 miles",
+      "2.6 miles",
+      "1.7 miles"
+    ],
+    "question": "At 2123, your position is LAT 37°20.0'N, LONG 76°03.0'W. What is your distance offshore of Savage Neck?",
+    "answer": 3,
+    "number": 515619,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2359",
+      "0037",
+      "0112",
+      "0148"
+    ],
+    "question": "From your 2123 position, you are approximately 42 miles from Crisfield, MD.  If you are making good a speed of 13 knots, at what time should you arrive at Crisfield, MD?",
+    "answer": 1,
+    "number": 515620,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "37°35.0'N, 75°32.2'W",
+      "37°23.5'N, 75°32.2'W",
+      "37°03.5'N, 75°32.2'W",
+      "37°03.5'N, 75°02.2'W"
+    ],
+    "question": "At 2000 Loran readings give you the following information:\n\n 9960-X-27106\n 9960-Y-41639\n 9960-Z-58746\n\n Your position is __________.",
+    "answer": 1,
+    "number": 515838,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2021",
+      "2026",
+      "2031",
+      "2040"
+    ],
+    "question": "From your 2000 position you change course to 206°T.  What time would you expect to be abeam of Hog Island Buoy \"12\"?",
+    "answer": 1,
+    "number": 515839,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0.8 mile",
+      "1.2 miles",
+      "1.7 miles",
+      "2.1 miles"
+    ],
+    "question": "You should expect to pass how far off buoy \"12\"?",
+    "answer": 0,
+    "number": 515840,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "088° at 0.7 knot",
+      "088° at 1.4 knots",
+      "268° at 0.7 knot",
+      "268° at 1.4 knots"
+    ],
+    "question": "At 2030 you take the following bearings:\n\n  Sand Shoal Inlet South Light - 275°T \n  Cape Charles Light                - 235°T\n  \nYou also obtained a Loran-C reading of 9960-Z-58702.\n\nThe set and drift from 2000 to 2030 are __________.",
+    "answer": 3,
+    "number": 515841,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Cape Charles Light bears 050° relative.",
+      "Chesapeake Light bears 190° relative.",
+      "Your fathometer reading is approximately 40 fathoms.",
+      "Your vessel is located in a restricted area."
+    ],
+    "question": "From your 2030 fix you change course to 195°T, and leave the engine speed at 14 knots.  \nAt 2045, Sand Shoal Inlet Buoy \"A\" bears 318° true, and you obtain the following Loran-C readings:\n\n 9960-X-27114\n 9960-Y-41516\n\nWhich statement is TRUE?",
+    "answer": 0,
+    "number": 515842,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "13.7 knots",
+      "14.1 knots",
+      "14.5 knots",
+      "14.8 knots"
+    ],
+    "question": "You continue to steer 195°T.  You pass Cape Charles Lighted Bell Buoy \"14\", 0.9 miles abeam to starboard at 2111.  Your speed made good from 2045 to 2111 is __________.",
+    "answer": 3,
+    "number": 515843,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "187°T",
+      "190°T",
+      "193°T",
+      "196°T"
+    ],
+    "question": "Your course made good from 2045 to 2111 is __________.",
+    "answer": 2,
+    "number": 515844,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "190°T",
+      "193°T",
+      "196°T",
+      "199°T"
+    ],
+    "question": "If you are going to head directly for Chesapeake Light from your 2111 fix, what is the course to make good?",
+    "answer": 0,
+    "number": 515845,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "184°pgc",
+      "190°pgc",
+      "194°pgc",
+      "201°pgc"
+    ],
+    "question": "At 2200, you alter course to 204°T, at 14 knots.  You expect a current on this leg of the trip, setting 325° at 1.5 knots.  Which course should you steer per gyro compass to make good the true course?",
+    "answer": 3,
+    "number": 515846,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "202.35 MHz",
+      "181.15 MHz",
+      "162.55 MHz",
+      "147.45 MHz"
+    ],
+    "question": "The National Weather Service provides 24-hour weather broadcasts to vessels transiting the Chesapeake Bay Bridge Tunnel. The broadcasts may be found on __________.",
+    "answer": 2,
+    "number": 515956,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "north northeast",
+      "south southeast",
+      "south southwest",
+      "north northwest"
+    ],
+    "question": "At 1752, your position is LAT 37°04.3'N, LONG 76°06.4'W. On an ebb current you should expect to be set to the __________.",
+    "answer": 1,
+    "number": 515957,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "less than 0.2 mile to the west of York Spit Channel",
+      "less than 0.2 mile to the east of York Spit Channel",
+      "more than 0.2 mile to the west of York Spit Channel",
+      "more than 0.2 mile to the east of York Spit Channel"
+    ],
+    "question": "Your 1752 position is __________.",
+    "answer": 2,
+    "number": 515958,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0.8 knot",
+      "1.0 knot",
+      "1.3 knots",
+      "1.6 knots"
+    ],
+    "question": "What is the average velocity of the maximum ebb current in the channel west of Middle Ground?",
+    "answer": 2,
+    "number": 515959,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2.2 miles",
+      "2.6 miles",
+      "3.0 miles",
+      "3.4 miles"
+    ],
+    "question": "At 1730, your position is LAT 37°13.9'N, LONG 76°26.4'W. What is your distance off Tue Marshes Light?",
+    "answer": 1,
+    "number": 516056,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "8 knots",
+      "10 knots",
+      "12 knots",
+      "14 knots"
+    ],
+    "question": "What is the maximum allowable speed of vessels underway up river from Tue Marshes Light?",
+    "answer": 2,
+    "number": 516057,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "7.5 knots",
+      "7.8 knots",
+      "8.1 knots",
+      "8.4 knots"
+    ],
+    "question": "At 1750, your position is LAT 37°14.5'N, LONG 76°22.9'W. What was the speed made good between 1730 and 1750?",
+    "answer": 3,
+    "number": 516058,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 37°21.0'N, LONG 76°08.1'W",
+      "LAT 37°21.0'N, LONG 76°08.8'W",
+      "LAT 37°21.1'N, LONG 76°07.9'W",
+      "LAT 37°21.2'N, LONG 76°08.2'W"
+    ],
+    "question": "At 0410, you take the following bearings:\n  New Point Comfort Light \"2\"           242°T \n  Wolf Trap Light                               313°T  \n  Horn Harbor Entrance Light \"HH\"  262°T \n\n What is your 0410 position?",
+    "answer": 0,
+    "number": 516106,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "15 miles",
+      "13 miles",
+      "11 miles",
+      "09 miles"
+    ],
+    "question": "If the visibility is 5 miles and you are in the red sector,\nat what distance off should you sight Cape Henry Light?",
+    "answer": 3,
+    "number": 516107,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "178°",
+      "176°",
+      "156°",
+      "152°"
+    ],
+    "question": "From your 0410 fix, what is the course per standard magnetic compass to the entrance to York Spit Channel between buoys \"37\" and \"38\"?",
+    "answer": 1,
+    "number": 516108,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "191°T",
+      "194°T",
+      "197°T",
+      "203°T"
+    ],
+    "question": "You are turning for 9 knots, a westerly wind is causing 3° of leeway, and the current is 320°T at 1.2 knots.  What true course should you steer to remain in the northern leg of York Spit Channel?",
+    "answer": 1,
+    "number": 516109,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0444",
+      "0456",
+      "0508",
+      "0522"
+    ],
+    "question": "If you are making 8.3 knots over the ground, what is your ETA at the first turning point in York Spit Channel between buoys \"29\" and \"30\"?",
+    "answer": 3,
+    "number": 516110,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Light List",
+      "Coast Pilot",
+      "Chesapeake Bay Harbor- master's Regulations Manual",
+      "Navigator's Manual - Chesapeake Bay"
+    ],
+    "question": "Which publication contains the specific information about navigating in York Spit Channel?",
+    "answer": 1,
+    "number": 516111,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "185°pgc",
+      "187°pgc",
+      "190°pgc",
+      "193°pgc"
+    ],
+    "question": "At 0530, the Coast Guard announces that Chesapeake Channel is closed indefinitely due to a collision occurring in the channel between Trestle \"B\" and \"C\" of the Chesapeake Bay Bridge and Tunnel.  You exit York Spit Channel, leaving buoy \"20\" abeam to port at 0.1 mile, and alter course to leave Horseshoe Crossing Lighted Bell Buoy abeam to port at 0.2 mile.  What is the course per gyrocompass?",
+    "answer": 3,
+    "number": 516112,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Thimble Shoal Main Channel or the South Auxiliary Channel",
+      "Any of the channels but keep to the right hand side",
+      "The South Auxiliary Channel",
+      "Thimble Shoal Main Channel"
+    ],
+    "question": "After you enter Thimble Shoal Channel, you will alter course to pass between Trestle \"A\" and \"B\".  Which channel should you use?",
+    "answer": 2,
+    "number": 516113,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2°E",
+      "0°E",
+      "2°W",
+      "4°W"
+    ],
+    "question": "As you pass through the Chesapeake Bay Bridge and Tunnel,\nyou sight Trestle \"A\" in line bearing 198°pgc.  What is the gyro error?",
+    "answer": 2,
+    "number": 516114,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "8.3 knots",
+      "8.8 knots",
+      "9.2 knots",
+      "9.4 knots"
+    ],
+    "question": "You sighted Trestle \"A\" in line at 0707 and are steering 108°T.  At 0731, Cape Henry Light bears 136°T; Cape Charles Light bears 032.5°T; and Thimble Shoal Tunnel South Light bears 282°T.  What was the speed made good between 0707 and 0731?",
+    "answer": 1,
+    "number": 516115,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "31 feet (9.4 meters)",
+      "45 feet (13.6 meters)",
+      "48 feet (14.5 meters)",
+      "54 feet (16.4 meters)"
+    ],
+    "question": "At 0731, approximately how much water is under your keel?",
+    "answer": 0,
+    "number": 516116,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "339 miles",
+      "363 miles",
+      "402 miles",
+      "486 miles"
+    ],
+    "question": "What is the distance from your 0731 fix to Wilmington, N.C.\n(LAT 34°14.0'N, LONG 77°57.0'W)?",
+    "answer": 0,
+    "number": 516117,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "you cross the territorial sea boundary line",
+      "abeam of buoy \"CBJ\"",
+      "you cross the boundary of the contiguous zone",
+      "Cape Charles Light bears 022°T"
+    ],
+    "question": "You will enter waters governed by the International Rules when __________.",
+    "answer": 3,
+    "number": 516118,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 36°53.7'N, LONG 75°56.0'W",
+      "LAT 36°53.8'N, LONG 75°56.1'W",
+      "LAT 36°54.5'N, LONG 75°56.2'W",
+      "LAT 36°54.6'N, LONG 75°55.8'W"
+    ],
+    "question": "At 0812, you take the following loran readings:\n\n 9960-X-27155.2\n 9960-Y-41267.9\n 9960-Z-58537.8\n\n What is your 0812 position?",
+    "answer": 3,
+    "number": 516119,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The deviation table is correct for that heading.",
+      "You should adjust the magnetic compass.",
+      "Your compass may be influenced by a local magnetic disturbance.",
+      "The deviation is increasing as you go south."
+    ],
+    "question": "At 0812, you are on course 132°T.  The standard magnetic compass reads 135°.  What should you conclude?",
+    "answer": 2,
+    "number": 516120,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 37°22.8'N, LONG 75°30.8'W",
+      "LAT 37°22.3'N, LONG 75°31.7'W",
+      "LAT 37°22.0'N, LONG 75°29.3'W",
+      "LAT 37°21.8'N, LONG 75°30.7'W"
+    ],
+    "question": "At 2045, you obtain the following Loran-C information:\n\n 9960-X-27102\n 9960-Y-41627\n 9960-Z-58743\n\n Your vessel's position is __________.",
+    "answer": 1,
+    "number": 516238,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "200°T",
+      "203°T",
+      "206°T",
+      "209°T"
+    ],
+    "question": "From your 2045 position, you set a course to pass 1.5 miles due east of the charted position of Hog Island Lighted Bell Buoy \"12\".  The known set and drift in the area are 068°T at 3 knots.  What is the course to steer, with no change in engine speed, to make good your desired course?",
+    "answer": 0,
+    "number": 516239,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "13.5 knots",
+      "14.3 knots",
+      "15.1 knots",
+      "15.9 knots"
+    ],
+    "question": "The speed that you can expect to make good, while steering to make good your desired course, is __________.",
+    "answer": 1,
+    "number": 516240,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The fathometer reads about 62 feet (18.9 meters).",
+      "The bottom is hard sand and oysters.",
+      "You are to seaward of the contiguous zone.",
+      "You are governed by the International Rules of the Road."
+    ],
+    "question": "At 2129 Cape Charles Light bears 253°T, Hog Island Lighted Bell Buoy \"12\" bears 351°T, and Cape Charles Lighted Bell Buoy \"14\" bears 230°T.  Which statement is TRUE?",
+    "answer": 3,
+    "number": 516241,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "258°T at 2.4 knots",
+      "258°T at 1.5 knots",
+      "078°T at 1.5 knots",
+      "078°T at 2.4 knots"
+    ],
+    "question": "At 2207 Cape Charles Light bears 276°T, Chesapeake Light bears 194°T, and Cape Charles Lighted Bell Buoy \"14\" bears 312°T and is 2.0 miles off.  What were the set and drift of the current acting on your vessel from 2129 to 2207?",
+    "answer": 3,
+    "number": 516243,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The course made good is 226°T.",
+      "You are in the red sector of Cape Henry Light.",
+      "You are in a submerged submarine transit lane.",
+      "Chesapeake Light is 7.6 miles off."
+    ],
+    "question": "At 2259 Cape Henry Light bears 250°T, Chesapeake Light bears 122°T, and North Chesapeake Entrance Lighted Whistle Buoy \"NCA\" has a radar range of 1.8 miles.  Which statement is TRUE?",
+    "answer": 3,
+    "number": 516245,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "You are being set to the right.",
+      "The bearing change should be expected as you transit the inbound lane.",
+      "You should alter course to starboard.",
+      "You should slow to reduce the effect of the current."
+    ],
+    "question": "From your 2259 fix, you alter course to 250°T. At 2300 Cape Henry Light bears 250°T.  At 2326 Cape Henry Light bears 252°T.  Which statement is TRUE?",
+    "answer": 2,
+    "number": 516246,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "180°",
+      "184°",
+      "198°",
+      "199.5°"
+    ],
+    "question": "What is the course per gyro compass from the anchorage to point A located 0.5 mile east of Cape Charles Lighted Bell Buoy 14?",
+    "answer": 1,
+    "number": 516256,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0511",
+      "0501",
+      "0450",
+      "0440"
+    ],
+    "question": "If your engines turn for 6.5 knots, and you encounter a 0.5 knot southerly current after weighing anchor.  What is your ETA at point A?",
+    "answer": 2,
+    "number": 516257,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "185°",
+      "188°",
+      "191°",
+      "194°"
+    ],
+    "question": "What is the course per standard magnetic compass from the anchorage to point \"A\" located 0.5 mile east of Cape Charles Lighted Bell Buoy 14?",
+    "answer": 3,
+    "number": 516356,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "composed of high rocky bluffs and wooded uplands",
+      "marked by prominent isolated barren hills",
+      "broken by the mouths of several major rivers",
+      "low with sandy beaches bordered by marshes"
+    ],
+    "question": "The coast between Great Machipongo Inlet and Cape Charles is __________.",
+    "answer": 3,
+    "number": 516357,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "13.9 miles",
+      "15.1 miles",
+      "15.9 miles",
+      "17.0 miles"
+    ],
+    "question": "What is the distance from the anchorage to point \"A\"?",
+    "answer": 1,
+    "number": 516358,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0511",
+      "0501",
+      "0450",
+      "0440"
+    ],
+    "question": "If your engines are turning for 6.5 knots and the estimated current is north at 0.5 knot.  What is the ETA at point \"A\"?",
+    "answer": 0,
+    "number": 516359,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "178°pgc",
+      "182°pgc",
+      "184°pgc",
+      "187°pgc"
+    ],
+    "question": "What is the course to steer per gyro compass from the anchorage to point \"A\" if westerly winds are causing 3° of leeway?",
+    "answer": 3,
+    "number": 516360,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "182°T",
+      "185°T",
+      "189°T",
+      "192°T"
+    ],
+    "question": "At 0400, you take a loran fix with the following readings:\n\n  9960-X-27126.4\n  9960-Y-41516.6\n  9960-Z-58674.4\n\n  What was the course made good since 0240?",
+    "answer": 1,
+    "number": 516361,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The light has been visible from the time you departed the anchorage.",
+      "You should see Cape Charles Light at about 0400.",
+      "The light will become visible when you enter the inbound leg of the traffic separation scheme.",
+      "The light will not be visible until you are within 5 miles of the light."
+    ],
+    "question": "The visibility is about 5 miles.  Which statement about Cape Charles Light is TRUE?",
+    "answer": 1,
+    "number": 516362,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "46 feet (13.9 meters)",
+      "54 feet (16.4 meters)",
+      "62 feet (18.8 meters)",
+      "66 feet (20.0 meters)"
+    ],
+    "question": "At 0405, you increase speed and at 0500 your position is LAT 37°06.0'N, LONG 75°41.1'W.  What is the approximate depth of water?",
+    "answer": 1,
+    "number": 516363,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "34.0 miles",
+      "42.6 miles",
+      "51.7 miles",
+      "62.1 miles"
+    ],
+    "question": "If you proceed from your 0500 position to Chesapeake Bay via the inbound traffic lane.  What is the distance to Yorktown, VA?",
+    "answer": 2,
+    "number": 516364,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 36°59.1'N, LONG 75°48.1'W",
+      "LAT 36°59.1'N, LONG 75°47.6'W",
+      "LAT 36°59.2'N, LONG 75°47.8'W",
+      "LAT 36°58.9'N, LONG 75°48.5'W"
+    ],
+    "question": "From your 0500 position, you change course to 221°T and order turns for 9.8 knots.  At 0600 Chesapeake Light bears 143°pgc at a radar range of 6.5 miles.  Cape Henry Light bears 252°pgc.  What is the position of your 0600 fix?",
+    "answer": 2,
+    "number": 516365,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "being set to the south",
+      "being set to the north",
+      "meeting a current from dead ahead",
+      "running with a current from dead astern"
+    ],
+    "question": "From your 0600 fix, you change course to 250°T.  At 0605,\nCape Henry Light bears 250°T.  At 0615, it bears 251°T. At 0625, it bears 252°T.  Based on this you know you are __________.",
+    "answer": 0,
+    "number": 516366,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "162.25 MHz",
+      "162.30 MHz",
+      "162.55 MHz",
+      "162.65 MHz"
+    ],
+    "question": "Weather broadcasts for the Norfolk area are broadcast on what frequency?",
+    "answer": 2,
+    "number": 516367,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "There are numerous underwater obstructions that are a hazard to vessels with drafts exceeding 2 meters (6.5 feet).",
+      "Fishing vessels of limited maneuverability routinely operate in this area when hunting oyster and crabs.",
+      "Vessels may approach from different directions from the inbound separation lanes and from Chesapeake and Thimble Shoal Channel.",
+      "Large naval vessels having the right of way often enter the area when bound to or from the Norfolk Naval Base."
+    ],
+    "question": "Why should mariners use extreme care when navigating within the precautionary area centered on Chesapeake Bay Entrance Junction Lighted Gong Buoy CBJ?",
+    "answer": 2,
+    "number": 516368,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "4°E",
+      "2°E",
+      "0°",
+      "2°W"
+    ],
+    "question": "As you pass between Trestle B and Trestle C of the Chesapeake Bay Bridge - Tunnel, you sight along Trestle C when it is in line.  The gyro bearing is 051°.  What is the gyro error by observation?",
+    "answer": 3,
+    "number": 516369,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "304°T",
+      "307°T",
+      "311°T",
+      "314°T"
+    ],
+    "question": "The wind is westerly and will cause 2° of leeway.  The current is 180° at 0.5 knot.  If your engines are turning for 8.0 knots, what should you steer to remain in York River Entrance Channel?",
+    "answer": 2,
+    "number": 516370,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 37°18.3'N, LONG 76°10.9'W",
+      "LAT 37°18.2'N, LONG 76°11.2'W",
+      "LAT 37°18.1'N, LONG 76°10.8'W",
+      "LAT 37°18.0'N, LONG 76°11.2'W"
+    ],
+    "question": "Chesapeake Channel is temporarily closed to traffic.  \nAt 2215 you anchor on the following bearings:\n\n  Wolf Trap Light                     358°pgc  \n  Light \"HH\"                            301°pgc  \n  New Point Comfort Light \"2\" 263°pgc  \n\nWhat is your 2215 position?",
+    "answer": 0,
+    "number": 516438,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "A decreasing reading on loran pair 9960-X",
+      "The bearing of Wolf Trap Light changing to the right",
+      "Increasing soundings",
+      "The bearing of Wolf Trap Light changing to the left"
+    ],
+    "question": "While you are at anchor, what will serve as a positive warning that you are drifting towards the wrecks located to the NW and SW of your 2215 position?",
+    "answer": 1,
+    "number": 516439,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "172°  pgc",
+      "175°  pgc",
+      "178°  pgc",
+      "181°  pgc"
+    ],
+    "question": "What course per gyrocompass would you need to steer from the anchorage to York Spit Channel buoy \"29\"?",
+    "answer": 0,
+    "number": 516440,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2h 16m",
+      "2h 33m",
+      "2h 42m",
+      "2h 51m"
+    ],
+    "question": "When you get underway, you will take the most direct route to buoy \"CBJ\", while remaining west of York Spit Channel. You will be turning for 9.7 knots and estimate an average ebb of 0.3 knot during the transit.  How long will it take to steam from the anchor position to buoy \"CBJ\"?",
+    "answer": 1,
+    "number": 516441,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "a training area for naval small craft",
+      "restricted to oil and mineral exploration",
+      "an anchorage for ammunition barges",
+      "a fish trap area"
+    ],
+    "question": "The area bounded by the buoys \"C51\" to \"C47A\" to \"M6\" to \"M14\", west of your anchorage, is __________.",
+    "answer": 3,
+    "number": 516442,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2°E",
+      "0°",
+      "2°W",
+      "4°W"
+    ],
+    "question": "As you transit the Chesapeake Bay Bridge and Tunnel, you take a gyro bearing of trestle C when it is in line.  The gyro bearing  was 050°.  At that time, the helmsman noted that he was heading 139°pgc and 146° per standard magnetic compass.  What is the deviation?",
+    "answer": 0,
+    "number": 516443,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "069.5°psc",
+      "060.5°psc",
+      "079.5°psc",
+      "080.5°psc"
+    ],
+    "question": "At 1042 you take the following round of bearings:\n\n  Cape Henry Light   259°T  \n  Chesapeake Light  101°T   \n  Cape Charles Light 006°T  \nFrom this position, you set course 070°T at a speed of 9.5 knots.  \n\nWhat is the course per standard magnetic compass?",
+    "answer": 2,
+    "number": 516444,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Set 276°, Drift 0.5 knot",
+      "Set 276°, Drift 0.7 knot",
+      "Set 096°, Drift 0.5 knot",
+      "Set 096°, Drift 0.7 knot"
+    ],
+    "question": "At 1126 you take the following loran readings:\n\n 9960-X-27125.7\n 9960-Y-41329.0\n 9960-Z-58588.6\n\nWhat was the current encountered since your 1042 fix?",
+    "answer": 3,
+    "number": 516445,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "194°psc",
+      "190°psc",
+      "187°psc",
+      "180°psc"
+    ],
+    "question": "What is the course per standard magnetic compass from the anchorage to point A located 0.5 mile east of Cape Charles Lighted Bell Buoy 14?",
+    "answer": 0,
+    "number": 516456,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "broken by the mouths of several major rivers",
+      "low, with sandy beaches bordered by marsh and woodlands",
+      "marked by prominent, isolated, barren hills",
+      "composed of high, rocky bluffs and wooded uplands"
+    ],
+    "question": "The coast between Great Machipongo Inlet and Cape Charles is __________.",
+    "answer": 1,
+    "number": 516457,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0400",
+      "0450",
+      "0501",
+      "0511"
+    ],
+    "question": "If your engines turn for 6.5 knots, and you encounter a 0.5 knot southerly current, what is your ETA at point A?",
+    "answer": 1,
+    "number": 516458,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "178°pgc",
+      "181°pgc",
+      "185°pgc",
+      "189°pgc"
+    ],
+    "question": "What is the course to steer per gyro compass from the anchorage to point \"A\" if easterly winds are causing 3° of leeway?",
+    "answer": 1,
+    "number": 516459,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 37°17.95'N, LONG 75°39.95'W",
+      "LAT 37°18.00'N, LONG 75°39.75'W",
+      "LAT 37°18.10'N, LONG 75°39.30'W",
+      "LAT 37°18.10'N, LONG 75°39.55'W"
+    ],
+    "question": "At 0250, Great Machipongo Inlet Light \"5\" (37°21.8'N,\n75°43.7'W) bears 279°pgc.  At 0320, the light bears 320°\npgc.  If you are making good 6.5 knots, what is the position of your 0320 running fix?",
+    "answer": 3,
+    "number": 516460,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 37°14.2'N, LONG 75°40.7'W",
+      "LAT 37°14.1'N, LONG 75°41.3'W",
+      "LAT 37°14.1'N, LONG 75°40.5'W",
+      "LAT 37°14.0'N, LONG 75°40.7'W"
+    ],
+    "question": "At 0400, you take the following loran readings :\n\n 9960-X-27126.4\n 9960-Y-41516.6\n 9960-Z-58674.4\n\nWhat is your 0400 position?",
+    "answer": 3,
+    "number": 516461,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "You are within the territorial sea and contiguous zone.",
+      "You are governed by the Inland Rules of the Road.",
+      "The ocean floor is composed of shale.",
+      "Anchoring, trawling and fishing are prohibited."
+    ],
+    "question": "Which statement about your 0400 position is TRUE?",
+    "answer": 0,
+    "number": 516462,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The light has been visible since you departed the anchorage.",
+      "You will not see the light until you are within 5 miles of the light.",
+      "The light will become visible about 0400.",
+      "The light will not be visible until you enter the inbound leg of the traffic separation scheme."
+    ],
+    "question": "The visibility is about 5 miles.  Which statement about Cape Charles Light is TRUE?",
+    "answer": 2,
+    "number": 516463,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "66 feet (20.0 meters)",
+      "62 feet (18.8 meters)",
+      "54 feet (16.4 meters)",
+      "46 feet (13.9 meters)"
+    ],
+    "question": "At 0405, you increase speed.  At 0500, your position is LAT 37°06.0'N, LONG 75°41.1'W.  What is the approximate depth of the water under the keel?",
+    "answer": 3,
+    "number": 516464,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "meeting a current from dead ahead",
+      "running with a current from dead ahead",
+      "being set to the north",
+      "being set to the south"
+    ],
+    "question": "At 0600, you are entering the inbound leg of the traffic separation scheme at position LAT 36°59.2'N, LONG 75°47.6'\nW.  Course is 250°T.  At 0605, Cape Henry Light bears 249°\nT.  At 0610, it bears 248°T.  At 0625, it bears 247°T. Based on this, you know you are __________.",
+    "answer": 2,
+    "number": 516465,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "gray, pyramidal tower",
+      "mound of broken rubble",
+      "octagonal, black and white tower",
+      "black, skeleton structure"
+    ],
+    "question": "The abandoned lighthouse at Cape Henry is a(n) __________.",
+    "answer": 0,
+    "number": 516466,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "162.30 MHz",
+      "162.35 MHz",
+      "162.50 MHz",
+      "162.55 MHz"
+    ],
+    "question": "Weather broadcasts for the Norfolk area are broadcast on which frequency?",
+    "answer": 3,
+    "number": 516467,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "58 miles",
+      "55 miles",
+      "42 miles",
+      "34 miles"
+    ],
+    "question": "When Cape Henry Light is abeam, what is the approximate distance to Yorktown?",
+    "answer": 3,
+    "number": 516468,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "vessel should be swung to check the deviation table",
+      "compass error is 12°W",
+      "deviation table is correct for that bearing",
+      "deviation is 10°W"
+    ],
+    "question": "As you pass between trestle \"B\" and trestle \"C\" of the Chesapeake Bay Bridge - Tunnel, you sight along the trestle \"C\" when it is in line.  The trestle bears 057° per standard magnetic compass while the vessel is heading 320°T.  From this you know the __________.",
+    "answer": 0,
+    "number": 516469,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "304°T",
+      "307°T",
+      "310°T",
+      "315°T"
+    ],
+    "question": "The wind is easterly and will cause 2° of leeway.  The current is 180° at 0.5 knot.  If your engines are turning for 8.0 knots, what should you steer to remain in York River Entrance Channel?",
+    "answer": 3,
+    "number": 516470,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 37°20.9'N, LONG 75°29.5'W",
+      "LAT 37°21.0'N, LONG 75°32.0'W",
+      "LAT 37°19.8'N, LONG 75°30.6'W",
+      "LAT 37°20.8'N, LONG 75°31.2'W"
+    ],
+    "question": "At 0800 you obtain the following Loran-C readings:\n\n 9960-X-27101\n 9960-Y-41612\n 9960-Z-58737\n\n What is your vessel's position?",
+    "answer": 1,
+    "number": 516838,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "13.6 knots",
+      "12.9 knots",
+      "12.3 knots",
+      "12.0 knots"
+    ],
+    "question": "At 0800 you reduce speed from sea speed.  Speed was reduced by the time you passed abeam of Cape Charles Lighted Bell Buoy \"12\" at 0814.  At this time Buoy \"12\" was abeam on your starboard side at a distance of 0.65 mile.  Assuming you continue to make good your course of 202°T, what is your new speed if you pass abeam of Cape Charles Lighted Bell Buoy \"14\" at a distance of 1.5 miles at 0907?",
+    "answer": 1,
+    "number": 516839,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "19.2 miles",
+      "21.0 miles",
+      "22.7 miles",
+      "24.0 miles"
+    ],
+    "question": "Visibility is exceptionally clear.  At approximately what distance did Chesapeake Light become visible?",
+    "answer": 1,
+    "number": 516840,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "326°T at 0.7 knot",
+      "326°T at 1.4 knots",
+      "146°T at 1.4 knots",
+      "146°T at 0.7 knots"
+    ],
+    "question": "At 0907 you change course to 224°T, and your speed is now 13.0 knots.  At 0939 Chesapeake Light is bearing 168°T at a distance of 7.1 miles, and Cape Henry Light is bearing  246°T.  What were the set and drift since 0907?",
+    "answer": 2,
+    "number": 516841,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "232°T",
+      "235°T",
+      "245°T",
+      "249°T"
+    ],
+    "question": "From your 0939 position, you wish to change course in order to pass 0.3 mile north of Buoy \"NCA\" (LL#375) in the inbound traffic lane.  You estimate the current to be 150°\nT at 2.0 knots.  What course should you steer to make good the desired course?  Your speed is still 13.0 knots.",
+    "answer": 2,
+    "number": 516842,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1003",
+      "0957",
+      "0951",
+      "0948"
+    ],
+    "question": "At what time will you enter the inbound traffic lane with Buoy \"NCA\" (LL #375) bearing 180°T at 0.3 mile?",
+    "answer": 1,
+    "number": 516843,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "052°pgc",
+      "049°pgc",
+      "047°pgc",
+      "045°pgc"
+    ],
+    "question": "After the pilot boards, he tells you the gyro has a 2°E error.  If this is true, what should the bearing be along Trestle C of the Chesapeake Bay Bridge-Tunnel as your vessel passes abeam of it?",
+    "answer": 2,
+    "number": 516845,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0°",
+      "3°W",
+      "4°E",
+      "7°W"
+    ],
+    "question": "Your vessel's heading is 330°pgc and 345°psc with a 2°E gyro error.  What is the deviation on this heading?",
+    "answer": 1,
+    "number": 516846,
+    "duration": 120,
+    "points": 1
+  }
+]

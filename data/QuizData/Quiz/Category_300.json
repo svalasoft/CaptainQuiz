@@ -1,0 +1,3642 @@
+[
+  {
+    "options": [
+      "LAT 41°17.1'N, LONG 71°38.3'W",
+      "LAT 41°17.3'N, LONG 71°38.7'W",
+      "LAT 41°17.4'N, LONG 72°38.1'W",
+      "LAT 41°17.6'N, LONG 71°38.9'W"
+    ],
+    "question": "At 0600 your loran reads:\n\n 9960-W-14546.3\n 9960-X-25909.5\n 9960-Y-43945.0\n\n What is your 0600 position?",
+    "answer": 3,
+    "number": 500014,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The gyro error by observation is 2°E.",
+      "The deviation based on the observation is 15°W.",
+      "The magnetic compass error is 14°W.",
+      "The true line of the range is 079°."
+    ],
+    "question": "In order to check your compasses, you sight North Dumpling Island Light in line with Latimer Reef Light bearing 077°pgc.  The helmsman was steering 307°pgc and 320° per standard magnetic compass at the time.  Which statement is TRUE?",
+    "answer": 2,
+    "number": 500179,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "8.1 knots",
+      "9.8 knots",
+      "10.3 knots",
+      "11.4 knots"
+    ],
+    "question": "At 0645, Watch Hill Point (left tangent) bears 316.5°pgc at 2.75 miles.  What was the speed made good between 0600 and 0645?",
+    "answer": 2,
+    "number": 500189,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°05.0'N, LONG 71°36.2'W",
+      "LAT 41°05.3'N, LONG 71°35.8'W",
+      "LAT 41°05.3'N, LONG 71°35.1'W",
+      "LAT 41°05.4'N, LONG 71°35.0'W"
+    ],
+    "question": "You are underway in the vicinity of Block Island and obtain the following lines of position:\n\nMontauk Point Light                                            263°pgc  \nBlock Island Southeast Light                               026°pgc \nRadar Bearing to Block Island  Southwest Point 348°pgc\n\nWhat is your position at the time of these sightings?",
+    "answer": 1,
+    "number": 500199,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "294°psc",
+      "290°psc",
+      "272°psc",
+      "266°psc"
+    ],
+    "question": "What course should you steer by your standard magnetic compass to make good a course of 280°T?",
+    "answer": 0,
+    "number": 500201,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The light comes on at sunset.",
+      "There is an emergency light if the main light is extinguished.",
+      "The height of the light is 24 feet.",
+      "The tower is painted with black and white stripes."
+    ],
+    "question": "Which statement concerning Montauk Point Light is TRUE?",
+    "answer": 1,
+    "number": 500202,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Horizontally banded, red over green",
+      "Horizontally banded, green over red",
+      "Vertically striped, red and green",
+      "Solid green with red letters \"BIS\""
+    ],
+    "question": "At 1800, your position is LAT 41°06.5'N, LONG 71°43.5'W. How would the buoy which bears 030°T from your position at a range of approximately 0.5 mile be painted?",
+    "answer": 1,
+    "number": 500203,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "029°T, 1.4 knot",
+      "029°T, 0.7 knots",
+      "209°T, 0.7 knot",
+      "209°T, 1.4 knots"
+    ],
+    "question": "From your 1800 position you steer a course of 350°psc at a speed of 10.0 knots.  At 1830, your position is LAT 41°11.7'N, LONG 71°45.8'W.  What are the set and drift of the current?",
+    "answer": 0,
+    "number": 500204,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The nominal range of its white light is 15 miles.",
+      "It displays both red and white lights.",
+      "Its geographic range is 18.5 miles at a 35 foot (10.7 meter) height of eye.",
+      "Its horn blasts every 30 seconds in fog."
+    ],
+    "question": "From your 1830 fix, you come left to a course of 290°T.  Which of the following statements concerning Watch Hill Light is FALSE?",
+    "answer": 2,
+    "number": 500205,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "293°T",
+      "297°T",
+      "299°T",
+      "305°T"
+    ],
+    "question": "At 1850, you obtain the following bearings and distances:\n\nMontauk Point    189°pgc 8.7 miles  \nWatch Hill Light  340°pgc 5.7 miles  \n\nWhat true course did you make good between 1830 and 1850?",
+    "answer": 0,
+    "number": 500206,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "7.4 nm",
+      "13.0 nm",
+      "15.8 nm",
+      "17.5 nm"
+    ],
+    "question": "If your height of eye is 35 feet (10.7 meters), what is the approximate geographic range of Block Island North Light?",
+    "answer": 2,
+    "number": 500207,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "9960-X and 9960-Y",
+      "9960-Y and 9960-W",
+      "9960-W and 9960-X",
+      "All are equally good."
+    ],
+    "question": "From your 1850 fix, you come left to a course of 280°T,\nwhile maintaining a speed of 10 knots.  Which of the following combinations of available Loran-C lines would be best for position determination?",
+    "answer": 1,
+    "number": 500208,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "253°T",
+      "256°T",
+      "263°T",
+      "266°T"
+    ],
+    "question": "At 0705, you take the following bearings:\n\nWatch Hill Light        034.5°pgc  \nLatimer Reef Light    338.0°pgc  \nRace Rock Light      268.0°pgc  \n\nWhat was the true course made good between 0645 and 0705?",
+    "answer": 0,
+    "number": 500209,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°13.0'N, LONG 71°54.1'W",
+      "LAT 41°13.0'N, LONG 71°53.9'W",
+      "LAT 41°13.2'N, LONG 71°53.7'W",
+      "LAT 41°13.4'N, LONG 71°53.4'W"
+    ],
+    "question": "You decide to use the 9960-Y and 9960-W rates.  At 1915,\nyou obtain the following readings:\n\n 9960-Y-43936.0\n 9960-W-14653.3\n\n What is your 1915 position?",
+    "answer": 2,
+    "number": 500211,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "13209",
+      "13212",
+      "13214",
+      "13215"
+    ],
+    "question": "If you were to head into Fishers Island Sound, which of the following charts would you switch to for better detail of Mystic and Mystic Harbor?",
+    "answer": 2,
+    "number": 500212,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Blue mud, gritty shells",
+      "Buried mussels, gritty shells",
+      "Bumpy muck with grainy surface",
+      "Blue mud, gray sand"
+    ],
+    "question": "From your 1915 position, you come left and set a course for Gardiners Point.  At 1930, your position is LAT 41°12.7'N, LONG 71°56.8'W.  What type of bottom is charted at this position?",
+    "answer": 3,
+    "number": 500213,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "300°T",
+      "295°T",
+      "290°T",
+      "280°T"
+    ],
+    "question": "From your 1930 position, you plot a course to pass 0.5 mile due south of Race Rock Light. If your vessel's speed is 10.0 knots, the current's set and drift are 040°T at 1.8 knots, and a north wind produces a 3° leeway, what true course should you steer to make good your desired course?",
+    "answer": 3,
+    "number": 500214,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1.0 mile",
+      "0.8 mile",
+      "0.5 mile",
+      "300 yards (91 meters)"
+    ],
+    "question": "As an option to heading into Long Island Sound, you consider anchoring in the vicinity of the Gardiners Point Ruins at the north end of Gardiners Island.   What is the minimum recommended distance from the ruins for fishing, trawling, or anchoring?",
+    "answer": 3,
+    "number": 500215,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "162.55 MHz",
+      "162.40 MHz",
+      "162.30 MHz",
+      "162.25 MHz"
+    ],
+    "question": "NOAA VHF-FM weather broadcasts from New London, CT are on __________.",
+    "answer": 0,
+    "number": 500216,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "252°pgc",
+      "257°pgc",
+      "265°pgc",
+      "271°pgc"
+    ],
+    "question": "At 0705, you change course to head for The Race.  You wish to leave Race Rock Light bearing due north at 0.4 mile.  If the current is 110°T, at 2.8 knots, and you are turning for 12.0 knots, what course (pgc) should you steer?",
+    "answer": 3,
+    "number": 500257,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "You are already governed by the Inland Rules.",
+      "Above the Thames River Bridge",
+      "In the Race",
+      "You will not be governed by the Inland Rules."
+    ],
+    "question": "You are bound for New London.  Where will you cross the demarcation line and be governed by the Inland Rules of the Road?",
+    "answer": 2,
+    "number": 500300,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°11.2'N, LONG 72°14.6'W",
+      "LAT 41°11.7'N, LONG 72°14.4'W",
+      "LAT 41°12.1'N, LONG 72°13.8'W",
+      "LAT 41°12.5'N, LONG 71°14.9'W"
+    ],
+    "question": "You are steering 087°pgc and turning for 6.8 knots.  At 0600, you take the following loran readings:\n\n 9960-W-14784.4\n 9960-X-26208.3\n 9960-Y-43959.1\n\nWhat is your 0600 position?",
+    "answer": 2,
+    "number": 500371,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "084°pgc",
+      "080°pgc",
+      "076°pgc",
+      "072°pgc"
+    ],
+    "question": "If you change course at 0610, what is the course to steer to a point where Little Gull Island Light bears 180°T at 0.7 mile (Point \"A\")?",
+    "answer": 1,
+    "number": 500372,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0702",
+      "0655",
+      "0651",
+      "0640"
+    ],
+    "question": "What is your ETA at point \"A\"?",
+    "answer": 2,
+    "number": 500373,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "West",
+      "East",
+      "Northeast",
+      "North"
+    ],
+    "question": "You calculate that the current will be ebbing at the Race at 0700.  You should expect to be set in which general direction at the Race?",
+    "answer": 1,
+    "number": 500374,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Not less than 9960-W-14735.8",
+      "Not more than 9960-W-14735.9",
+      "Not less than 9960-Y-43953.5",
+      "Not more than 9960-X-26149.0"
+    ],
+    "question": "As you near Little Gull Island, you use your loran to insure that you do not come within 0.5 mile of the island. Which of the following loran readings will act as a danger line and keep you off Little Gull Island by a minimum of 0.5 mile?",
+    "answer": 2,
+    "number": 500375,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "24.4 miles",
+      "23.9 miles",
+      "23.7 miles",
+      "20.4 miles"
+    ],
+    "question": "From point \"A\", you lay out an intended track line to a point where Block Island North Light bears 180°T at 2.9 miles (Point \"B\").  What is the length of this leg of the voyage?",
+    "answer": 0,
+    "number": 500383,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "099.5°",
+      "098.5°",
+      "095.5°",
+      "094.5°"
+    ],
+    "question": "What is the course per standard magnetic compass between points \"A\" and \"B\"?",
+    "answer": 1,
+    "number": 500384,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "You are governed by the Inland Rules.",
+      "Your fathometer reads about 265 fathoms.",
+      "You are in a cable area.",
+      "You are to the left of your track line."
+    ],
+    "question": "At 0715 you take the following bearings:\n\n Race Rock Light         328°pgc \n Little Gull Island Light   249°pgc \n Mt. Prospect Antenna  036°pgc  \n\nBased on your 0715 fix, which statement is TRUE?",
+    "answer": 3,
+    "number": 500385,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Set 030°T, drift 0.4 knot",
+      "Set 216°T, drift 0.3 knot",
+      "Set 238°T, drift 0.9 knot",
+      "Set 070°T, drift 0.6 knot"
+    ],
+    "question": "From your 0715 position, you set a course of 085°T.  At 0745 you take the following bearings:\n\n Race Rock Light                             278°pgc  \n Watch Hill Light                               049°pgc  \n Fisher's Island East Harbor Cupola  010°pgc  \n\nWhat was the current encountered between 0715 and 0745?",
+    "answer": 3,
+    "number": 500386,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "087°pgc",
+      "085°pgc",
+      "081°pgc",
+      "079°pgc"
+    ],
+    "question": "The wind is southerly, and you estimate 3° leeway. Allowing for leeway, what is the course to steer from your 0745 position to pass 1 mile south of Watch Hill Buoy \"WH\"?",
+    "answer": 0,
+    "number": 500387,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0845",
+      "0838",
+      "0807",
+      "0750"
+    ],
+    "question": "From your 0745 fix, you change course to pass 1.0 mile south of buoy \"WH\" and estimate your speed at 7 knots.  If the visibility clears, what is the earliest time you can expect to see Block Island North Light tower?",
+    "answer": 2,
+    "number": 500388,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Low, rocky cliffs",
+      "Heavily wooded hills",
+      "Sandy beaches broken by rocky points",
+      "Barren hills with prominent buildings"
+    ],
+    "question": "Which statement describes the shore between Watch Hill Point and Point Judith?",
+    "answer": 2,
+    "number": 500389,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "7.1 knots",
+      "6.7 knots",
+      "5.8 knots",
+      "5.4 knots"
+    ],
+    "question": "At 0830, Watch Hill Point bears 343°T at 3.5 miles by radar.  What was the speed made good since 0745?",
+    "answer": 0,
+    "number": 500418,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "You are to the left of the track line.",
+      "The bottom in the area is sand and gravel.",
+      "You are governed by the Inland Rules.",
+      "The fix is indeterminate."
+    ],
+    "question": "At 0900, you take the following radar ranges:\n\nWatch Hill Point                5.4 miles  \nBlock Island Grace Point  8.3 miles  \n\nWhich statement about this fix is TRUE?",
+    "answer": 3,
+    "number": 500419,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "096°pgc",
+      "094°pgc",
+      "091°pgc",
+      "089°pgc"
+    ],
+    "question": "At 0930, your position is LAT 41°16.5'N, LONG 71°41.4'W, and you are turning for 7 knots.  Allowing 3° leeway for southerly winds and estimating the current as 035° at 0.3 knot, what is the course to steer (pgc) to point \"B\"?",
+    "answer": 0,
+    "number": 500420,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°14.5'N,  LONG 72°08.0'W",
+      "LAT 41°14.1'N,  LONG 72°08.2'W",
+      "LAT 41°14.0'N,  LONG 72°08.5'W",
+      "LAT 41°14.3'N,  LONG 72°08.5'W"
+    ],
+    "question": "At 0227, you take the following radar ranges and bearings:   Bartlett Reef Light 359°T at 2.4 miles,  Race Rock Light 083°T at 4.1 miles.  What is your 0227 position?",
+    "answer": 1,
+    "number": 500436,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "109°psc",
+      "105°psc",
+      "102°psc",
+      "099°psc"
+    ],
+    "question": "At 0227, you are on course 087°T at 10 knots.  What course per standard magnetic compass should you steer to make good your true course?",
+    "answer": 1,
+    "number": 500437,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0258",
+      "0255",
+      "0251",
+      "0247"
+    ],
+    "question": "You estimate that you are making 9.3 knots over the ground.   At what time will you enter waters governed by the COLREGS?",
+    "answer": 2,
+    "number": 500438,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "135 feet  (40.9 meters)",
+      "120 feet  (36.4 meters)",
+      "100 feet  (30.3 meters)",
+      "83 feet  (25.2 meters)"
+    ],
+    "question": "At 0337, fog closes in and you anchor under the following radar ranges and bearing:\n\n South tip of Watch Hill Point  3.0 miles  \n East point of Fishers Island    1.4 miles \n Latimer Reef Light                 331°T  \n\nWhat is the approximate depth of water at your anchorage?",
+    "answer": 2,
+    "number": 500439,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "sparsely wooded hills and is fringed with shoals to the south",
+      "sheer cliffs rising from the sea to a high, flat plateau",
+      "barren, rocky hills with prominent sandy beaches",
+      "low and sandy beaches with salt ponds and marsh grass"
+    ],
+    "question": "By 1015, visibility has increased to 5.0 miles and you can see Fishers Island.  Fishers Island has __________.",
+    "answer": 0,
+    "number": 500440,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "080°pgc",
+      "078°pgc",
+      "076°pgc",
+      "074°pgc"
+    ],
+    "question": "You get underway at 1030.  The wind is out of the SSE and you estimate 3° leeway.  What course should you steer per gyrocompass to make good a desired course of 075°T?",
+    "answer": 0,
+    "number": 500441,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The deviation is 2°W",
+      "The variation is 2°E.",
+      "The compass error is 16°W.",
+      "The gyro error is 2.5°W"
+    ],
+    "question": "Shortly after getting underway, you sight Stonington Outer Breakwater Light in line with Stonington Inner Breakwater Light bearing 000° per gyrocompass.  Which statement is TRUE?",
+    "answer": 3,
+    "number": 500442,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "193°",
+      "190°",
+      "187°",
+      "185°"
+    ],
+    "question": "At 1104, Watch Hill Point Light is in line with Stonington Outer Breakwater Light, the range to the south tip of Watch Hill Point is 2.6 miles and the range to the beach is 1.9 miles.  You are steering to make good 075°T, speed 10.0 knots.  At 1110, you change course to head for a position of LAT 41°05.0'N, LONG 71°50.0'W.  What is the true course?",
+    "answer": 1,
+    "number": 500443,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1220",
+      "1215",
+      "1208",
+      "1157"
+    ],
+    "question": "At 1110, you increase speed to 12 knots.  What is your ETA at the new position?",
+    "answer": 1,
+    "number": 500444,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "There is no loran reading to follow.",
+      "9960-Y-43958",
+      "9960-X-25982",
+      "9960-W-14655"
+    ],
+    "question": "You can follow what loran reading between your two positions?",
+    "answer": 2,
+    "number": 500445,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Set 015°, drift 0.5 knot",
+      "Set 195°, drift 0.7 knot",
+      "Set 015°, drift 0.7 knot",
+      "Set 195°, drift 0.5 knot"
+    ],
+    "question": "At 1345, you depart from a position 1 mile due east of Montauk Point Light and set course for Block Island Southeast Light at 9 knots.  At 1430, you take the following loran readings:\n\n 9960-W-14600.8\n 9960-Y-43866.3\n 9960-X-25912.3\n\nWhat was the current encountered since 1345?",
+    "answer": 3,
+    "number": 500446,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Continue on the same course but increase speed.",
+      "Continue on the same course at the same speed.",
+      "Slow to 8.3 knots to compensate for the current.",
+      "Alter course to the right, to pass well clear of Southwest Ledge"
+    ],
+    "question": "You are encountering heavy weather.  What action should you take based on your 1430 fix?",
+    "answer": 3,
+    "number": 500447,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The light is visible at 2100.",
+      "2106",
+      "2111",
+      "2123"
+    ],
+    "question": "At 2100, you set course of 000°T, speed 10 knots from LAT 41°07.0'N, LONG 71°30.0'W.  Visibility is 5.5 n.m.  What is the earliest time you can expect to sight Point Judith Light? (Use charted range of 20 miles as nominal range.)",
+    "answer": 2,
+    "number": 500448,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "358°T at 09.8 knots",
+      "358°T at 11.1 knots",
+      "002°T at 11.2 knots",
+      "002°T at 09.9 knots"
+    ],
+    "question": "You estimate the current to be 160°T at 1.2 knots.  What should your course and speed be in order to make good 000°T at 10 knots?",
+    "answer": 1,
+    "number": 500449,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "13219",
+      "13217",
+      "13209",
+      "13205"
+    ],
+    "question": "If you want to put into Point Judith Harbor of Refuge, what chart should you use?",
+    "answer": 0,
+    "number": 500450,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°13.6'N, LONG 72°03.3'W",
+      "LAT 41°14.0'N, LONG 72°05.3'W",
+      "LAT 41°14.7'N, LONG 72°06.8'W",
+      "LAT 41°19.0'N, LONG 72°05.2'W"
+    ],
+    "question": "At 0630, you pass Buoy \"PI\" close abeam on the starboard side.  You are steering 078°T and are headed directly toward Race Rock Light.  At 0654, Little Gull Island Light is bearing 207°T and Race Rock Light is bearing 072°T. What is your 0654 position?",
+    "answer": 1,
+    "number": 500456,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "11.4 knots",
+      "10.5 knots",
+      "9.3 knots",
+      "8.2 knots"
+    ],
+    "question": "What is your speed from your 0630 position, with Buoy \"PI\" close abeam, to your 0654 position?",
+    "answer": 1,
+    "number": 500486,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "095°psc",
+      "090°psc",
+      "080°psc",
+      "062°psc"
+    ],
+    "question": "At 0700, your gyro alarm sounds.  What course should you steer by the standard magnetic compass in order to maintain your original heading of 078°T?",
+    "answer": 0,
+    "number": 500487,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "International Rules",
+      "Local Pilot Rules",
+      "Inland Rules",
+      "Coastal Fishery Rules"
+    ],
+    "question": "At 0705, with your gyro again functioning properly, you change course to 096°T.  At this time Race Rock Light is bearing 000°T at 0.35 mile.  You are now governed by which Navigation Rules?",
+    "answer": 0,
+    "number": 500488,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "11.4 knots",
+      "10.6 knots",
+      "9.9 knots",
+      "9.2 knots"
+    ],
+    "question": "At 0728, Race Rock Light is bearing 282°T at 3.8 miles, and the closest point on Fishers Island is at a radar range of 2.1 miles.  What speed have you been making since you changed course at 0705?",
+    "answer": 2,
+    "number": 500489,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The magnetic compass error is 17°W.",
+      "The magnetic heading is 090°.",
+      "The deviation is 1.0°E.",
+      "The gyro course is 083°pgc."
+    ],
+    "question": "At 0728, you change course to 080°T.  When steady on course, the standard magnetic compass reads 097°.  Which statement is TRUE?",
+    "answer": 0,
+    "number": 500490,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "104 feet",
+      "130 feet",
+      "175 feet",
+      "325 feet"
+    ],
+    "question": "At 0748, you take the following Loran-C readings:\n\n 9960-W-14651.0\n 9960-X-26034.8\n 9960-Y-43943.8\n\nWhat is the approximate depth of water at this position?",
+    "answer": 1,
+    "number": 500491,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "9960-W-14660.0",
+      "9960-W-14651.0",
+      "9960-Y-43943.8",
+      "9960-Y-43852.0"
+    ],
+    "question": "At 0748, you change course to 160°T.  What loran reading can you follow to remain on this course?",
+    "answer": 1,
+    "number": 500492,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Set 065°T, drift 1.1 knots",
+      "Set 065°T, drift 2.4 knots",
+      "Set 245°T, drift 2.4 knots",
+      "Set 245°T, drift 1.1 knots"
+    ],
+    "question": "At 0815, Montauk Pt. Light House is bearing 167°T, Shagwong Pt. has a radar range of 4.5 miles, and Cerberus Shoal \"9\" Buoy is bearing 284°T.  If the engine is making turns for 10 knots, what was the set and drift of the current since 0748?",
+    "answer": 2,
+    "number": 500493,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Continue on the same course and speed.",
+      "Alter your course to the right.",
+      "Slow to 8.5 knots.",
+      "Alter your course to the left."
+    ],
+    "question": "What action should you take to compensate for the above current?",
+    "answer": 3,
+    "number": 500494,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "low and rocky with scattered small pine trees",
+      "a low lying wetland",
+      "a high sandy bluff",
+      "a flat wooded plain"
+    ],
+    "question": "At 0815, visibility is excellent and you can see Montauk Point.  Montauk Point is __________.",
+    "answer": 2,
+    "number": 500495,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "071°pgc",
+      "074°pgc",
+      "076°pgc",
+      "079°pgc"
+    ],
+    "question": "At 0815, you change course to 079°T and head for the entrance of Great Salt Pond on Block Island.  To compensate for a northerly wind, you estimate a 5° leeway is necessary.  What course should you steer per gyrocompass to make good 079°T?",
+    "answer": 0,
+    "number": 500496,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "10.5 knots",
+      "10.0 knots",
+      "9.2 knots",
+      "8.4 knots"
+    ],
+    "question": "At 0845, Montauk Pt. Light is bearing 205°T at a radar distance of 6.6 miles.  What is your speed made good from your 0815 position?",
+    "answer": 3,
+    "number": 500497,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0905",
+      "0928",
+      "0950",
+      "It will remain visible to Great Salt Pond."
+    ],
+    "question": "As you head toward Great Salt Pond, visibility is unlimited.  At what time will you lose sight of Montauk Pt. Light?",
+    "answer": 3,
+    "number": 500498,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "13205",
+      "13207",
+      "13214",
+      "13217"
+    ],
+    "question": "Which chart should you use to enter Great Salt Pond?",
+    "answer": 3,
+    "number": 500499,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°20.8'N, Long 71°29.7'W",
+      "LAT 41°20.6'N, Long 71°30.4'W",
+      "LAT 41°20.6'N, Long 71°30.0'W",
+      "LAT 41°20.5'N, Long 71°29.4'W"
+    ],
+    "question": "At 0520, you take the following observations:\n\nPoint Judith Light                                032°pgc  \nPoint Judith Harbor of Refuge  \n         Main Breakwater Center Light   308°pgc  \n\nWhat is the position of your 0520 fix?",
+    "answer": 0,
+    "number": 500517,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "is used mostly by towing vessels",
+      "has a maximum depth of 14 feet at MHW",
+      "is entered through the East Gap or the West Gap",
+      "is easily accessible in heavy southerly seas"
+    ],
+    "question": "Point Judith Harbor of Refuge __________.",
+    "answer": 2,
+    "number": 500518,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "227°psc",
+      "233°psc",
+      "258°psc",
+      "262°psc"
+    ],
+    "question": "At 0520 you are on course 243°pgc at 12 knots.  What is the course per standard magnetic compass?",
+    "answer": 3,
+    "number": 500519,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "steep with rocky bluffs",
+      "sandy and broken by rocky points",
+      "low and marshy",
+      "heavily forested"
+    ],
+    "question": "The coastline between Point Judith and Watch Hill is __________.",
+    "answer": 1,
+    "number": 500521,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "14.0 nm",
+      "12.3 nm",
+      "10.6 nm",
+      "9.2 nm"
+    ],
+    "question": "In clear weather, how far away will you sight Point Judith Light?",
+    "answer": 0,
+    "number": 500522,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0544",
+      "0541",
+      "0534",
+      "0528"
+    ],
+    "question": "At what time will you cross the 60 foot curve if you make good 12 knots?",
+    "answer": 3,
+    "number": 500523,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "recommended approaches to Green Hill Point",
+      "areas of unreliable loran readings",
+      "submarine cables",
+      "prohibited fishing areas"
+    ],
+    "question": "The two wavy magenta lines running to Green Hill Point represent __________.",
+    "answer": 2,
+    "number": 500524,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°18.3'N, LONG 71°38.7'W",
+      "LAT 41°18.4'N, LONG 71°38.0'W",
+      "LAT 41°18.5'N, LONG 72°38.1'W",
+      "LAT 41°18.7'N, LONG 71°38.9'W"
+    ],
+    "question": "At 0600 your loran reads:   \n\n 9960-W-14542.5\n 9960-X-25909.5\n 9960-Y-43950.0\n \nWhat is your 0600 position?",
+    "answer": 0,
+    "number": 500525,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "201° at 1.0 knot",
+      "201° at 1.5 knot",
+      "021° at 1.5 knot",
+      "021° at 1.0 knots"
+    ],
+    "question": "What was the current between 0520 and 0600?",
+    "answer": 2,
+    "number": 500543,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "262°pgc",
+      "258°pgc",
+      "256°pgc",
+      "252°pgc"
+    ],
+    "question": "From your 0600 position, what is the course per gyrocompass to leave Watch Hill Light abeam to starboard at 2.0 miles if a southerly wind is producing 3° of leeway?",
+    "answer": 3,
+    "number": 500544,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "11.4 knots",
+      "10.7 knots",
+      "9.8 knots",
+      "8.1 knots"
+    ],
+    "question": "At 0645, Watch Hill Point (left tangent) bears 314.5°T at 2.75 miles.  What was the speed made good between 0600 and 0645?",
+    "answer": 1,
+    "number": 500545,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "266°T",
+      "263°T",
+      "256°T",
+      "252°T"
+    ],
+    "question": "At 0705, you take the following bearings:\n\nWatch Hill Light      030.5°pgc  \nLatimer Reef Light  329.0°pgc  \nRace Rock Light    262.0°pgc  \n\nWhat was the true course made good between 0645 and 0705?",
+    "answer": 2,
+    "number": 500546,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "267°pgc",
+      "263°pgc",
+      "255°pgc",
+      "250°pgc"
+    ],
+    "question": "At 0705, you change course to head for The Race.  You wish to leave Race Rock Light bearing due north at 0.4 mile.  If the current is 100°T, at 2.8 knots, and you are turning for 12.0 knots, what course (pgc) should you steer?",
+    "answer": 1,
+    "number": 500547,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "You are already governed by the Inland Rules.",
+      "Above the Thames River Bridge",
+      "In the Race",
+      "You will not be governed by the Rules."
+    ],
+    "question": "You are bound for New London.  Where will you cross the demarcation line and be governed by the Inland Rules of the Road?",
+    "answer": 2,
+    "number": 500548,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The true line of the range is 072°.",
+      "The deviation based on the observation is 15°W.",
+      "The magnetic compass error is 12°W.",
+      "The gyro error is exactly 1.5°E."
+    ],
+    "question": "In order to check your compasses, you sight North Dumpling Island Light in line with Latimer Reef Light bearing 074°pgc.  The helmsman was steering 303°pgc and 315° per standard magnetic compass at the time.  \n\nWhich of the following is TRUE?",
+    "answer": 3,
+    "number": 500549,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "062°psc",
+      "080°psc",
+      "090°psc",
+      "095°psc"
+    ],
+    "question": "At 0700, your gyro alarm sounds.  What course should you steer by the standard magnetic compass in order to maintain your original heading of 078°T?",
+    "answer": 3,
+    "number": 516508,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Inland Rules",
+      "Local Pilot Rules",
+      "International Rules",
+      "Coastal Fishery Rules"
+    ],
+    "question": "At 0705, with your gyro again functioning properly, you change course to 096°T.  At this time Race Rock Light is bearing 000°T at 0.35 mile.  You are now governed by which Navigation Rules?",
+    "answer": 2,
+    "number": 516509,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "9.2 knots",
+      "9.8 knots",
+      "10.6 knots",
+      "11.4 knots"
+    ],
+    "question": "At 0728, Race Rock Light is bearing 282°T at 3.8 miles,\nand the closest point on Fishers Island is at a radar range of 2.0 miles.  What speed have you been making since you changed course at 0705?",
+    "answer": 1,
+    "number": 516510,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The gyro course is 083°pgc.",
+      "The magnetic heading is 090°.",
+      "The deviation is 1.0°E.",
+      "The magnetic compass error is 17°W."
+    ],
+    "question": "At 0728, you change course to 080°T.  When steady on course, the standard magnetic compass reads 097°.  Which statement is TRUE?",
+    "answer": 3,
+    "number": 516511,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "325 feet",
+      "175 feet",
+      "130 feet",
+      "104 feet"
+    ],
+    "question": "At 0748, you take the following Loran-C readings:\n\n 9960-W-14651.0\n 9960-X-26034.8\n 9960-Y-43943.8\n\n What is the approximate depth of water at this position?",
+    "answer": 2,
+    "number": 516512,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "9960-W-14651.0",
+      "9960-W-14660.0",
+      "9960-Y-43852.0",
+      "9960-Y-43943.8"
+    ],
+    "question": "At 0748, you change course to 160°T.  What loran reading can you follow to remain on this course?",
+    "answer": 0,
+    "number": 516513,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Set 065°T, drift 1.1 knots",
+      "Set 065°T, drift 2.4 knots",
+      "Set 245°T, drift 1.1 knots",
+      "Set 245°T, drift 2.4 knots"
+    ],
+    "question": "At 0815, Montauk Pt. Light House is bearing 167°T,\nShagwong Pt. has a radar range of 4.5 miles, and Cerberus Shoal \"9\" Buoy is bearing 284°T.  If the engine is making turns for 10 knots, what was the set and drift of the current since 0748?",
+    "answer": 3,
+    "number": 516514,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Continue on the same course and speed.",
+      "Alter your course to the left.",
+      "Slow to 8.5 knots.",
+      "Alter your course to the right."
+    ],
+    "question": "What action should you take to compensate for the above current?",
+    "answer": 1,
+    "number": 516515,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "low and rocky with scattered small pine trees",
+      "a low lying wetland",
+      "a flat wooded plain",
+      "a high sandy bluff"
+    ],
+    "question": "At 0815, visibility is excellent and you can see Montauk\nPoint.  Montauk Point is __________.",
+    "answer": 3,
+    "number": 516516,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "079°pgc",
+      "076°pgc",
+      "074°pgc",
+      "071°pgc"
+    ],
+    "question": "At 0815, you change course to 079°T and head for the entrance of Great Salt Pond on Block Island.  To compensate for a northerly wind, you estimate a 5° leeway is necessary.  What course should you steer per gyrocompass to make good 079°T?",
+    "answer": 3,
+    "number": 516517,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "8.2knots",
+      "9.2 knots",
+      "10.0 knots",
+      "10.5 knots"
+    ],
+    "question": "At 0845, Montauk Pt. Light is bearing 205°T at a radar distance of 6.6 miles.  What is your speed made good from your 0815 position?",
+    "answer": 0,
+    "number": 516518,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0905",
+      "0928",
+      "0950",
+      "It will remain visible to Great Salt Pond."
+    ],
+    "question": "As you head toward Great Salt Pond, visibility is unlimited.  At what time will you lose sight of Montauk Pt.\nLight?",
+    "answer": 3,
+    "number": 516519,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "13214",
+      "13205",
+      "13217",
+      "13207"
+    ],
+    "question": "Which chart should you use to enter Great Salt Pond?",
+    "answer": 2,
+    "number": 516520,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°05.2'N, LONG 71°36.2'W",
+      "LAT 41°05.3'N, LONG 71°35.8'W",
+      "LAT 41°05.4'N, LONG 71°36.0'W",
+      "LAT 41°05.4'N, LONG 71°35.9'W"
+    ],
+    "question": "You are underway in the vicinity of Block Island and obtain the following lines of position:\n\n Montauk Point Light                  267°pgc \n Block Island Southeast Light     030°pgc  \n Radar Bearing to Block Island   \n         Southwest Point (tangent) 352°pgc  \n\nWhat is your position at the time of these sightings?",
+    "answer": 1,
+    "number": 516556,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "266°psc",
+      "272°psc",
+      "289°psc",
+      "294°psc"
+    ],
+    "question": "Which course would you steer by your standard magnetic compass to make good a course of 275°T?",
+    "answer": 2,
+    "number": 516557,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "at an airport",
+      "on a naval mine-countermeasures vessel",
+      "\"Block Island North Light\"",
+      "on a vessel engaged in public safety activity"
+    ],
+    "question": "From your position you observe a rotating white and green light to the north.  This light is most likely __________.",
+    "answer": 0,
+    "number": 516558,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "You are to the left of your DR track.",
+      "You are inside a precautionary area.",
+      "Your speed made good from 1949 to 2027 is 14.0 knots.",
+      "Your course made good from 1949 to 2027 is 111°T."
+    ],
+    "question": "At 2027 you obtain a radar range to Shagwong Point of 3.4 miles and a tangent bearing to the east end of Long Island of 172°T.  Which statement is TRUE?",
+    "answer": 0,
+    "number": 506143,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "40°41.1'N, 72°10.5'W",
+      "40°41.4'N, 72°10.7'W",
+      "40°41.8'N, 72°10.8'W",
+      "40°42.3'N, 72°11.3'W"
+    ],
+    "question": "At 2045 you obtained the following Loran readings:\n 9960-W-14844.0\n 9960-X-26128.0\n 9960-Y-43712.5\n What is your vessel's position?",
+    "answer": 2,
+    "number": 515138,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2240",
+      "2244",
+      "2248",
+      "2252"
+    ],
+    "question": "At what time would you expect to be abeam of Buoy \"MP\"?",
+    "answer": 2,
+    "number": 515139,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2215",
+      "2221",
+      "2227",
+      "2235"
+    ],
+    "question": "At 2100 your position is 40°44.1'N, 72°07.6'W.  From this position, at which time will Montauk Point Light become visible if the luminous range of the light is 8 miles?",
+    "answer": 1,
+    "number": 515140,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "115°true at 1.1 knots",
+      "115°true at 1.5 knots",
+      "295° true at 1.1 knots",
+      "295°true at 1.5 knots"
+    ],
+    "question": "At 2146 your position is 40°51.3'N, 71°59.2'W.  If your engine speed has been 13 knots, what were the set and drift of the current you encountered since your 2100 position?",
+    "answer": 3,
+    "number": 515141,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "88 feet",
+      "105 feet",
+      "121 feet",
+      "166 feet"
+    ],
+    "question": "At 2146 if your fathometer is set on feet, what should be the approximate reading on your fathometer?",
+    "answer": 0,
+    "number": 515142,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "055°true",
+      "061°true",
+      "066° true",
+      "071°true"
+    ],
+    "question": "From your 2146 position, with a new engine speed of 12 knots, you wish to change course in order to pass southeast of Buoy \"MP\" at a distance of 2 miles.  With a reported set of 320° true and a drift of 2 knots, which course should you steer to make good your desired course?",
+    "answer": 1,
+    "number": 515143,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0.9 mile",
+      "1.1 miles",
+      "1.5 miles",
+      "1.9 miles"
+    ],
+    "question": "At 2310 Buoy \"MP\" bears 305° true with a radar range of 2.5 miles, and you obtained a Loran reading of 9960-Y-43823.3.\nFrom this position you change course to 005° true.  Without any set and drift, what would be your predicted distance off Southwest Ledge Buoy \"2\" when it is on your starboard beam?",
+    "answer": 2,
+    "number": 515144,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "You are being set to the north.",
+      "The fathometer reading is about 14 fathoms.",
+      "You are governed by the Inland Rules of the Road.",
+      "The fathometer trace shows you passed over the 89 foot sounding."
+    ],
+    "question": "At 2357 your position is 41°09.0'N, 71°47.0'W and Montauk Point Light bears 216° true.  You change to a course of 293° true and your speed is 14.5 knots.  At 0012 Montauk Point Light bears 177° true.  Which statement about your 0012 running fix is TRUE?",
+    "answer": 1,
+    "number": 515145,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "13.8 knots",
+      "14.4 knots",
+      "15.0 knots",
+      "15.6 knots"
+    ],
+    "question": "At 0016 your position is 41°10.3'N, 71°53.0'W.  You are steering a course of 296° true with no set and drift.  At 0049 Race Rock Light is on your starboard beam.  What was your speed made good from your 0016 position?",
+    "answer": 3,
+    "number": 515146,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°15.0'N, LONG 72°14.3'W",
+      "LAT 41°15.4'N, LONG 72°16.6'W",
+      "LAT 41°15.9'N, LONG 72°14.0'W",
+      "LAT 41°16.4'N, LONG 72°14.2'W"
+    ],
+    "question": "At 1705 Race Rock Light bears 099°True; Orient Point Light bears 176°True; Bartlett Reef Light bears 083°True.  What is your vessel's position?",
+    "answer": 2,
+    "number": 515338,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1719",
+      "1724",
+      "1729",
+      "1734"
+    ],
+    "question": "If there is no set or drift, at what time would you be abeam of Bartlett Reef Light?",
+    "answer": 1,
+    "number": 515339,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "245°T at 0.9 knots",
+      "245°T at 1.7 knots",
+      "065°T at 1.7 knots",
+      "065°T at 0.9 knots"
+    ],
+    "question": "At 1718, Bartlett Reef Light bears 050°T at a distance of 1.5 miles.  From this position, you change course to 128°\nT.  At 1750 Race Rock Light bears 336°T, Little Gull Island Light bears 285°T, and Montauk Point Light bears 134°T.  What were the set and drift of the current you encountered since 1718?",
+    "answer": 2,
+    "number": 515340,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "8.5 fathoms",
+      "10.2 fathoms",
+      "14.7 fathoms",
+      "51.0 fathoms"
+    ],
+    "question": "If your fathometer is set on fathoms, what should your fathometer read at 1750?",
+    "answer": 0,
+    "number": 515341,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "070°T",
+      "075°T",
+      "080°T",
+      "085°T"
+    ],
+    "question": "At 1756 you determined your vessel's position to be 41°10.4'N, 71°59.2'W.  From this position, you wish to change course to head for a point 5 miles west of Block Island North Light.  With a reported set of 050°T, a drift of 2.0 knots and turning RPM's for 14 knots, which course should you steer to make good your desired course?",
+    "answer": 2,
+    "number": 515342,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Watch Hill Point is abeam.",
+      "You are governed by the Inland Rules of the Road.",
+      "You are to the left (north) of your desired course line.",
+      "Your vessel is approximately 8.7 miles off Sandy Point."
+    ],
+    "question": "At 1844 you obtained the following Loran readings:\n\n 9960-W-14607\n 9960-X-25962\n 9960-Y-43920\n\n Which statement is TRUE?",
+    "answer": 3,
+    "number": 515343,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1.2 miles",
+      "1.9 miles",
+      "2.7 miles",
+      "3.4 miles"
+    ],
+    "question": "From your 1850 position of 41°12.8'N, 71°44.1'W, you change course to 060°T. If you make the course good,\nwhat will be your predicted distance off Point Judith Light when the Light bears 015°T?",
+    "answer": 2,
+    "number": 515344,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "You are on the edge of a cable area.",
+      "The bottom is mud, sand, and clay.",
+      "The wavy magenta lines to the north through east of your position are designated lobstering areas.",
+      "Following a Loran-C reading of 9960-Y-43941 or more will keep you to the south of Point Judith Buoy \"2\"."
+    ],
+    "question": "You are making good a course of 060°T at a speed of 13.5 knots.  At 1855 Block Island North Light bears 086°T; at 1910 Block Island North Light bears 108°T; and at 1930 the same light bears 184°T.  Which statement is TRUE about your 1930 running fix position?",
+    "answer": 0,
+    "number": 515345,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "12.5 knots",
+      "13.0 knots",
+      "13.5 knots",
+      "14.0 knots"
+    ],
+    "question": "At 1942 Point Judith bears 030°T and has a range of 3.6 miles and Sandy Point has a range of 5.3 miles.  What was your speed made good from your 1850 position?",
+    "answer": 1,
+    "number": 515346,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°05.0'N, LONG 71°36.2'W",
+      "LAT 41°05.1'N, LONG 71°36.0'W",
+      "LAT 41°05.3'N, LONG 71°35.8'W",
+      "LAT 41°05.4'N, LONG 71°35.5'W"
+    ],
+    "question": "You are underway in the vicinity of Block Island and obtain the following lines of position:\n\n  Montauk Point Light                                            263°pgc  \n  Block Island Southeast Light                               026°pgc \n  Radar Bearing to Block Island  Southwest Point 348°pgc \n\n What is your position at the time of these sightings?",
+    "answer": 2,
+    "number": 515506,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "266°psc",
+      "272°psc",
+      "290°psc",
+      "294°psc"
+    ],
+    "question": "What course should you steer by your standard magnetic compass to make good a course of 280°T?",
+    "answer": 3,
+    "number": 515507,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "from a submarine on the surface",
+      "the light at Southeast Point",
+      "at an airport",
+      "on a coastal patrol vessel"
+    ],
+    "question": "From your position you observe a rotating white and green light to the north.  This light is most likely __________.",
+    "answer": 2,
+    "number": 515508,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Horizontally banded, green over red, with a green buoyancy chamber",
+      "Horizontally banded, red over green, with a red buoyancy chamber",
+      "Vertically striped, red and green",
+      "Solid green with red letters \"BIS\""
+    ],
+    "question": "At 1800, your position is LAT 41°06.5'N, LONG 71°43.5'W. How would the buoy which bears approximately 040°T from your position at a range of half a mile be painted?",
+    "answer": 0,
+    "number": 515509,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "029°T, 0.7 knot",
+      "029°T, 1.4 knots",
+      "209°T, 0.7 knot",
+      "209°T, 1.4 knots"
+    ],
+    "question": "From your 1800 position you steer a course of 350°psc at a speed of 10.0 knots.  At 1830, your position is LAT 41°11.7'N, LONG 71°45.8'W.  What are the set and drift of the current?",
+    "answer": 1,
+    "number": 515510,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The nominal range of its white light is 15 miles.",
+      "It displays both red and white lights.",
+      "Its horn blasts every 30 seconds in fog.",
+      "Its geographic range is 18.5 miles at a 35 foot (10.7 meter) height of eye."
+    ],
+    "question": "From your 1830 fix, you come left to a course of 290°T.\nWhich of the following statements concerning Watch Hill Light is FALSE?",
+    "answer": 3,
+    "number": 515511,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "289°T",
+      "294°T",
+      "299°T",
+      "307°T"
+    ],
+    "question": "At 1850, you obtain the following bearings and distances:\n\n  Montauk Point   189°pgc 8.7 miles  \n  Watch Hill Light 340°pgc 5.7 miles \n\nWhat true course did you make good between 1830 and 1850?",
+    "answer": 1,
+    "number": 515512,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "7.4 nm",
+      "13.0 nm",
+      "14.3 nm",
+      "15.8 nm"
+    ],
+    "question": "If your height of eye is 35 feet (10.7 meters), what is the approximate geographic range of Block Island North Light?",
+    "answer": 3,
+    "number": 515513,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "9960-Y and 9960-W",
+      "9960-X and 9960-Y",
+      "9960-W and 9960-X",
+      "All are equally good."
+    ],
+    "question": "From your 1850 fix, you come left to a course of 280°T,\nwhile maintaining a speed of 10 knots.  Which of the following combinations of available Loran-C lines would give the best cross for position determining?",
+    "answer": 0,
+    "number": 515514,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°13.0'N, LONG 71°54.0'W",
+      "LAT 41°13.1'N, LONG 71°53.9'W",
+      "LAT 41°13.2'N, LONG 71°54.3'W",
+      "LAT 41°13.2'N, LONG 71°53.7'W"
+    ],
+    "question": "You decide to use the 9960-Y and 9960-W rates.  At 1915,\nyou obtain the following readings:\n\n 9960-Y-43936.0\n 9960-W-14653.3\n\n What is your 1915 position?",
+    "answer": 3,
+    "number": 515515,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "13209",
+      "13212",
+      "13213",
+      "13214"
+    ],
+    "question": "If you were to head into Fishers Island Sound, which of the following charts would you switch to for better detail of Mystic and Mystic Harbor?",
+    "answer": 3,
+    "number": 515516,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Blue mud, gritty shells",
+      "Buried mussels, gritty shells",
+      "Blue mud, gray sand",
+      "Bumpy muck with grainy surface"
+    ],
+    "question": "From your 1915 position, you come left and set a course for Gardiners Point.  At 1930, your position is LAT 41°12.7'N,\nLONG 71°56.8'W.  What type of bottom is charted at this position?",
+    "answer": 2,
+    "number": 515517,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "275°T",
+      "280°T",
+      "290°T",
+      "294°T"
+    ],
+    "question": "From your 1930 position, you plot a course to pass 0.5 mile due south of Race Rock Light. If your vessel's speed is 10.0 knots, the current's set and drift are 040°T at 1.8 knots, and a north wind produces a 3° leeway, what true course should you steer to make good your desired course?",
+    "answer": 1,
+    "number": 515518,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "300 yards (91 meters)",
+      "1.0 mile",
+      "0.5 mile",
+      "No distance is prescribed since any such activities in the area are prohibited."
+    ],
+    "question": "As an option to heading into Long Island Sound, you consider anchoring in the vicinity of the Gardiners Point Ruins approximately one mile off the north end of Gardiners Island.  What is the minimum recommended distance from the ruins for fishing,\ntrawling, or anchoring?",
+    "answer": 0,
+    "number": 515519,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "162.25 MHz",
+      "162.30 MHz",
+      "162.40 MHz",
+      "162.55 MHz"
+    ],
+    "question": "NOAA VHF-FM weather broadcasts from New London, CT are on __________.",
+    "answer": 3,
+    "number": 515520,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "14.0 nm",
+      "12.6 nm",
+      "10.3 nm",
+      "9.2 nm"
+    ],
+    "question": "In clear weather, you will lose sight of Point Judith Light at what distance?",
+    "answer": 0,
+    "number": 515560,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0527",
+      "0534",
+      "0541",
+      "0544"
+    ],
+    "question": "At what time will you cross the 60 foot curve if you make good 12 knots?",
+    "answer": 0,
+    "number": 515561,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "recommended approaches to Green Hill Point",
+      "submarine cables",
+      "prohibited fishing areas",
+      "fish trap areas"
+    ],
+    "question": "The two wavy magenta lines running to Green Hill Point represent __________.",
+    "answer": 1,
+    "number": 515562,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "178° at 0.8 knot",
+      "178° at 1.2 knot",
+      "358° at 0.8 knot",
+      "358° at 1.2 knots"
+    ],
+    "question": "What was the current between 0520 and 0600?",
+    "answer": 3,
+    "number": 515564,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "251°pgc",
+      "254°pgc",
+      "257°pgc",
+      "261°pgc"
+    ],
+    "question": "From your 0600 position, what is the course per gyrocompass to leave Watch Hill Light abeam to starboard at 2.0 miles if a southerly wind is producing 3° of leeway?",
+    "answer": 3,
+    "number": 515565,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°20.8'N, Long 71°29.7'W",
+      "LAT 41°20.8'N, Long 71°30.0'W",
+      "LAT 41°20.6'N, Long 71°30.0'W",
+      "LAT 41°20.5'N, Long 71°29.8'W"
+    ],
+    "question": "At 0520 you take the following observations:\n\n  Point Judith Light                               036°pgc \n Point Judith Harbor of Refuge \n          Main Breakwater Center Light   312°pgc  \n\n What is the position of your 0520 fix?",
+    "answer": 0,
+    "number": 515566,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "is used mostly by towing vessels",
+      "has a maximum depth of 14 feet (4.3 meters) at MHW",
+      "West Gap has a controlling depth of 24 feet",
+      "is entered through the East Gap or the West Gap"
+    ],
+    "question": "Point Judith Harbor of Refuge __________.",
+    "answer": 3,
+    "number": 515567,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "262°psc",
+      "258°psc",
+      "233°psc",
+      "227°psc"
+    ],
+    "question": "At 0520, you are on course 243°pgc at 12 knots.  What is the course per standard magnetic compass?",
+    "answer": 1,
+    "number": 515568,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "marked by waterfalls from the highland ponds",
+      "low and marshy",
+      "sandy and broken by rocky points",
+      "heavily forested"
+    ],
+    "question": "The coastline between Point Judith and Watch Hill is __________.",
+    "answer": 2,
+    "number": 515569,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "156°",
+      "160°",
+      "164°",
+      "168°"
+    ],
+    "question": "At 2009 you are leaving New London Harbor with buoy \"2\"\nclose abeam to port.  What is the true course to the Race that will leave Race Rock Light 0.5 mile abeam to port?",
+    "answer": 2,
+    "number": 515638,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "3°E",
+      "1°E",
+      "5°W",
+      "2°W"
+    ],
+    "question": "At 2016 you sight N. Dumpling Light in line with Latimer Reef Light (Fl 6 sec, 55 ft) bearing 079°pgc. At the time of the bearing the helmsman reported he was steering 164°\npgc and 172° per standard magnetic compass.  What is the deviation for that heading?",
+    "answer": 0,
+    "number": 515639,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "At the mouth of New London Harbor",
+      "Upon entering Block Island Sound",
+      "After crossing the line of the Territorial Sea",
+      "After passing between Montauk Point and Lewis Point on Block Island"
+    ],
+    "question": "At which point in the voyage is your vessel bound by the International Rules of the Roads (COLREGS)?",
+    "answer": 1,
+    "number": 515640,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "to the left of the track line",
+      "to the right of the track line",
+      "forward along the track line",
+      "towards New London along the track line"
+    ],
+    "question": "You will pass through the Race at approximately the time of maximum ebb current.  As you APPROACH the Race from New London, you will be set __________.",
+    "answer": 0,
+    "number": 515641,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "115°",
+      "118°",
+      "124°",
+      "127°"
+    ],
+    "question": "At 2030 you take the following radar ranges:\n\n  Race Rock Light     2.1 miles  \n  Latimer Reef Light   6.4 miles\n \n If you estimate an average current of 080°T at 1.5 knots,\nwhich course will you steer per gyrocompass to leave Endeavor Shoals Gong Buoy bearing 270°T at 1.5 miles?",
+    "answer": 3,
+    "number": 515642,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Radar ranges to Southwest Point of less than 7.9 miles",
+      "Soundings of less than 50 feet",
+      "Shagwong Reef Lighted Bell Buoy \"7SR\" 3.1 miles off  abeam",
+      "Race Rock Light bearing 299°T and decreasing"
+    ],
+    "question": "The light on Block Island Sound South Entrance Obstruction Buoy \"BIS\" is reported extinguished.  Which of the following will serve as a positive warning that you are being set onto the obstruction?",
+    "answer": 3,
+    "number": 515643,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°09.2'N, LONG 71°52.5'W",
+      "LAT 41°09.1'N, LONG 71°52.2'W",
+      "LAT 41°09.0'N, LONG 71°52.9'W",
+      "LAT 41°08.8'N, LONG 71°52.5'W"
+    ],
+    "question": "At 2045 visibility decreases in fog, and at 2103 you take the following loran fix:\n\n 9960-W-14658\n 9960-X-26012.5\n 9960-Y-43904\n \nDetermine your 2103 fix.",
+    "answer": 0,
+    "number": 515644,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "You are inside the lobster pot area.",
+      "The fathometer reads about 12 fathoms.",
+      "You are inside of the 90 foot curve.",
+      "You are outside the boundary of the Territorial Sea and Contiguous Zone."
+    ],
+    "question": "You round Montauk Point and steer to make good 206°T. Speed is increased to 13.0 knots.  The current, if any, is unknown.  The visibility has improved and is estimated to be 5 miles.  At 2144 Montauk Point Light bears 273°T.  At 2202 the same light bears 320°T.  Which statement concerning your 2202 running fix is TRUE?",
+    "answer": 1,
+    "number": 515645,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "187°",
+      "191°",
+      "217°",
+      "220°"
+    ],
+    "question": "At 2229 the gyro fails.  What is the course to steer per standard magnetic compass to make good 206°T, if you allow 3° leeway for southeasterly winds?",
+    "answer": 2,
+    "number": 515646,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°19.0'N, LONG 72°05.2'W",
+      "LAT 41°14.4'N, LONG 71°54.6'W",
+      "LAT 41°14.2'N, LONG 72°06.8'W",
+      "LAT 41°14.0'N, LONG 72°05.3'W"
+    ],
+    "question": "At 0630, Buoy \"PI\" is close abeam on the starboard side. You are steering 078°T and are headed directly toward Race Rock Light.  At 0654, Little Gull Island Light is bearing 210°pgc and Race Rock Light is bearing 075°pgc.  What is your 0654 position?",
+    "answer": 3,
+    "number": 515656,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "078°T",
+      "082°T",
+      "086°T",
+      "090°T"
+    ],
+    "question": "What was the course made good from 0630 to 0654?",
+    "answer": 1,
+    "number": 515657,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "062°psc",
+      "080°psc",
+      "090°psc",
+      "095°psc"
+    ],
+    "question": "What course should you steer by the standard magnetic compass in order to maintain a heading of 081°pgc?",
+    "answer": 3,
+    "number": 515658,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "COLREGS",
+      "Local Pilot Rules",
+      "Inland Rules",
+      "Coastal Fishery Rules"
+    ],
+    "question": "At 0705, you change course to 096°T.  At this time, Race Rock Light is bearing 000°T at 0.35 mile.  You are now governed by which Navigation Rules?",
+    "answer": 0,
+    "number": 515659,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "11.2 knots",
+      "10.8 knots",
+      "9.6 knots",
+      "9.1 knots"
+    ],
+    "question": "At 0728, Race Rock Light is bearing 282°T at 3.8 miles,\nand the closest point on Fishers Island has a radar range of 2.1 miles.  What speed have you been making since you changed course at 0705?",
+    "answer": 2,
+    "number": 515660,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2°E",
+      "1°E",
+      "0°",
+      "3°W"
+    ],
+    "question": "At 0727, the cupola on Fishers Island is in line with Latimer Reef Light bearing 024°pgc.  Based on this, the gyro error is __________.",
+    "answer": 3,
+    "number": 515661,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "325 feet (98.5 meters)",
+      "175 feet (53.0 meters)",
+      "130 feet (39.4 meters)",
+      "112 feet (33.9 meters)"
+    ],
+    "question": "At 0748, you take the following Loran-C readings:\n \n 9960-W-14651.0\n 9960-X-26034.8\n 9960-Y-43943.8\n\n What is the approximate depth of water under the keel at this position?",
+    "answer": 3,
+    "number": 515662,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Nothing more than 9960-W-14645",
+      "Nothing more than 9960-X-25970",
+      "Nothing more than 9960-Y-43850",
+      "Nothing more than 9960-Y-43960"
+    ],
+    "question": "At 0748, you change course to 160°T.  Which loran reading will insure you clear Great Eastern Rock?",
+    "answer": 0,
+    "number": 515663,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Set 040°T, drift 0.7 knots",
+      "Set 040°T, drift 1.6 knots",
+      "Set 220°T, drift 1.6 knots",
+      "Set 220°T, drift 0.7 knots"
+    ],
+    "question": "At 0815, Montauk Pt. Light House is bearing 172°T,\nShagwong Pt. has a radar range of 4.5 miles.  If the engine was making turns for 10 knots, what was the current since 0748?",
+    "answer": 2,
+    "number": 515664,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Continue on the same course and speed.",
+      "Alter your course to the left.",
+      "Slow to 8.5 knots.",
+      "Alter your course to the right."
+    ],
+    "question": "Which action should you take to compensate for the above current?",
+    "answer": 1,
+    "number": 515665,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "shown from a brown tower",
+      "equipped with a fog diaphone",
+      "lighted 24 hours",
+      "is 79 feet (24 meters) high"
+    ],
+    "question": "At 0815, visibility is excellent and you can see Montauk Point.  Montauk Point Light is __________.",
+    "answer": 2,
+    "number": 515666,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "090°psc",
+      "093°psc",
+      "095°psc",
+      "099°psc"
+    ],
+    "question": "At 0815, you change course to 079°T.  To compensate for a southerly wind, you estimate a 3° leeway is necessary. Which course should you steer per standard magnetic compass to make good 079°T?",
+    "answer": 3,
+    "number": 515667,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "8.2 knots",
+      "9.2 knots",
+      "10.0 knots",
+      "10.5 knots"
+    ],
+    "question": "At 0839, Montauk Pt. Light is bearing 205°T at a radar distance of 6.6 miles.  What is your speed made good from your 0815 position?",
+    "answer": 1,
+    "number": 515668,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "naval exercise area",
+      "fish trap area",
+      "submerged cable area",
+      "restricted navigation area"
+    ],
+    "question": "The area between Block Island and Montauk Point that is bounded by dashed magenta lines is a __________.",
+    "answer": 2,
+    "number": 515669,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "13204",
+      "13205",
+      "13207",
+      "13217"
+    ],
+    "question": "Which chart should you use to enter Great Salt Pond?",
+    "answer": 3,
+    "number": 515670,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 40°41.0'N,  LONG 72°06.0'W",
+      "LAT 40°41.0'N,  LONG 72°10.6'W",
+      "LAT 40°42.5'N,  LONG 72°07.1'W",
+      "LAT 40°47.5'N,  LONG 72°02.9'W"
+    ],
+    "question": "At 1830 you obtained the following Loran-C readings:\n\n 9960-W-14820.0\n 9960-X-26097.0\n 9960-Y-43713.5\n\n What is your vessel's position?",
+    "answer": 2,
+    "number": 515738,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "024° relative",
+      "028° relative",
+      "032° relative",
+      "036° relative"
+    ],
+    "question": "Your 1900 position is LAT 40°45.5'N, LONG 72°03.0'W. Your course is 046°T, and your engines are turning RPM's for 9 knots.  At your 1939 DR position, what is the expected relative bearing of Montauk Point Light on the port bow?",
+    "answer": 1,
+    "number": 515739,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 40°53.9'N,  LONG 71°51.3'W",
+      "LAT 40°54.2'N,  LONG 71°50.2'W",
+      "LAT 40°55.9'N,  LONG 71°49.0'W",
+      "LAT 40°56.7'N,  LONG 71°48.1'W"
+    ],
+    "question": "At 2000 Montauk Point Light bears 010°T.  At 2030 the loran reads 9960-Y-43785.7.  Assuming that you are making good your course of 046°T and a speed of 9 knots, what is your 2030 running fix position?",
+    "answer": 1,
+    "number": 515740,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "024°T",
+      "028°T",
+      "032°T",
+      "036°T"
+    ],
+    "question": "At 2050 you obtain the following Loran-C readings:\n\n 9960-X-25945\n 9960-Y-43802\n 9960-W-14662\n\n From this position, you change course in order to pass 1 mile due east of Montauk Point Lighted Whistle Buoy \"MP\". If there are no set and drift, what course must you steer?",
+    "answer": 0,
+    "number": 515741,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "005°T",
+      "011°T",
+      "017°T",
+      "025°T"
+    ],
+    "question": "At 2100 your position is LAT 40°58.5'N,  LONG 71°46.0'W. You are proceeding north.  At 2131 Montauk Point Light has a radar range of 5.1 miles and bears 284°T.  Block Island Southeast Light has a radar range of 10.8 miles.  What was the course made good from your 2100 position?",
+    "answer": 1,
+    "number": 515742,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "276°T",
+      "280°T",
+      "284°T",
+      "288°T"
+    ],
+    "question": "At 2155 Montauk Point Light bears 249°T, Watch Hill Point Light bears 335°T, and Block Island North Light bears 045°\nT.  At this time, you wish to change course to 288°T.  The current has a set of 355°T and a drift of 2.0 knots.  If your vessel is turning RPM's for 9 knots, what course must you steer in order to make your desired course good?",
+    "answer": 0,
+    "number": 515743,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "40 feet",
+      "60 feet",
+      "70 feet",
+      "80 feet"
+    ],
+    "question": "Montauk Point Light has a radar range of 4.0 miles and bears 170°T at 2232.  What is the depth of water below your keel?",
+    "answer": 0,
+    "number": 515744,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "076°T at 0.75 knot",
+      "076°T at 0.90 knot",
+      "256°T at 0.75 knot",
+      "256°T at 0.90 knot"
+    ],
+    "question": "Your 2239 position is LAT 41°08.5'N, LONG 71°53.3'W.  You change course to 315°T, and you maintain RPM's for 9 knots.  At 2329 Little Gull Island Light bears 253°T, Race Rock Light bears 309°T, and Watch Hill Point Light bears 058°T.  What were the set and drift of the current you experienced from your 2239 position?",
+    "answer": 3,
+    "number": 515745,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "13209",
+      "13211",
+      "13212",
+      "13214"
+    ],
+    "question": "Which nautical chart would you use to navigate into New London, CT?",
+    "answer": 2,
+    "number": 515746,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°12.1'N, LONG 72°13.8'W",
+      "LAT 41°12.1'N, LONG 72°14.6'W",
+      "LAT 41°12.3'N, LONG 72°14.7'W",
+      "LAT 41°12.5'N, LONG 71°14.9'W"
+    ],
+    "question": "You are steering 087°pgc and turning for 6.8 knots.  At 0600, you take the following loran readings:\n\n 9960-W-14784.4\n 9960-X-26208.3\n 9960-Y-43959.1\n\n What is your 0600 position?",
+    "answer": 0,
+    "number": 515756,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "072°pgc",
+      "076°pgc",
+      "080°pgc",
+      "084°pgc"
+    ],
+    "question": "If you change course at 0610, what is the course to steer per gyro compass to a point where Little Gull Island Light bears 180°T at 0.7 mile (Point \"A\")?",
+    "answer": 1,
+    "number": 515757,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0637",
+      "0643",
+      "0649",
+      "0700"
+    ],
+    "question": "What is your ETA at point \"A\"?",
+    "answer": 2,
+    "number": 515758,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "West",
+      "East",
+      "Northeast",
+      "Southwest"
+    ],
+    "question": "You calculate that the current will be flooding at the Race at 0700.  You should expect to be set in which general direction at the Race?",
+    "answer": 0,
+    "number": 515759,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°17.4'N, LONG 72°05.6'W",
+      "LAT 41°17.0'N, LONG 72°07.1'W",
+      "LAT 41°16.6'N, LONG 72°04.6'W",
+      "LAT 41°16.2'N, LONG 72°06.4'W"
+    ],
+    "question": "At 1910 you obtain the following bearings:\n\n  Bartlett Reef Light       268°T  \n  Race Rock Light        147°T  \n  Little Gull Island Light  198°T  \n\nWhich of the following is your position at 1910?",
+    "answer": 2,
+    "number": 515938,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Decreasing bearings to Race Rock Light",
+      "Decreasing loran readings on loran rate 9960-W",
+      "Increasing soundings",
+      "Decreasing radar ranges to Race Point"
+    ],
+    "question": "From your 1910 position, you set a course of 162°T at a speed of 14 knots.  What will serve as a definite warning that you are being set towards Race Rock Light?",
+    "answer": 1,
+    "number": 515939,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "321°T, 2.2 knots",
+      "321°T, 0.9 knots",
+      "331°T, 2.2 knots",
+      "331°T, 0.9 knots"
+    ],
+    "question": "At 1934 Little Gull Island Light bears 277°T and Race Rock Light bears 000°T.  Which were the set and drift between 1910 and 1934?",
+    "answer": 2,
+    "number": 515940,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2003, 4.2 miles",
+      "2009, 4.2 miles",
+      "2003, 3.7 miles",
+      "2009, 3.7 miles"
+    ],
+    "question": "From your 1934 position, you change course to pass 2.0 miles due north of Block Island Sound South Entrance Obstruction Lighted \"BIS\" Buoy.  If you adjust your course only (while maintaining an engine speed of 14 knots) for a set and drift of 230°T at 3.5 knots, what is your ETA and distance off when abeam of Shagwong Reef Lighted Bell Buoy \"7SR\"?",
+    "answer": 3,
+    "number": 515941,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "51 feet",
+      "73 feet",
+      "95 feet",
+      "111 feet"
+    ],
+    "question": "At 1959 Watch Hill Point Light bears 030°T, Montauk Point Light bears 146°T, and Little Gull Light bears 283°T. What is the approximate fathometer reading?",
+    "answer": 0,
+    "number": 515942,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Your speed made good between your 1959 fix and 2038 fix is 11.0 knots.",
+      "Your course made good between your 1959 fix and 2038 fix is 102°T.",
+      "At your 2038 fix, your vessel is governed by the Inland Rules of the Road.",
+      "Block Island Sound South Entrance Obstruction Lighted \"BIS\"\nBuoy is located 3.6 miles off your starboard bow."
+    ],
+    "question": "At 2038 Block Island North Light bears 065°T, Montauk Point Light bears 216°T, and a reading of 25959 is obtained on loran rate 9960-X.  Which statement is TRUE?",
+    "answer": 3,
+    "number": 515943,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2047",
+      "2052",
+      "2056",
+      "2101"
+    ],
+    "question": "From your 2038 position you change course to 104°T and increase engine speed to 18 knots.  If you make good this course and speed, at what time will Southwest Ledge Lighted Bell Buoy \"2\" bear 157°T?",
+    "answer": 1,
+    "number": 515944,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2.1 miles",
+      "2.5 miles",
+      "2.9 miles",
+      "3.3 miles"
+    ],
+    "question": "At 2107 Southeast Point Light bears 062°T, and at 2112 this light bears 038°T.  What is your distance off Southeast Point Light at 2112?  (assume no set and drift)",
+    "answer": 1,
+    "number": 515945,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "4°W",
+      "2°W",
+      "2°E",
+      "4°E"
+    ],
+    "question": "At 2132 you sight Block Island Southest Point Light in line with the Aerobeacon (rotating white and green) bearing  308.5°pgc.  The helmsman reports he was heading 106°pgc and 119°psc.  What is the deviation on that heading?",
+    "answer": 2,
+    "number": 515946,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°15.6'N, LONG 72°09.6'W",
+      "LAT 41°16.1'N, LONG 72°08.3'W",
+      "LAT 41°15.3'N, LONG 72°12.9'W",
+      "LAT 41°15.8'N, LONG 72°07.1'W"
+    ],
+    "question": "At 1930 Race Rock Light bears 111°T, Little Gull Island Light bears  172°T, and a reading of 26157 is obtained on Loran Rate 9960-X.  Which of the following is your position at 1930?",
+    "answer": 3,
+    "number": 516138,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0.8 mile",
+      "1.0 miles",
+      "1.2 miles",
+      "1.4 miles"
+    ],
+    "question": "From your 1930 position, you set a course of 150°T.  Your engine speed is 13 knots.  What will be your distance off Valiant Rock Bell Buoy \"1A\" when abeam, if you make good your true course of 150°?",
+    "answer": 1,
+    "number": 516139,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "141°T",
+      "145°T",
+      "149°T",
+      "153°T"
+    ],
+    "question": "Available information indicates that there is a set and drift in this area of 290°T at 2 knots.  Allowing for this set and drift, what course must you steer to make good a true course of 150°, while maintaining an engine speed of 13 knots, from your 1930 position?",
+    "answer": 1,
+    "number": 516140,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "11.0 knots",
+      "11.4 knots",
+      "14.0 knots",
+      "14.4 knots"
+    ],
+    "question": "The speed you can expect to make good over your course while steering to make 150°T is __________.",
+    "answer": 1,
+    "number": 516141,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2016",
+      "2019",
+      "2022",
+      "2025"
+    ],
+    "question": "At 1949 Little Gull Island Light bears 270°T and is 1.7 miles off.  From this position, you change course to 118°T and increase engine speed to 18 knots.  If you make good your course and speed, at what time should Shagwong Reef Lighted Bell Buoy \"7SR\" bear 180°T?",
+    "answer": 0,
+    "number": 516142,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2039",
+      "2043",
+      "2047",
+      "2050"
+    ],
+    "question": "From your 2027 position you change course to 106°T, while maintaining an engine speed of 18 knots.  Your ETA at a position where Block Island Sound South Entrance Obstruction  Lighted Buoy \"BIS\" is abeam is __________.",
+    "answer": 3,
+    "number": 516144,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "127°T at 3.1 knots",
+      "127°T at 1.4 knots",
+      "307°T at 3.1 knots",
+      "307°T at 1.4 knots"
+    ],
+    "question": "At 2054 Block Island Southeast Point Light bears 054°T,\nSouthwest Ledge Lighted Bell Buoy 2 is 1.6 miles off to port, and a reading of 14595 is obtained on loran rate 9960-W.  The set and drift from 2027 to 2054 is __________.",
+    "answer": 0,
+    "number": 516145,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2105",
+      "2111",
+      "2117",
+      "2125"
+    ],
+    "question": "From your 2054 position, you change course to 066°T. Maintaining course and speed of 18 knots, at what time can you expect to first cross the 90-foot curve if you experience no set and drift?",
+    "answer": 0,
+    "number": 516146,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°11.2'N, LONG 72°14.6'W",
+      "LAT 41°12.1'N, LONG 72°13.8'W",
+      "LAT 41°12.3'N, LONG 72°14.7'W",
+      "LAT 41°12.5'N, LONG 71°14.9'W"
+    ],
+    "question": "You are steering 087°pgc and turning for 6.8 knots.  At 0600, you take the following loran readings:\n\n 9960-W-14784.4\n 9960-X-26208.3\n 9960-Y-43959.1\n\n What is your 0600 position?",
+    "answer": 1,
+    "number": 516206,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "072°pgc",
+      "076°pgc",
+      "080°pgc",
+      "084°pgc"
+    ],
+    "question": "If you change course at 0610, what is the course to steer to a point where Little Gull Island Light bears 180°T at 0.7 mile (Point \"A\")?",
+    "answer": 2,
+    "number": 516207,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0640",
+      "0651",
+      "0655",
+      "0702"
+    ],
+    "question": "What is your ETA at point \"A\"?",
+    "answer": 1,
+    "number": 516208,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "West",
+      "North",
+      "Northeast",
+      "East"
+    ],
+    "question": "You calculate that the current will be ebbing at the Race at 0700.  You should expect to be set in which general direction at the Race?",
+    "answer": 3,
+    "number": 516209,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Not less than 9960-Y-43953.5",
+      "Not more than 9960-W-14735.9",
+      "Not less than 9960-W-14735.8",
+      "Not more than 9960-X-26149.0"
+    ],
+    "question": "As you near Little Gull Island, you use your loran to insure that you do not come within 0.5 mile of the island.  Which of the following loran readings will act as a danger line and keep you off Little Gull Island by a minimum of 0.5 mile?",
+    "answer": 0,
+    "number": 516210,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "20.4 miles",
+      "23.7 miles",
+      "23.9 miles",
+      "24.4 miles"
+    ],
+    "question": "From point \"A\", you lay out an intended track line to a point where Block Island North Light bears 180°T at 2.9 miles (Point \"B\").  What is the length of this leg of the voyage?",
+    "answer": 3,
+    "number": 516211,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "094.5°",
+      "095.5°",
+      "098.5°",
+      "099.5°"
+    ],
+    "question": "What is the course per standard magnetic compass between points \"A\" and \"B\"?",
+    "answer": 2,
+    "number": 516212,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "You are to the left of your track line.",
+      "Your fathometer reads about 265 fathoms.",
+      "You are in a cable area.",
+      "You are governed by the Inland Rules."
+    ],
+    "question": "At 0715 you take the following bearings:\n\n  Race Rock Light          328°pgc \n  Little Gull Island Light    249°pgc  \n  Mt. Prospect Antenna   036°pgc  \n\nBased on your 0715 fix, which statement is TRUE?",
+    "answer": 0,
+    "number": 516213,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Set 030°T, drift 0.4 knot",
+      "Set 216°T, drift 0.3 knot",
+      "Set 070°T, drift 0.6 knot",
+      "Set 238°T, drift 1.0 knot"
+    ],
+    "question": "From your 0715 position, you set a course of 085°T.  At 0745 you take the following bearings:\n\n  Race Rock Light                             278°pgc  \n  Watch Hill Light                               049°pgc  \n  Fisher's Island East Harbor Cupola  010°pgc \n\n What was the current encountered between 0715 and 0745?",
+    "answer": 2,
+    "number": 516214,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "079°pgc",
+      "081°pgc",
+      "085°pgc",
+      "087°pgc"
+    ],
+    "question": "The wind is southerly, and you estimate 3° leeway. Allowing for leeway, what is the course to steer from your 0745 position to pass 1 mile south of Watch Hill Buoy \"WH\"?",
+    "answer": 3,
+    "number": 516215,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0750",
+      "0807",
+      "0838",
+      "0845"
+    ],
+    "question": "From your 0745 fix, you change course to pass 1.0 mile south of buoy \"WH\" and estimate your speed at 7 knots.  If the visibility clears, what is the earliest time you can expect to see Block Island North Light tower?",
+    "answer": 1,
+    "number": 516216,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Low, rocky cliffs with heavily wooded hills inland",
+      "Sandy beaches broken by rocky points",
+      "Sand dunes and beaches with a mud and sand bottom",
+      "Wooded, barren hills with isolated prominent buildings"
+    ],
+    "question": "Which statement describes the shore between Watch Hill Point and Point Judith?",
+    "answer": 1,
+    "number": 516217,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "5.4 knots",
+      "5.8 knots",
+      "6.7 knots",
+      "7.1 knots"
+    ],
+    "question": "At 0830, Watch Hill Point bears 343°T at 3.5 miles by radar.  What was the speed made good since 0745?",
+    "answer": 3,
+    "number": 516218,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "You are within 3 nautical miles of the coast.",
+      "The bottom in the area is sand and gravel.",
+      "The fix is indeterminate.",
+      "You are governed by the Inland Rules."
+    ],
+    "question": "At 0900, you take the following radar ranges:\n\n  Watch Hill Point                5.4 miles \n  Block Island Grace Point  8.3 miles \n\n Which statement is TRUE?",
+    "answer": 2,
+    "number": 516219,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "089°pgc",
+      "091°pgc",
+      "093°pgc",
+      "096°pgc"
+    ],
+    "question": "At 0930, your position is LAT 41°16.5'N, LONG 71°41.4'W,\nand you are turning for 7 knots.  Allowing 3° leeway for southerly winds and estimating the current as 035° at 0.3\nknot, what is the course to steer (pgc) to point \"B\"?",
+    "answer": 3,
+    "number": 516220,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "322°",
+      "348°",
+      "356°",
+      "002°"
+    ],
+    "question": "At 2209 you take the following loran readings:\n\n 9960-W-14617.0\n 9960-X-25834.3\n 9960-Y-43716.5\n\n There is a strong WSW'ly wind causing an estimated 3°\nleeway.  What course will you steer by standard magnetic compass from your 2209 position to make good 340°T?",
+    "answer": 2,
+    "number": 516338,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Decreasing loran readings on 9960-W",
+      "Visual bearings of Montauk Point Lt. changing to the left",
+      "Increasing bearings of Southeast Point Light",
+      "Decreasing soundings"
+    ],
+    "question": "Based on your 2209 fix, which would be a warning that you are being set down on Block Island Sound South Entrance Obstruction Lighted \"BIS\" Buoy?",
+    "answer": 0,
+    "number": 516339,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2237",
+      "2249",
+      "2256",
+      "2301"
+    ],
+    "question": "If you make good your intended course and speed, at what time will you cross the 150-foot curve?",
+    "answer": 2,
+    "number": 516340,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 40°51.2'N, LONG 71°35.9'W",
+      "LAT 40°51.5'N, LONG 71°36.4'W",
+      "LAT 40°52.2'N, LONG 71°36.6'W",
+      "LAT 40°52.0'N, LONG 71°37.4'W"
+    ],
+    "question": "At 2230 you take the following visual bearings:\n\n   Montauk Point Light, Long Island     317°pgc   \n   Southeast Point Light, Block Island  009°pgc \n\nWhat is your position?",
+    "answer": 3,
+    "number": 516341,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "105°T at 1.0 knot",
+      "105°T at 0.9 knot",
+      "285°T at 1.0 knot",
+      "285°T at 0.9 knot"
+    ],
+    "question": "At 2302 you fix your position at LAT 40°57.8'N, LONG 71°39.3'W.  What current have you experienced since your 2209 fix?",
+    "answer": 0,
+    "number": 516342,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "324°pgc",
+      "327°pgc",
+      "330°pgc",
+      "333°pgc"
+    ],
+    "question": "At 2302 you change course to compensate for an estimated current of 090°T, at 1.0 knot.  What course per gyrocompass will you steer to leave Endeavor Shoals Lighted Gong Buoy \"3\" abeam to port at 1 mile?",
+    "answer": 1,
+    "number": 516343,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2340",
+      "2345",
+      "2350",
+      "2355"
+    ],
+    "question": "After changing course to allow for a current of 090°T at 1.0 knot, what time will Endeavor Shoals Lighted Gong Buoy \"3\" be abeam to port?",
+    "answer": 2,
+    "number": 516344,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Between Montauk Point and Block Island",
+      "In the Race",
+      "At the mouth of Bridgeport Harbor",
+      "Between Plum Gut and Niantic Bay"
+    ],
+    "question": "Where will you cross the demarcation line between the International and Inland Rules of the Road?",
+    "answer": 1,
+    "number": 516345,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "New London Airport Aerobeacon",
+      "New London Harbor Light",
+      "New London Ledge Light",
+      "Bartlett Reef Light"
+    ],
+    "question": "After passing through the Race, enroute to Bridgeport, CN,\nand Race Rock Light is 2 miles astern you notice an equal interval flashing red light on the starboard side.  This light is __________.",
+    "answer": 1,
+    "number": 516346,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°14.1'N,  LONG 72°08.2'W",
+      "LAT 41°14.2'N,  LONG 72°08.4'W",
+      "LAT 41°14.0'N,  LONG 72°08.5'W",
+      "LAT 41°14.3'N,  LONG 72°08.5'W"
+    ],
+    "question": "At 0227, you take the following radar ranges and bearings: \n\n  Bartlett Reef Light 359°T at 2.4 miles \n  Race Rock Light  083°T at 4.1 miles \n\nWhat is your 0227 position?",
+    "answer": 0,
+    "number": 516406,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "099°psc",
+      "102°psc",
+      "105°psc",
+      "109°psc"
+    ],
+    "question": "At 0227, you are on course 087°T at 10 knots.  What course per standard magnetic compass should you steer to make good your true course?",
+    "answer": 2,
+    "number": 516407,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0247",
+      "0251",
+      "0255",
+      "0258"
+    ],
+    "question": "You estimate that you are making 9.3 knots over the ground.\n At what time will you enter waters governed by the COLREGS?",
+    "answer": 1,
+    "number": 516408,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "83 feet (25.2 meters)",
+      "100 feet (30.3 meters)",
+      "120 feet (36.4 meters)",
+      "135 feet (40.9 meters)"
+    ],
+    "question": "At 0337, fog closes in and you anchor under the following radar ranges and bearing.\n\n  South tip of Watch Hill Point  3.0 miles \n  East point of Fishers Island    1.4 miles  \n  Latimer Reef Light                 331°T  \n\nWhat is the approximate depth of water at your anchorage?",
+    "answer": 1,
+    "number": 516409,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "low and sandy beaches with salt ponds and marsh grass",
+      "sheer cliffs rising from the sea to a high, flat plateau",
+      "barren, rocky hills with prominent sandy beaches",
+      "sparsely wooded hills and is fringed with shoals to the south"
+    ],
+    "question": "By 1015, visibility has increased to 5.0 miles and you can see Fishers Island.  Fishers Island has __________.",
+    "answer": 3,
+    "number": 516410,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "074°pgc",
+      "076°pgc",
+      "078°pgc",
+      "080°pgc"
+    ],
+    "question": "You get underway at 1030.  The wind is out of the SSE and you estimate 3° leeway.  What course should you steer per gyrocompass to make good a desired course of 075°T?",
+    "answer": 3,
+    "number": 516411,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The gyro error is 2.5°W.",
+      "The variation is 2°E.",
+      "The compass error is 16°W.",
+      "The deviation is 2°W."
+    ],
+    "question": "Shortly after getting underway, your heading is 097° per standard magnetic compass, and you sight Stonington Outer Breakwater Light in line with Stonington Inner Breakwater Light bearing 000° per gyrocompass.  Which statement is TRUE?",
+    "answer": 0,
+    "number": 516412,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "185°",
+      "187°",
+      "190°",
+      "193°"
+    ],
+    "question": "At 1104, Watch Hill Point Light is in line with Stonington Outer Breakwater Light, the range to the south tip of Watch Hill Point is 2.6 miles and the range to the beach is 1.9 miles.  You are steering to make good 075°T, speed 10.0 knots.  At 1110, you change course to head for a position of LAT 41°05.0'N, LONG 71°50.0'W.  What is the true course?",
+    "answer": 2,
+    "number": 516413,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1157",
+      "1208",
+      "1215",
+      "1219"
+    ],
+    "question": "At 1110, you increase speed to 12 knots.  What is your ETA at the new position?",
+    "answer": 2,
+    "number": 516414,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "There is no loran reading to follow.",
+      "9960-Y-43958",
+      "9960-W-14655",
+      "9960-X-25982"
+    ],
+    "question": "You can follow what loran reading between your two positions?",
+    "answer": 3,
+    "number": 516415,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Set 015°, drift 0.5 knot",
+      "Set 195°, drift 0.5 knot",
+      "Set 015°, drift 0.7 knot",
+      "Set 195°, drift 0.7 knot"
+    ],
+    "question": "At 1345, you depart from a position 1 mile due east of Montauk Point Light and set course for Block Island Southeast Light at 9 knots.  At 1430, you take the following loran readings:\n\n 9960-W-14600.8\n 9960-Y-43866.3\n 9960-X-25912.3\n\n What was the current encountered since 1345?",
+    "answer": 1,
+    "number": 516416,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Alter course to the right, to pass well clear of Southwest Ledge.",
+      "Continue on the same course at the same speed.",
+      "Slow to 8.3 knots to compensate for the current.",
+      "Continue on the same course but increase speed."
+    ],
+    "question": "You are encountering heavy weather.  What action should you take based on your 1430 fix?",
+    "answer": 0,
+    "number": 516417,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The light is visible at 2100.",
+      "2114",
+      "2123",
+      "2131"
+    ],
+    "question": "At 2100, you set course of 000°T, speed 10 knots from LAT 41°07.0'N, LONG 71°30.0'W.  Visibility is 5.5 n.m.  What is the earliest time you can expect to sight Point Judith Light? (Use charted range of 20 miles as nominal range.)",
+    "answer": 1,
+    "number": 516418,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "358°T at 11.1 knots",
+      "358°T at 09.8 knots",
+      "002°T at 11.2 knots",
+      "002°T at 09.9 knots"
+    ],
+    "question": "You estimate the current to be 160°T at 1.2 knots.  What should your course and speed be in order to make good 000°\nT at 10 knots?",
+    "answer": 0,
+    "number": 516419,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "13205",
+      "13209",
+      "13217",
+      "13219"
+    ],
+    "question": "If you want to put into Point Judith Harbor of Refuge, what chart should you use?",
+    "answer": 3,
+    "number": 516420,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°14.0'N, LONG 72°05.3'W",
+      "LAT 41°14.2'N, LONG 71°54.6'W",
+      "LAT 41°14.4'N, LONG 72°06.8'W",
+      "LAT 41°19.0'N, LONG 72°05.2'W"
+    ],
+    "question": "At 0630, you pass Buoy \"PI\" close abeam on the starboard side.  You are steering 078°T and are headed directly toward Race Rock Light.  At 0654, Little Gull Island Light is bearing 207°T and Race Rock Light is bearing 072°T. What is your 0654 position?",
+    "answer": 0,
+    "number": 516506,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "8.2 knots",
+      "9.3 knots",
+      "10.5 knots",
+      "11.4 knots"
+    ],
+    "question": "What is your speed from your 0630 position, with Buoy \"PI\"\nclose abeam, to your 0654 position?",
+    "answer": 2,
+    "number": 516507,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Horizontally banded, red over green, with a red buoyancy chamber",
+      "Horizontally banded, green over red, with a green buoyancy chamber",
+      "Vertically striped, red and green",
+      "Solid red with green letters \"BIS\""
+    ],
+    "question": "At 1800, your position is LAT 41°06.5'N, LONG 71°43.5'W. How should the buoy which bears 030°T from your position at a range of approximately 0.5 mile be painted?",
+    "answer": 1,
+    "number": 516559,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "005°T, 1.0 knot",
+      "005°T, 0.5 knots",
+      "180°T, 0.5 knot",
+      "208°T, 1.0 knots"
+    ],
+    "question": "From your 1800 position, you steer a course of 355°psc at a speed of 10.0 knots.  At 1830, your position is LAT 41°11.7'N, LONG 71°45.8'W.  What are the set and drift of the current?",
+    "answer": 0,
+    "number": 516560,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The nominal range of its white light is 16 miles.",
+      "It displays both red and white lights.",
+      "Its horn blasts every 15 seconds in fog.",
+      "Its geographic range is 18.5 miles at a 35-foot (10.7 meters) height of eye."
+    ],
+    "question": "From your 1830 fix, you come left to a course of 290°T.\nWhich statement concerning Watch Hill Light is TRUE?",
+    "answer": 1,
+    "number": 516561,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2.9 knots",
+      "5.7 knots",
+      "8.0 knots",
+      "8.7 knots"
+    ],
+    "question": "At 1850, you obtain the following bearings and distance:\n\n  Block Island North Light    085°T  \n  Watch Hill Light                 342°T 5.8 miles \n\n What true speed did you make good between 1830 and 1850?",
+    "answer": 2,
+    "number": 516562,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "9960-Y and 9960-W",
+      "9960-X and 9960-Y",
+      "9960-W and 9960-X",
+      "All 3 combinations are equal."
+    ],
+    "question": "From your 1850 fix, you come left to a course of 280°T,\nwhile maintaining a speed of 10 knots.  Which combination of available Loran-C lines would be best for position determination?",
+    "answer": 0,
+    "number": 516563,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "7.8 nm",
+      "8.9 nm",
+      "13.0 nm",
+      "16.7 nm"
+    ],
+    "question": "If your height of eye is 45 feet (13.7 meters), what is the approximate geographic range of Block Island North Light?",
+    "answer": 3,
+    "number": 516564,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°13.6'N, LONG 71°54.0'W",
+      "LAT 41°13.5'N, LONG 71°53.4'W",
+      "LAT 41°13.4'N, LONG 71°53.1'W",
+      "LAT 41°14.4'N, LONG 71°53.7'W"
+    ],
+    "question": "You decide to use the 9960-Y and 9960-W rates.  At 1915,\nyou obtain the following readings:\n\n  9960-Y-43937.5\n  9960-W-14651.2\n \nWhat is your 1915 position?",
+    "answer": 1,
+    "number": 516565,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "13209",
+      "13212",
+      "13213",
+      "13214"
+    ],
+    "question": "If you were to head into New London Harbor, which chart should you switch to for the best detail?",
+    "answer": 2,
+    "number": 516566,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Blue mud, gritty shells",
+      "Buried mussels, gritty shells",
+      "Blue mud, gray sand",
+      "Bumpy mud with gravel surface"
+    ],
+    "question": "From your 1915 position, you come left and set a course for Gardiners Point.  At 1930, your position is LAT 41°12.7'N,\nLONG 71°56.8'W.  What type of bottom is charted at this position?",
+    "answer": 2,
+    "number": 516567,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "275°T",
+      "280°T",
+      "290°T",
+      "294°T"
+    ],
+    "question": "From your 1930 position, you plot a course to pass 0.5 mile due south of Race Rock Light. If your vessel's speed is 8.0 knots, the current's set and drift are 040°T at 1.4 knots,\nand a south wind produces a 3° leeway, what true course should you steer to make good your desired course?",
+    "answer": 0,
+    "number": 516568,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "a regulated anchorage",
+      "fish trap areas",
+      "an area closed to the public",
+      "underwater cables"
+    ],
+    "question": "The short-long dashed magenta line around Gardiners Island marks __________.",
+    "answer": 1,
+    "number": 516569,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "162.25 MHz",
+      "162.30 MHz",
+      "162.40 MHz",
+      "162.55 MHz"
+    ],
+    "question": "NOAA VHF-FM weather broadcasts from Providence, RI are on __________.",
+    "answer": 2,
+    "number": 516570,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The light is visible at 0400.",
+      "0426",
+      "0435",
+      "0442"
+    ],
+    "question": "At 0400 you take the following loran readings:\n\n  9960-X-25841.8\n  9960-Y-43736.7\n\nFrom your 0400 fix, you steer a course to make good 347°T at 12.5 knots.  Visibility is good.  What is the earliest time you can expect to raise Montauk Point Light?  (Nominal range - 24 miles, height above water - 168 feet)",
+    "answer": 0,
+    "number": 516638,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "340°  pgc",
+      "343°  pgc",
+      "346°  pgc",
+      "349°  pgc"
+    ],
+    "question": "You estimate the current to be 125° at 0.6 knot, and the wind is westerly causing 3° of leeway.  What course should you steer per gyro compass to make good 347°T while turning for 12.5 knots?",
+    "answer": 0,
+    "number": 516639,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "004°, 0.7 knot",
+      "004°, 0.9 knot",
+      "184°, 0.7 knot",
+      "184°, 0.9 knot"
+    ],
+    "question": "At 0445 you take the following lines of position:\n\n   Montauk Point Light                          292°pgc   \n   Block Island Southeast Point Light    024°pgc  \n\nWhat was the current encountered since your 0400 fix?",
+    "answer": 1,
+    "number": 516640,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°02.8'N, LONG 71°39.5'W",
+      "LAT 41°02.9'N, LONG 71°39.8'W",
+      "LAT 41°03.1'N, LONG 71°39.6'W",
+      "LAT 41°03.5'N, LONG 71°39.3'W"
+    ],
+    "question": "At 0455 you encounter fog and slow to 5 knots.  At 0500, you obtain a radar fix from the following information:\n\nRadar range to Montauk Point is                          9.1 miles.\nTangent bearing to western edge of Block Is. Is  015°pgc.\nDistance off the nearest part of Block Is. is          5.9 miles. \n \nWhat is your 0500 position?",
+    "answer": 3,
+    "number": 516641,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "You are seaward of the 120 fathom curve.",
+      "The course made good between 0445 and 0500 was 345°T.",
+      "You should alter course to port to clear Southwest Ledge Shoal.",
+      "A radar contact bearing 020°T at 4.8 miles is buoy  \"2A\"."
+    ],
+    "question": "Based on your 0500 fix, which statement is TRUE?",
+    "answer": 2,
+    "number": 516642,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "301.5°",
+      "305.0°",
+      "307.5°",
+      "309.0°"
+    ],
+    "question": "At 0520 your position is LAT 41°07.2'N, LONG 71°41.6'W. You set course to leave Race Rock Light abeam to starboard at 0.5 mile.  What is the course to steer per standard magnetic compass?  (Assume no current)",
+    "answer": 2,
+    "number": 516643,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°08.3'N, LONG 71°45.4'W",
+      "LAT 41°08.2'N, LONG 71°45.8'W",
+      "LAT 41°08.1'N, LONG 71°45.1'W",
+      "LAT 41°08.0'N, LONG 71°45.2'W"
+    ],
+    "question": "Visibility becomes variable in patchy fog and you maintain 5 knots speed.  At 0610 you sight Montauk Point Light bearing 239°pgc, and at 0630 you sight Watch Hill Point Light bearing 333°pgc.  What is the position of your 0630 running fix?",
+    "answer": 0,
+    "number": 516644,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "alter course to port",
+      "maintain course and speed",
+      "alter course to starboard",
+      "maintain course and reduce speed"
+    ],
+    "question": "At 0630 you increase speed to 12.0 knots.  At 0645 Race Rock Light bears 294°pgc.  At 0700 Race Rock Light bears 293°pgc.  Based on this, you should __________.",
+    "answer": 0,
+    "number": 516645,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "3.9 knots, flooding",
+      "3.5 knots, flooding",
+      "3.3 knots, flooding",
+      "3.0 knots, flooding"
+    ],
+    "question": "The Tidal Current Tables indicate the following for the Race:\n  SLACK WATER     MAXIMUM      CURRENT  \n     0328                     0642                   3.9 F  \n     0947                     1301                   3.2 E \n\n What current should you expect when transiting the Race?",
+    "answer": 1,
+    "number": 516646,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°20.8'N, Long 71°30.3'W",
+      "LAT 41°20.8'N, Long 71°29.7'W",
+      "LAT 41°20.6'N, Long 71°30.0'W",
+      "LAT 41°20.5'N, Long 71°29.8'W"
+    ],
+    "question": "At 0520, you take the following observations:\n\n  Point Judith Light                                      032°pgc \n  Point Judith Harbor of Refuge  \n                  Main Breakwater Center Light  308°pgc  \n\nWhat is the position of your 0520 fix?",
+    "answer": 1,
+    "number": 516706,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "is used mostly by towing vessels",
+      "has a maximum depth of 14 feet at MHW",
+      "is easily accessible in heavy southerly seas",
+      "is entered through the East Gap or the West Gap"
+    ],
+    "question": "Point Judith Harbor of Refuge __________.",
+    "answer": 3,
+    "number": 516707,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "263°psc",
+      "258°psc",
+      "233°psc",
+      "227°psc"
+    ],
+    "question": "At 0520 you are on course 243°pgc at 12 knots.  What is the course per standard magnetic compass?",
+    "answer": 0,
+    "number": 516708,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "steep with rocky bluffs",
+      "low and marshy",
+      "sandy and broken by rocky points",
+      "heavily forested"
+    ],
+    "question": "The coastline between Point Judith and Watch Hill is __________.",
+    "answer": 2,
+    "number": 516709,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "9.2 nm",
+      "10.6 nm",
+      "12.3 nm",
+      "14.0 nm"
+    ],
+    "question": "In clear weather, how far away will you sight Point Judith Light?",
+    "answer": 3,
+    "number": 516710,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0528",
+      "0534",
+      "0541",
+      "0544"
+    ],
+    "question": "At what time will you cross the 60 foot curve if you make good 12 knots?",
+    "answer": 0,
+    "number": 516711,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "recommended approaches to Green Hill Point",
+      "areas of unreliable loran readings",
+      "prohibited fishing areas",
+      "submarine cables"
+    ],
+    "question": "The two wavy magenta lines running to Green Hill Point represent __________.",
+    "answer": 3,
+    "number": 516712,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°18.1'N, LONG 71°38.3'W",
+      "LAT 41°18.3'N, LONG 71°38.7'W",
+      "LAT 41°18.4'N, LONG 72°38.1'W",
+      "LAT 41°18.5'N, LONG 71°38.9'W"
+    ],
+    "question": "At 0600 your loran reads: \n\n 9960-W-14542.5\n 9960-X-25909.5\n 9960-Y-43950.0\n\n What is your 0600 position?",
+    "answer": 1,
+    "number": 516713,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "201° at 1.0 knot",
+      "201° at 1.5 knot",
+      "021° at 1.0 knot",
+      "021° at 1.5 knots"
+    ],
+    "question": "What was the current between 0520 and 0600?",
+    "answer": 3,
+    "number": 516714,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "252°pgc",
+      "256°pgc",
+      "258°pgc",
+      "262°pgc"
+    ],
+    "question": "From your 0600 position, what is the course per gyrocompass to leave Watch Hill Light abeam to starboard at 2.0 miles if a southerly wind is producing 3° of leeway?",
+    "answer": 0,
+    "number": 516715,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "8.1 knots",
+      "9.8 knots",
+      "10.7 knots",
+      "11.4 knots"
+    ],
+    "question": "At 0645, Watch Hill Point (left tangent) bears 314.5°T at 2.75 miles.  What was the speed made good between 0600 and 0645?",
+    "answer": 2,
+    "number": 516716,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "252°T",
+      "256°T",
+      "263°T",
+      "266°T"
+    ],
+    "question": "At 0705, you take the following bearings:\n  Watch Hill Light      030.5°pgc\n  Latimer Reef Light  329.0°pgc  \n  Race Rock Light    262.0°pgc  \n\nWhat was the true course made good between 0645 and 0705?",
+    "answer": 1,
+    "number": 516717,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "250°pgc",
+      "255°pgc",
+      "263°pgc",
+      "267°pgc"
+    ],
+    "question": "At 0705, you change course to head for The Race.  You wish to leave Race Rock Light bearing due north at 0.4 mile.  If the current is 100°T, at 2.8 knots, and you are turning for 12.0 knots, what course (pgc) should you steer?",
+    "answer": 2,
+    "number": 516718,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "You are already governed by the Inland Rules.",
+      "In the Race",
+      "Above the Thames River Bridge",
+      "You will not be governed by the Inland Rules."
+    ],
+    "question": "You are bound for New London.  Where will you cross the demarcation line and be governed by the Inland Rules of the Road?",
+    "answer": 1,
+    "number": 516719,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The gyro error is still 2°E.",
+      "The deviation based on the observation is 15°W.",
+      "The magnetic compass error is 12°W.",
+      "The true line of the range is 072°."
+    ],
+    "question": "In order to check your compasses, you sight North Dumpling Island Light in line with Latimer Reef Light bearing 074°\npgc.  The helmsman was steering 303°pgc and 315° per standard magnetic compass at the time.  Which of the following is TRUE?",
+    "answer": 0,
+    "number": 516720,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "027°  pgc",
+      "030°  pgc",
+      "032°  pgc",
+      "035°  pgc"
+    ],
+    "question": "At 2212 you take the following loran readings:\n\n 9960-W-14715.8\n 9960-X-25991.2\n 9960-Y-43764.8\n\nWhat is the course to steer, per gyrocompass from your 2212 position, to leave Montauk Point Buoy \"MP\" abeam to port at 1 mile if easterly winds are causing 3° of leeway?",
+    "answer": 3,
+    "number": 516738,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The light is visible at 2212",
+      "2221",
+      "2243",
+      "You will not sight the light on this course."
+    ],
+    "question": "What is the earliest time you should sight Montauk Point Light (nominal range - 24 miles) if you are turning for 9.2 knots?  Visibility is 5  nautical miles.",
+    "answer": 0,
+    "number": 516739,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "You are shoreward of the 90 foot curve.",
+      "Your fathometer reads about 136 feet.",
+      "You are being set to the left of the track.",
+      "You allowed too much leeway for the easterly winds."
+    ],
+    "question": "At 2245 visibility improves and Montauk Point Light bears 355°pgc.  At 2314 Montauk Point Light bears 331°pgc, and at 2329 the light bears 311°pgc.  Based on your 2329 running fix which statement is TRUE?",
+    "answer": 2,
+    "number": 516740,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "come left before the loran reads 9960-X-25900 or less",
+      "remain on your present course and you will clear  Southwest Ledge",
+      "keep Block Island North Light bearing 033°T or less",
+      "alter course to the right when Block Island Aerobeacon bears 055°T"
+    ],
+    "question": "At 2346 Montauk Point Light bears 285°pgc, and the radar range to Montauk Point is 5.9 miles.  You are steering to make good 034°T.  In order to remain westward of Southwest Ledge you should __________.",
+    "answer": 0,
+    "number": 516741,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "049.5°pgc",
+      "052.5°pgc",
+      "055.5°pgc",
+      "059.0°pgc"
+    ],
+    "question": "At 2352 you hear a MAYDAY call from a vessel reporting her position as 1.5 miles due east of Block Island Southeast Point Light.  What is the course to steer, per gyrocompass to the distress site, if you change course at midnight and allow 1° leeway for easterly winds?",
+    "answer": 3,
+    "number": 516742,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°08.8'N, LONG 71°41.4'W",
+      "LAT 41°09.0'N, LONG 71°42.3'W",
+      "LAT 41°09.0'N, LONG 71°41.1'W",
+      "LAT 41°09.1'N, LONG 71°41.7'W"
+    ],
+    "question": "At 0040 you are south of Lewis Point when you receive word that the distress is terminated.  You alter course to head for The Race.  At 0052 you take the following relative bearings because the starboard gyro repeater is inoperative.  Your heading at each bearing was 285°pgc. What is your 0052 position?\n\n  Race Rock Light 002°\n Watch Hill Light 034°\n Block Island North Light 122°",
+    "answer": 3,
+    "number": 516743,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "273.5°",
+      "276.0°",
+      "298.0°",
+      "302.0°"
+    ],
+    "question": "You continue to steer 285°pgc from your 0052 fix.  Your speed is 9.2 knots.  What is the course per standard magnetic compass?",
+    "answer": 3,
+    "number": 516744,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "are being set to the right of the track",
+      "are making good more than 9.2 knots",
+      "are making good less than 9.2 knots",
+      "have an unknown gyro error"
+    ],
+    "question": "At 0100 Race Rock Light bears 001° relative, and at 0110 it bears 000° relative.  Based on this you know you __________.",
+    "answer": 0,
+    "number": 516745,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The gyro error is now 2°E.",
+      "The deviation table is correct for that heading.",
+      "The vessel should be swung to check the deviation table.",
+      "The compass error is 0.5°W."
+    ],
+    "question": "In order to check your compasses, you sight Race Rock Light in line with New London Harbor Light bearing 336° per gyrocompass.  The helmsman reports the vessel was heading 275.0°pgc and 290.5° per standard magnetic compass at the time of the observation.  Which statement is TRUE?",
+    "answer": 1,
+    "number": 516746,
+    "duration": 120,
+    "points": 1
+  }
+]

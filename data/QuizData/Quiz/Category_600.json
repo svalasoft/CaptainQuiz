@@ -1,0 +1,1214 @@
+[
+  {
+    "options": [
+      "gooseneck",
+      "step",
+      "swivel",
+      "pintle"
+    ],
+    "question": "The hinge fitting used to attach the boom to the mast is the __________.",
+    "answer": 0,
+    "number": 402111,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "A sloop will heave to with her jib and mainsail aback.",
+      "A ketch will heave to with her jib and mizzen aback.",
+      "A yawl will heave to with her jib aback, main sheet eased, and her mizzen sheeted in.",
+      "All of the above are correct."
+    ],
+    "question": "Which statement(s) is(are) TRUE regarding heaving-to?",
+    "answer": 2,
+    "number": 402537,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "stays the same",
+      "moves aft",
+      "becomes more",
+      "becomes less"
+    ],
+    "question": "If you reef a marconi mainsail, the sail area __________.",
+    "answer": 3,
+    "number": 403264,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "moves forward and up",
+      "moves aft and down",
+      "becomes larger",
+      "becomes smaller"
+    ],
+    "question": "If you reef a marconi mainsail, the sail area __________.",
+    "answer": 3,
+    "number": 401333,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "broach",
+      "tack",
+      "jibe",
+      "go in irons"
+    ],
+    "question": "You are running before a rough sea and a strong wind.  Your sailing vessel is yawing.  If the wind should catch the mainsail on the reverse side you will __________.",
+    "answer": 2,
+    "number": 401628,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "true wind velocity increases",
+      "heeling moment decreases",
+      "side slip decreases",
+      "jib sheet must be hardened up"
+    ],
+    "question": "The sails are properly set and trimmed.  As a vessel heads up from a beam reach to close hauled the __________.",
+    "answer": 3,
+    "number": 401649,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "jibe",
+      "tack about",
+      "reef the mainsail",
+      "strike the jib"
+    ],
+    "question": "You are running before a strong wind in a sloop.  The most dangerous thing to do is __________.",
+    "answer": 0,
+    "number": 401683,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The main halyard",
+      "The jib sheet",
+      "The helm",
+      "The outhaul"
+    ],
+    "question": "You are sailing before the wind in heavy weather.  The failure of what will affect the vessel's safety most?",
+    "answer": 2,
+    "number": 401684,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "chain-wire",
+      "chain-manila",
+      "chain-nylon",
+      "all chain"
+    ],
+    "question": "When anchoring a small sailing vessel in rough weather, the best anchor line would be composed of __________.",
+    "answer": 2,
+    "number": 401691,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "A gaff rig is dangerous in a calm wind and sea.",
+      "A gaff rig is dangerous in a calm wind and large swell.",
+      "A square rig, such as a ship rig, is dangerous to jibe.",
+      "A tall, marconi, sloop rig is dangerous to tack."
+    ],
+    "question": "Every different type of sailing rig can be dangerous in certain circumstances.  Which situation would most likely be dangerous?",
+    "answer": 1,
+    "number": 401693,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "use perfectly aligned stitches in old sail cloth so as to get the strain properly aligned",
+      "avoid using glued patches on old sail cloth",
+      "be sure to orient the weave of the patch material, on large patches, in the same orientation as the sail cloth being repaired",
+      "All of the above"
+    ],
+    "question": "When repairing a torn sail at sea, you should __________.",
+    "answer": 2,
+    "number": 401694,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Polyester sailcloth, such as Dacron, is resistant to rot due to moisture but susceptible to UV degradation and should be kept covered as much as possible.",
+      "Canvas sailcloth is susceptible to rot due to moisture and should never be covered when wet.",
+      "Kevlar sail cloth is susceptible to weakening due to repeated folding and therefore should be draped loosely over the boom when stowed.",
+      "All of the above are true."
+    ],
+    "question": "Which statement(s) is(are) TRUE?",
+    "answer": 3,
+    "number": 401696,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The true wind is a little abaft your beam, at just under 25 knots.",
+      "The apparent wind at the top of your mast will be slightly stronger than 25 knots and slightly farther forward than the wind at deck level.",
+      "If you turn to a close reach, the apparent wind will reduce in strength.",
+      "None of the above are true."
+    ],
+    "question": "You are sailing at 8 knots on a beam reach in an apparent wind of 25 knots.  Which statement is TRUE?",
+    "answer": 3,
+    "number": 401702,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "If the thrust on a sail becomes excessive when close-hauled, it is likely to capsize the vessel rather than drive it.",
+      "When a sail is trimmed too tight, turbulence will break out on the windward side of the sail and cause a telltale there to flutter.",
+      "A properly trimmed sail should have laminar flow on the windward side and turbulent flow on the leeward side.",
+      "Adjusting the angle of attack on a mainsail is accomplished by adjusting the outhaul or the vang, if fitted."
+    ],
+    "question": "With regard to aerodynamic lift, which statement is TRUE?",
+    "answer": 0,
+    "number": 401703,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "A high-aspect ratio marconi mainsail is more efficient for downwind sailing than a gaff-rigged mainsail.",
+      "You should put more belly in a sail in light airs than in a strong breeze.",
+      "You can reduce the belly in a boomed mainsail by easing the sheet.",
+      "You can move the belly up in a mainsail by easing the luff tension."
+    ],
+    "question": "Which statement is TRUE about sail shape?",
+    "answer": 1,
+    "number": 401704,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "leading edge",
+      "trailing edge",
+      "head",
+      "foil"
+    ],
+    "question": "The major lift-producing part of a sail is the __________.",
+    "answer": 0,
+    "number": 401706,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Sheet the sails in flat to try to heel her over with the wind and sail off.",
+      "Start the engine and run it hard in forward to try to drive over and off the bar.",
+      "Strike the sails.  Then run a kedge anchor out to one side, hook the main halyard to it, and heave the boat down onto one side.",
+      "Take soundings visually, by sounding pole, or lead line all around the vessel to locate the deepest water."
+    ],
+    "question": "Your 40-foot auxiliary sailing vessel has just run aground on a bar.  She has a relatively long, deep keel and the tide is falling.  You have checked the bilges for damage and found none.  Which is the most prudent action to take immediately?",
+    "answer": 2,
+    "number": 401707,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "one mast",
+      "two masts:  with the mizzen stepped abaft the rudder post",
+      "two masts:  with the mizzen stepped forward of the rudder post",
+      "two masts:  a foremast and a mainmast"
+    ],
+    "question": "A sloop is a sailing vessel with __________.",
+    "answer": 0,
+    "number": 401805,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Halyards",
+      "Stays",
+      "Sheets",
+      "Downhauls"
+    ],
+    "question": "Which is standing rigging?",
+    "answer": 1,
+    "number": 401807,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "apparent wind moves forward",
+      "heeling moment decreases",
+      "side slip decreases",
+      "speed increases"
+    ],
+    "question": "The sails are properly set and trimmed.  As a vessel heads  up from a beam reach to close hauled the __________.",
+    "answer": 0,
+    "number": 401812,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "speed increases",
+      "side slip decreases",
+      "heeling moment decreases",
+      "apparent wind moves forward"
+    ],
+    "question": "The sails are properly set and trimmed. As a vessel heads up from a beam reach to close hauled the __________.",
+    "answer": 3,
+    "number": 401815,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Gaff rigged",
+      "Spinnaker rigged",
+      "Marconi rigged",
+      "Square rigged"
+    ],
+    "question": "Most recreational sailing craft have triangular sails and are said to be __________.",
+    "answer": 2,
+    "number": 401824,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "close hauled on the port tack",
+      "close hauled on the starboard tack",
+      "running before the wind",
+      "on a broad reach"
+    ],
+    "question": "A sailing vessel with the wind coming from 220° relative would be __________.",
+    "answer": 3,
+    "number": 401829,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "If you slack the mizzen sheet, the center of effort will move aft.",
+      "If you slack the main sheet, the lift to drag ratio of the mainsail will increase.",
+      "If you sheet in the mainsail without changing course, the vessel will heel farther and speed up.",
+      "If you strike the mainsail, the center of effort of the whole rig will move down."
+    ],
+    "question": "A ketch-rigged sailing vessel is sailing to windward with the wind about 50° on the port bow.  All the sails are set and drawing properly.  Which statement is TRUE?",
+    "answer": 3,
+    "number": 401836,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "reduced",
+      "increased",
+      "widened",
+      "unchanged"
+    ],
+    "question": "When a sail is reefed, the sail area is _______ .",
+    "answer": 0,
+    "number": 401838,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "coming about",
+      "close hauled on the port tack",
+      "running before the wind",
+      "on a broad reach on the starboard tack"
+    ],
+    "question": "A sailing vessel with the wind coming from 020° relative would be __________.",
+    "answer": 0,
+    "number": 401839,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "is unchanged",
+      "increases and draws aft",
+      "increases and draws forward",
+      "decreases and draws aft"
+    ],
+    "question": "You are under sail on a close reach, and the wind is steady.  While steady on course, you reef the mainsail and your speed slows.  The apparent wind __________.",
+    "answer": 3,
+    "number": 401846,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "close hauled on the starboard tack",
+      "close hauled on the port tack",
+      "on a broad reach on a port tack",
+      "running before the wind"
+    ],
+    "question": "A sailing vessel with the wind coming from 180° relative would be __________.",
+    "answer": 3,
+    "number": 401856,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "close hauled on the port tack",
+      "close hauled on the starboard tack",
+      "running before the wind",
+      "on a broad reach"
+    ],
+    "question": "A sailing vessel with the wind coming from 180° relative would be __________.",
+    "answer": 2,
+    "number": 401858,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "head",
+      "leach",
+      "luff",
+      "tack"
+    ],
+    "question": "The parts of the sail shown are correctly labeled EXCEPT the __________.",
+    "answer": 2,
+    "number": 401859,
+    "duration": 120,
+    "points": 1,
+    "media": "Images/D003SL.png"
+  },
+  {
+    "options": [
+      "head, fore, and aft",
+      "luff, leech, and spar",
+      "headboard, foot, and tail",
+      "head, tack, and clew"
+    ],
+    "question": "The three corners of the main sail are called __________.",
+    "answer": 3,
+    "number": 401869,
+    "duration": 120,
+    "points": 1,
+    "media": "Images/D002SL.png"
+  },
+  {
+    "options": [
+      "close hauled on the starboard tack",
+      "close hauled on the port tack",
+      "on a broad reach",
+      "running before the wind"
+    ],
+    "question": "A sailing vessel with the wind coming from 140° relative would be __________.",
+    "answer": 2,
+    "number": 401876,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "on a close reach",
+      "on a broad reach",
+      "on a starboard tack",
+      "running before the wind"
+    ],
+    "question": "A sailing vessel with the wind coming from 260° relative would be __________.",
+    "answer": 1,
+    "number": 401882,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "leech",
+      "clew",
+      "luff",
+      "headboard"
+    ],
+    "question": "The edge of the sail labeled \"A\" is called the __________.",
+    "answer": 2,
+    "number": 401896,
+    "duration": 120,
+    "points": 1,
+    "media": "Images/D001SL.png"
+  },
+  {
+    "options": [
+      "Sheet",
+      "Backstay",
+      "Topping lift",
+      "Downhaul"
+    ],
+    "question": "Which is a part of a vessel's standing rigging?",
+    "answer": 1,
+    "number": 401897,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "port jibe",
+      "starboard jibe",
+      "port tack",
+      "starboard tack"
+    ],
+    "question": "A sailing vessel with the wind coming over the port side is said to be on a __________.",
+    "answer": 2,
+    "number": 401904,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Chainplate",
+      "Hound",
+      "Crowfoot",
+      "Spreader"
+    ],
+    "question": "What fitting on the mast works in conjunction with the shrouds to control side bend of the mast?",
+    "answer": 3,
+    "number": 401905,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "one mast",
+      "two masts:  with the mizzen stepped abaft the rudder post",
+      "two masts:  with the mizzen stepped forward of the rudder post",
+      "two masts:  a foremast and a mainmast"
+    ],
+    "question": "A ketch is a sailing vessel with __________.",
+    "answer": 2,
+    "number": 401911,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "apparent wind moves aft",
+      "heeling moment increases",
+      "side slip decreases",
+      "mainsheet must be eased"
+    ],
+    "question": "The sails are properly set and trimmed. As a vessel heads up from a beam reach to close hauled the __________.",
+    "answer": 1,
+    "number": 401915,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Sheet",
+      "Backstay",
+      "Topping lift",
+      "Downhaul"
+    ],
+    "question": "What is part of a vessel's standing rigging?",
+    "answer": 1,
+    "number": 401916,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "close hauled on the starboard tack",
+      "reaching on a starboard tack",
+      "on a broad reach on a port tack",
+      "running before the wind"
+    ],
+    "question": "A sailing vessel with the wind coming from 050° relative would be __________.",
+    "answer": 0,
+    "number": 401919,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "comes directly over the bow",
+      "comes directly over the stern",
+      "comes over an area extending from broad on the bow to the quarter",
+      "has no effect on the vessel"
+    ],
+    "question": "A \"reaching\" course is one in which the wind __________.",
+    "answer": 2,
+    "number": 401926,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "If you ease the sheets, you can sail faster and closer to the wind.",
+      "If you ease the sheets, you can sail faster on the same course.",
+      "If you steer closer to the wind, you will slow down.",
+      "If you sheet your sails closer to the centerline, you must  bear away from the wind."
+    ],
+    "question": "Which statement about sailing close-hauled is TRUE?",
+    "answer": 2,
+    "number": 401932,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Clevis pin",
+      "Gunter-lug",
+      "Gooseneck",
+      "Transom"
+    ],
+    "question": "Which fitting is used to connect the boom to the mast?",
+    "answer": 2,
+    "number": 401953,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "close hauled on the starboard tack",
+      "reaching on the starboard tack",
+      "on a broad reach on the starboard tack",
+      "close hauled on the port tack"
+    ],
+    "question": "A sailing vessel with the wind coming from 090° relative would be __________.",
+    "answer": 1,
+    "number": 401966,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "on a close reach on a port tack",
+      "close hauled on a starboard tack",
+      "on a broad reach on a port tack",
+      "on a beam reach on a starboard tack"
+    ],
+    "question": "A sailing vessel with the wind coming from 290° relative would be __________.",
+    "answer": 0,
+    "number": 401969,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "If you ease the sheets and change heading, you can sail faster but not so close to the wind.",
+      "If you ease the sheets you will be in irons.",
+      "If you sheet your sails closer to the centerline, you can sail closer to the wind and decrease leeway.",
+      "If you sheet your sails closer to the centerline, you will luff."
+    ],
+    "question": "Which statement about sailing close-hauled is TRUE?",
+    "answer": 0,
+    "number": 401972,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "bring the sails parallel to the wind",
+      "reduce sail area exposed to the wind",
+      "allow the sails to catch more wind",
+      "remove all tension on the main and jib sheets"
+    ],
+    "question": "When experiencing heavy winds, you should reef sails to __________.",
+    "answer": 1,
+    "number": 401974,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Stern",
+      "Bow",
+      "Centerboard",
+      "Mast"
+    ],
+    "question": "A capsized small sail vessel is best righted when what part of the vessel is downwind?",
+    "answer": 3,
+    "number": 401976,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "standing rigging",
+      "a downhaul",
+      "a halyard",
+      "a jib"
+    ],
+    "question": "A stay is  __________.",
+    "answer": 0,
+    "number": 401977,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Position all personnel at the stern and rock the vessel upright.",
+      "Position all personnel around the mast and lift the vessel  upright.",
+      "Lock the centerboard in the down position, stand on the centerboard, and pull on a shroud or a halyard.",
+      "Put the centerboard in the up position and have all personnel haul in on the line attached to the mast."
+    ],
+    "question": "How should you try to right a capsized small sailing vessel?",
+    "answer": 2,
+    "number": 401978,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Half-hitches then a round turn",
+      "One round turn",
+      "A series of half-hitches",
+      "A round turn, figure eights, and a half-hitch"
+    ],
+    "question": "What is the proper method to fix running rigging to a cleat?",
+    "answer": 3,
+    "number": 401989,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "resistance to lateral movement",
+      "length-depth ratio resulting in a faster hull design",
+      "height of the center of gravity above the hull resulting in a more stable vessel",
+      "mast height to compensate for increased lateral resistance"
+    ],
+    "question": "A deep keel on a sailing vessel increases the __________.",
+    "answer": 0,
+    "number": 401992,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "foot plate",
+      "sole plate",
+      "hounds",
+      "mast step"
+    ],
+    "question": "The bottom of the mast rests on the __________.",
+    "answer": 3,
+    "number": 402007,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "a light sail",
+      "a topmast stay",
+      "a sheet",
+      "standing rigging"
+    ],
+    "question": "A shroud is __________.",
+    "answer": 3,
+    "number": 402015,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "true wind velocity increases",
+      "heeling moment decreases",
+      "side slip increases",
+      "jib sheet must be eased"
+    ],
+    "question": "The sails are properly set and trimmed.  As a vessel heads  up from a beam reach to close hauled the __________.",
+    "answer": 2,
+    "number": 402021,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "forestay",
+      "backstay",
+      "jumper stay",
+      "halyard"
+    ],
+    "question": "If you were to jibe in a strong wind, the part of the rigging most likely to fail would be the __________.",
+    "answer": 1,
+    "number": 402023,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "It is a sailing maneuver which brings the vessel's head through the wind.",
+      "It connects the boom to the mast and allows the boom to swing freely.",
+      "It is a sailing condition where there is a loss of air flow over the sails.",
+      "None of the above"
+    ],
+    "question": "Which statement is TRUE concerning the gooseneck?",
+    "answer": 1,
+    "number": 402026,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "a single mast",
+      "two masts:  with the mizzen stepped abaft the rudder post",
+      "two masts:  with the mizzen stepped forward of the rudder post",
+      "two masts:  a foremast and a mainmast"
+    ],
+    "question": "A yawl is a sailing vessel with __________.",
+    "answer": 1,
+    "number": 402029,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Forestay",
+      "Halyard",
+      "Mainsheet",
+      "Foreguy"
+    ],
+    "question": "Which line would be used to hoist a sail?",
+    "answer": 1,
+    "number": 402042,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "foot",
+      "heel",
+      "step",
+      "sole"
+    ],
+    "question": "The bottom of the mast rests on a part of the keel called the mast __________.",
+    "answer": 2,
+    "number": 402049,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Sheets and guys",
+      "Guys and vangs",
+      "Vangs and shrouds",
+      "Shrouds and stays"
+    ],
+    "question": "What standing rigging supports the mast in the fore-and-aft and athwartships directions?",
+    "answer": 3,
+    "number": 402059,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "buntline",
+      "clewline",
+      "outhaul",
+      "preventer"
+    ],
+    "question": "You are running before the wind in a fresh breeze. The boom may be prevented from accidentally jibing by using a(n) __________.",
+    "answer": 3,
+    "number": 402062,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "holds the boom down and flattens the main sail",
+      "draws the head of the sail to windward",
+      "tautens the standing rigging",
+      "douses the gaff topsail"
+    ],
+    "question": "A boom vang __________.",
+    "answer": 0,
+    "number": 402066,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "hanks",
+      "shackles",
+      "warps",
+      "gudgeons"
+    ],
+    "question": "The metal horseshoe-shaped pieces used to bend a sail onto a stay are called_________.",
+    "answer": 0,
+    "number": 402069,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "close hauled",
+      "tacking",
+      "wearing",
+      "sailing with the wind aft"
+    ],
+    "question": "Sails may be wing and wing when __________.",
+    "answer": 3,
+    "number": 402095,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "becomes less",
+      "becomes larger",
+      "does not change",
+      "moves aft"
+    ],
+    "question": "If you reef a marconi mainsail, the sail area __________.",
+    "answer": 0,
+    "number": 402097,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "apparent wind remains steady",
+      "heeling moment decreases",
+      "side slip decreases",
+      "speed decreases"
+    ],
+    "question": "The sails are properly set and trimmed. As a vessel heads up from a beam reach to close-hauled the __________.",
+    "answer": 3,
+    "number": 402102,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Downhaul",
+      "Backstay",
+      "Halyard",
+      "Sheet"
+    ],
+    "question": "What is NOT running rigging?",
+    "answer": 1,
+    "number": 402107,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "wing and wing",
+      "luffed",
+      "reefed",
+      "cringled"
+    ],
+    "question": "When sailing with the wind aft, a vessel may carry sails on both sides at the same time.  The sails are __________.",
+    "answer": 0,
+    "number": 402155,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "a single mast",
+      "two masts:  with the mizzen stepped abaft the rudder post",
+      "two masts:  with the mizzen stepped forward of the rudder post",
+      "at least two masts:  a foremast and a mainmast"
+    ],
+    "question": "A schooner is a fore-and-aft rigged vessel with __________.",
+    "answer": 3,
+    "number": 402165,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "jibing",
+      "running before the wind",
+      "tacking",
+      "reefing"
+    ],
+    "question": "Changing direction by bringing the stern of the vessel through the eye of the wind is known as __________.",
+    "answer": 0,
+    "number": 402189,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The more the sails are sheeted in, the greater your speed will be when sailing downwind.",
+      "As the sails are sheeted in, the vessel will heel less when close hauled.",
+      "As the sails are sheeted in on a close hauled course, speed will increase as the side forces on the vessel decrease.",
+      "Sheeting in the sails will allow the vessel to sail closer  to the wind but will decrease speed."
+    ],
+    "question": "Which statement is TRUE concerning a sailing vessel with the sails properly trimmed?",
+    "answer": 3,
+    "number": 402198,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Heading up until your sails begin to luff",
+      "Easing sheets",
+      "Reefing sails",
+      "Changing to larger sails"
+    ],
+    "question": "Which action will NOT reduce heeling of a vessel when sailing on a tack?",
+    "answer": 3,
+    "number": 402206,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "slack the jib sheet",
+      "slack the mizzen sheet",
+      "put your rudder hard to port",
+      "All of the above"
+    ],
+    "question": "Your 20-ton ketch-rigged sailing vessel is sailing close hauled on the port tack in a moderate breeze with all sails properly trimmed.  You wish to bear off quickly to avoid a  floating hazard.  To utilize your sails to assist with the  turn, you should __________.",
+    "answer": 1,
+    "number": 402208,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "lowered",
+      "reefed",
+      "hauled in",
+      "eased out"
+    ],
+    "question": "In order to maintain speed while changing course from a close reach to a broad reach, the sails should be __________.",
+    "answer": 3,
+    "number": 402212,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "is at right angles to the true wind",
+      "first takes the shape of an airfoil",
+      "is filled with a slight flap at the leech",
+      "is 45° from the apparent wind"
+    ],
+    "question": "Your vessel is drifting with the wind broad on the port beam. The marconi sail is set and flapping free.  As you  sheet in the maximum drive is attained when the sail __________.",
+    "answer": 1,
+    "number": 402224,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "ease the mainsheet and bear more away from the wind",
+      "haul in on the mainsheet and steer more towards the wind",
+      "haul in on the mainsheet and ease the jib sheet",
+      "ease all sheets and bear more into the wind"
+    ],
+    "question": "You are sailing on a close reach when a strong wind suddenly heels the vessel hard over.  To reduce the heeling and yet  maintain speed, you should __________.",
+    "answer": 0,
+    "number": 402226,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "require you to sheet in for best speed",
+      "result in a reduction of speed",
+      "cause a greater heeling force to leeward",
+      "All of the above"
+    ],
+    "question": "Your sails are properly trimmed while on a reaching course. Changing to a close hauled course will __________.",
+    "answer": 3,
+    "number": 402228,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "the jib is on one side of the vessel and the mainsail on the other",
+      "an air slot is formed between the two sails",
+      "one sail is as close to a right angle as possible to the other",
+      "as much of a gap as possible exists between the two sails in order to catch the most wind"
+    ],
+    "question": "To get the best speed when tacking and using a mainsail and jib, the sails should be trimmed such that __________.",
+    "answer": 1,
+    "number": 402229,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Attempt to sail the vessel closer to the wind",
+      "Ease the sheets to allow air flow to spill off the sail",
+      "Shift weight to the port side of the vessel",
+      "Any of the above"
+    ],
+    "question": "Your vessel is sailing on a port tack when a sudden gust of wind heels the vessel sharply to starboard.  Which action will reduce the heeling of the vessel?",
+    "answer": 3,
+    "number": 402232,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "increase",
+      "decrease",
+      "change only if the vessel comes about on the opposite tack",
+      "not change"
+    ],
+    "question": "As a vessel falls off the wind from close-hauled to a beam  reach, the tendency for the vessel to move sideways through the water will __________.",
+    "answer": 1,
+    "number": 402234,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "put the wind off the beam and sheet in",
+      "put the wind off the stern and ease all sheets",
+      "bring the vessel's head into the wind and let the sails luff",
+      "raise the centerboard when running before the wind"
+    ],
+    "question": "You can slow or stop a sailing vessel by __________.",
+    "answer": 2,
+    "number": 402239,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "tacking",
+      "on a close reach",
+      "sailing with the wind aft",
+      "anchored or drifting"
+    ],
+    "question": "Sails may be wing and wing when_____________.",
+    "answer": 2,
+    "number": 402283,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "To reduce heeling of the vessel",
+      "To add weight stability",
+      "To reduce side slip of the vessel",
+      "To prevent the vessel from jibing"
+    ],
+    "question": "What is the purpose of a centerboard when sailing on a tack?",
+    "answer": 2,
+    "number": 402330,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "On a ketch, you will most likely strike the jib before making your final approach.",
+      "On a yawl, the last sail you will strike after you have picked up the mooring will normally be the mainsail.",
+      "On a sloop, if your initial approach is to be downwind you could slow your approach by striking the jib and letting your main sheet out as far as it will go.",
+      "All of the above are correct."
+    ],
+    "question": "You are sailing into a harbor with the intention of picking up your mooring.  There is no current.  Which statement(s) is(are) TRUE?",
+    "answer": 0,
+    "number": 402333,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "is a uniform curve",
+      "is a curve with more curve at the luff",
+      "is a curve with more curve at the leach",
+      "approximates a straight line"
+    ],
+    "question": "When properly set and drawing, a fore-and-aft sail has a cross-section that __________.",
+    "answer": 1,
+    "number": 402642,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Set your storm jib aback to port and secure your rudder hard to starboard.",
+      "Secure your reefed mizzen aback to starboard and your storm jib aback to port.  Secure your rudder hard to port.",
+      "Sheet your mizzen in flat and secure your rudder amidships.",
+      "Secure your storm jib aback to starboard and sheet your reefed mizzen in flat.  Secure your rudder hard to  starboard."
+    ],
+    "question": "You are Master of a 20-ton ketch.  You wish to heave-to on  the starboard tack in 35 knots of wind. Which action would be appropriate?",
+    "answer": 3,
+    "number": 403128,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "leeward side",
+      "windward side",
+      "bow",
+      "transom"
+    ],
+    "question": "On a sailing vessel, it is best to approach a person in the water by placing them on your __________.",
+    "answer": 1,
+    "number": 403205,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "where it is made fast on the vessel",
+      "midway between the vessel and the dock",
+      "at the eye",
+      "at the chock"
+    ],
+    "question": "Your sailing vessel is docked during a storm and is in continuous motion.  If a mooring line parts due to vessel motion, it will most likely do so __________.",
+    "answer": 3,
+    "number": 403293,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "You need only stay alert for changes, as your present drift will carry you away from the danger.",
+      "You should strike all sails and get underway under bare poles, making as much way as possible to the north.",
+      "You should set a reefed foresail and strike the jib.",
+      "You should tack or jibe to the port tack and make all possible headway to the south."
+    ],
+    "question": "Your 80-ton schooner is hove to on the starboard tack under storm trysail and fore-staysail in 45 knots of wind.  Your heading is averaging about 000° true and the wind is from the northeast.  There is a dangerous shoal bearing 270° true, range 5 miles.  Which action would be appropriate?",
+    "answer": 3,
+    "number": 403484,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "left in the sunlight",
+      "stowed wet",
+      "washed with soap",
+      "folded frequently"
+    ],
+    "question": "Dacron sails, when not in use, may be damaged if __________.",
+    "answer": 0,
+    "number": 404258,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "left in the sunlight",
+      "stowed wet",
+      "folded frequently",
+      "washed with soap and water"
+    ],
+    "question": "Canvas sails, when not in use, may be damaged if __________.",
+    "answer": 1,
+    "number": 406042,
+    "duration": 120,
+    "points": 1
+  }
+]

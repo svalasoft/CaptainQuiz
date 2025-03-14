@@ -1,0 +1,3837 @@
+[
+  {
+    "options": [
+      "LAT 41°04.6'N, LONG 73°07.0'W",
+      "LAT 41°04.6'N, LONG 73°06.6'W",
+      "LAT 41°04.6'N, LONG 73°07.4'W",
+      "LAT 41°04.6'N, LONG 73°07.2'W"
+    ],
+    "question": "At 0700, Stratford Shoal Middle Ground Light bears 137°pgc.  From your radar, you get a bearing of 007°pgc to the south tip of Stratford Point with a range of 4.5 miles. What is your 0700 position?",
+    "answer": 3,
+    "number": 500232,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "055°T",
+      "047°T",
+      "042°T",
+      "035°T"
+    ],
+    "question": "At 0725, you are heading 054°T, and Stratford Point Light is abeam to port at 3.1 miles.  The current is 135°T at 1.8 knots.  If you make turns for an engine speed of 8 knots, which course must you steer to make good 048°T.",
+    "answer": 3,
+    "number": 500233,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "White octagonal house on a cylindrical pier",
+      "White conical tower with a brown band midway of height",
+      "Conical tower, upper half white, lower half brown",
+      "Black skeleton tower on a granite dwelling"
+    ],
+    "question": "Which structure should you look for while trying to locate Southwest Ledge Light?",
+    "answer": 0,
+    "number": 500234,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°12.4'N, LONG 73°56.0'W",
+      "LAT 40°17.4'N, LONG 73°54.0'W",
+      "LAT 41°12.4'N, LONG 72°53.8'W",
+      "LAT 41°13.4'N, LONG 72°53.8'W"
+    ],
+    "question": "At 0830, you obtained the following Loran-C readings:\n\n 9960-X-26562.5\n 9960-Y-44028.1\n\nWhat is your vessel's position?",
+    "answer": 2,
+    "number": 500235,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "109°psc",
+      "112°psc",
+      "115°psc",
+      "118°psc"
+    ],
+    "question": "From your 0830 position, you wish to make good 097°T. There is no current, but a southerly wind is producing 3° leeway.  What course should you steer per standard magnetic compass in order to make good your true course?",
+    "answer": 2,
+    "number": 500236,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "12.1 knots",
+      "10.9 knots",
+      "9.7 knots",
+      "8.5 knots"
+    ],
+    "question": "At 0845, you are on a course of 097°T, and Townshend Ledge Buoy \"10A\" is close abeam to port.  With a westerly current of 1.2 knots, what speed will you have to turn for from your 0845 position in order to arrive abeam of Six Mile Reef Buoy \"8C\" at 1030?",
+    "answer": 1,
+    "number": 500237,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°11.1'N, LONG 72°41.2'W",
+      "LAT 41°11.3'N, LONG 72°41.3'W",
+      "LAT 41°11.5'N, LONG 72°40.7'W",
+      "LAT 41°11.8'N, LONG 72°40.2'W"
+    ],
+    "question": "At 0910, your DR position is LAT 41°11.9'N, LONG 72°47.8'W.  Your vessel is on course 097°T at 9.5 knots, and the weather is foggy.  At 0915, Branford Reef Light is sighted through a break in the fog bearing 318°T.  At 0945, Falkner Island Light is sighted bearing 042°T.  What is your 0945 running fix position?",
+    "answer": 2,
+    "number": 500238,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Depth contours",
+      "Breakers",
+      "Limiting danger",
+      "Tide rips"
+    ],
+    "question": "What do the dotted lines around Goose Island and Kimberly Reef represent?",
+    "answer": 0,
+    "number": 500239,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "A bearing to Little Gull Island Light of not less than 090°",
+      "A Loran reading of more than 9960-Y-43985.0",
+      "Danger bearing to Black Point of not more than 064°T",
+      "A distance to Saybrook Breakwater Light of not less than 1.3 miles"
+    ],
+    "question": "At 1100, your position is LAT 41°11.3'N, LONG 72°28.0'W. You are steering a course of 069°T to leave Black Point one mile off your port beam.  It has been reported that the Long Sand Shoal Buoys and Hatchett Reef Buoys are off station.  Which of the following will serve as a line marking the hazards and keep your vessel in safe water?",
+    "answer": 2,
+    "number": 500240,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "lighted only during daytime when the sound signal is in operation",
+      "lighted throughout 24 hours",
+      "maintained only from May 1 to Oct 1",
+      "obscured by trees from 253° to 352°"
+    ],
+    "question": "Little Gull Island Light is __________.",
+    "answer": 1,
+    "number": 500241,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "92 feet (28.0 meters)",
+      "97 feet (29.4 meters)",
+      "108 feet (32.7 meters)",
+      "115 feet (35.0 meters)"
+    ],
+    "question": "At 1210, you are in position LAT 41°14.3'N, LONG 72°16.5'W.  What is the depth of water below your keel?",
+    "answer": 1,
+    "number": 500242,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1243",
+      "1254",
+      "1259",
+      "1305"
+    ],
+    "question": "From your 1210 position, you are making good a course of 083°T.  Your engines are turning RPMs for 10 knots.  The set and drift of the current are 310° at 1.7 knots.  At what time should you expect to enter the red sector of New London Harbor Light?",
+    "answer": 0,
+    "number": 500243,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "006°",
+      "357°",
+      "354°",
+      "351°"
+    ],
+    "question": "Your vessel is entering New London Harbor Channel.  If there is no current, what should you steer per gyro compass to stay on the range?",
+    "answer": 3,
+    "number": 500244,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "lowest low water",
+      "mean low water",
+      "mean high water",
+      "mean lower low water"
+    ],
+    "question": "On chart 12354, the datum from which heights of objects are taken is __________.",
+    "answer": 2,
+    "number": 500245,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "040° - 310°",
+      "000° - 031°",
+      "208° - 220°",
+      "000° - 041°"
+    ],
+    "question": "The red sector of New London Harbor Light covers from __________.",
+    "answer": 3,
+    "number": 500246,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Rocky",
+      "Muddy",
+      "Hard",
+      "Sandy"
+    ],
+    "question": "What type of bottom is found at Long Sand Shoal?",
+    "answer": 2,
+    "number": 500247,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "a sunken wreck",
+      "a bifurcation",
+      "the junction with the Connecticut River",
+      "shoal water"
+    ],
+    "question": "You are southeast of Saybrook Breakwater Light passing Saybrook Bar Lighted Bell Buoy \"8\".  This buoy marks __________.",
+    "answer": 3,
+    "number": 500248,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "225.0°psc",
+      "230.5°psc",
+      "233.0°psc",
+      "236.0°psc"
+    ],
+    "question": "At 0005, on 26 January, your position is LAT 41°11.8'N, LONG 72°20.5'W.  From this position, you plot a course to steer to Mattituck Breakwater Light \"MI\" with an engine speed of 9.0 knots.  If there are no set and drift, what course should you steer?",
+    "answer": 2,
+    "number": 500249,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "275°true, 0.9 knot",
+      "275°true, 1.4 knots",
+      "095°true, 1.4 knot",
+      "095°True, 0.9 knots"
+    ],
+    "question": "At 0045, you obtain the following information:\n\n Radar range to Inlet Point is  1.4 miles;\n Radar range to Rocky Point is  2.8 miles.\n Radar range to Horton Point is 2.8 miles.\n\n What were the set and drift between 0005 and 0045?",
+    "answer": 2,
+    "number": 500250,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0100",
+      "0123",
+      "0131",
+      "The light is visible all the way to Mattituck Inlet"
+    ],
+    "question": "You alter course from your 0045 position to head for Mattituck Breakwater Light \"MI\".  If the visibility is 10 miles and you make good 9 knots, at what time will you lose sight of Saybrook Breakwater Light?",
+    "answer": 0,
+    "number": 500251,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "6.7 knots",
+      "7.2 knots",
+      "8.0 knots",
+      "8.7 knots"
+    ],
+    "question": "At 0100, you obtain the following radar ranges:\n\n  Inlet Point  -    2.7 miles,\n Rocky Point  - 4.5 miles,\n Horton Point -  1.0 mile.\n\n What was the speed made good between 0045 and 0100?",
+    "answer": 1,
+    "number": 500252,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1.8 mile",
+      "1.3 mile",
+      "0.8 mile",
+      "0.2 miles"
+    ],
+    "question": "According to the DR track line from your 0100 position, how far off Roanoke Point Shoal Buoy \"5\" should you be when the buoy is abeam?",
+    "answer": 2,
+    "number": 500253,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "236°T at 9.4 knots",
+      "246°T at 9.8 knots",
+      "259°T at 9.8 knots",
+      "267°T at 9.4 knots"
+    ],
+    "question": "At 0130, you obtain the following radar ranges:\n\n Horton Point Light -                4.3 miles;\n Mattituck Breakwater Light -  3.45 miles;\n Duck Pond Point -                 2.0 miles.\n\n What were the course and speed made good between 0100 and 0130?",
+    "answer": 1,
+    "number": 500254,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°00.8'N,  LONG 72°40.8'W",
+      "LAT 41°01.2'N,  LONG 72°40.4'W",
+      "LAT 41°02.0'N,  LONG 72°39.5'W",
+      "LAT 41°02.6'N,  LONG 72°39.0'W"
+    ],
+    "question": "From your 0130 position, you change course to adjust for set and drift, and you later obtain the following loran lines of position:\n\n 9960-W-14975\n 9960-X-26412\n 9960-Y-43919\n\n What is the latitude and longitude of the loran fix?",
+    "answer": 2,
+    "number": 500255,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "262.0°psc",
+      "265.0°psc",
+      "270.5°psc",
+      "275.5°psc"
+    ],
+    "question": "At 0209, your position is LAT 41°01.8'N,  LONG 72°40.8'W.   What course should you steer per standard magnetic compass to make good 278° magnetic?  (assume no set and drift)",
+    "answer": 3,
+    "number": 500256,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "composed of high rocky bluffs",
+      "a high, flat plateau with sheer cliffs",
+      "low and marshy with isolated beaches",
+      "fringed by rocky shoals"
+    ],
+    "question": "The south coast of Long Island Sound between Mattituck Inlet and Port Jefferson is __________.",
+    "answer": 3,
+    "number": 500259,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0318",
+      "0312",
+      "0309",
+      "0303"
+    ],
+    "question": "At 0300, your position is LAT 41°01.7'N, LONG 72°55.1'W. From this position you steer a course of 289° per standard magnetic compass at an engine speed of 10.0 knots.  At what time can you first expect to see Stratford Shoal Middle Ground Light if the luminous range is 8.0 miles?",
+    "answer": 3,
+    "number": 500260,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "9.6 knots",
+      "9.3 knots",
+      "8.5 knots",
+      "8.1 knots"
+    ],
+    "question": "You must arrive at your final destination by 0800.  The distance from your 0300 position to the final destination is 40.5 miles.  What minimum speed must be made good to arrive on time?",
+    "answer": 3,
+    "number": 500261,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "157°psc",
+      "160°psc",
+      "163°psc",
+      "166°psc"
+    ],
+    "question": "You are northwest of Port Jefferson Harbor steering 242° per standard magnetic compass.  As you continue westward, you see that the Port Jefferson Range Front Light and Rear Light come into line.  If the deviation table is correct, the bearing of the range should be __________.",
+    "answer": 0,
+    "number": 500262,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1.0°E",
+      "1.0°W",
+      "2.0°E",
+      "2.0°W"
+    ],
+    "question": "As you enter the New Haven Outer Channel, you sight the range markers in line directly over the stern.  Your heading at the time is 155.5° per gyrocompass.  What is the gyro error?",
+    "answer": 3,
+    "number": 500263,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0745",
+      "0741",
+      "0738",
+      "0734"
+    ],
+    "question": "At 0720, you are in the outer channel between buoy \"1\" and buoy \"2\" and change course to pass Townshend Ledge Lighted Bell Buoy \"10A\" abeam to port at 200 yards.  What is your ETA off the buoy?",
+    "answer": 2,
+    "number": 500264,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°12.4'N, LONG 72°51.5'W",
+      "LAT 41°12.6'N, LONG 72°51.8'W",
+      "LAT 41°12.7'N, LONG 72°51.9'W",
+      "LAT 41°12.2'N, LONG 72°52.0'W"
+    ],
+    "question": "At 0740, you plot a loran fix from the following readings:\n\n 9960-X-26542.0\n 9960-Y-44023.0\n 9960-W-15027.0\n\n What is your position?",
+    "answer": 0,
+    "number": 500265,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "9960 Y: not less than 44014",
+      "9960 X: not more than 26452",
+      "9960 W: not less than 14942",
+      "None of the above"
+    ],
+    "question": "From your 0740 position, you change course to pass 1.1 miles north of Falkner Island Light.  What loran reading will ensure that you will remain clear of the 18' shoal located 1 mile NW of Falkner Island Light?",
+    "answer": 0,
+    "number": 500266,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Set 040°T, drift .2 knot",
+      "Set 220°T, drift .2 knot",
+      "Set 220°T, drift .6 knot",
+      "You are making good your intended course and speed."
+    ],
+    "question": "At 0802,  Branford Reef Light bears 348°T at 0.75 mile, and the north point of Falkner Island bears 088°T at 6.7 miles.  What were the set and drift since 0740?",
+    "answer": 2,
+    "number": 500267,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The navigational regulations in Title 46, Code of Federal Regulations",
+      "U.S. Coast Pilot",
+      "U.S. Coast Guard Light List",
+      "Inland Navigation Rules"
+    ],
+    "question": "What publication contains information on the navigational hazards in the vicinity of Falkner Island?",
+    "answer": 1,
+    "number": 500268,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "099°",
+      "095°",
+      "068°",
+      "064°"
+    ],
+    "question": "If there is no current, what is the course per standard magnetic compass from your 0802 fix to the position 1.1 miles north of Falkner Island Light?",
+    "answer": 1,
+    "number": 500269,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2181 kHz",
+      "162.40 Mhz",
+      "156.80 Mhz",
+      "156.65 Mhz"
+    ],
+    "question": "At 0830, you wish to get the latest weather forecasts for the Falkner Island area.  On what frequency would you set your FM radio for this information?",
+    "answer": 1,
+    "number": 500270,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "29 ft (8.8 meters)",
+      "22 ft (6.7 meters)",
+      "19 ft (5.8 meters)",
+      "14 ft (4.2 meters)"
+    ],
+    "question": "At 0844, the range to the north end of Falkner Island is 2.0 miles and the left tangent bearing is 102°T.  What is the approximate charted depth of the water?",
+    "answer": 0,
+    "number": 500271,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "102°T",
+      "096°T",
+      "093°T",
+      "089°T"
+    ],
+    "question": "At 0925, you plot the following loran fix:\n\n 9960-W-14931.5\n 9960-X-26418.2\n 9960-Y-44006.5\n\nIf you correct for a current setting 215°T at 0.5 knot, what course will you steer from the 0925 position to arrive at a position 0.5 mile south of Long Sand Shoal West End Horn Buoy \"W\"?",
+    "answer": 3,
+    "number": 500272,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1014",
+      "1018",
+      "1021",
+      "1026"
+    ],
+    "question": "If you correct for the current in the previous question (215°T at 0.5 knot) and maintain an engine speed of 7.5 knots, what is your ETA 0.5 mile south of buoy \"W\"?",
+    "answer": 3,
+    "number": 500273,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "12.8 nm",
+      "12.0 nm",
+      "6.9 nm",
+      "5.9 nm"
+    ],
+    "question": "At what approximate distance would you expect Bartlett Reef Light to break the horizon, if the visibility is 27 nautical miles?",
+    "answer": 0,
+    "number": 500274,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "9960-Y-43980",
+      "9960-X-26290",
+      "9960-W-14730",
+      "9960-W-14810"
+    ],
+    "question": "At 1038, you are 0.4 mile south of Long Sand Shoal Buoy \"8A\" on course 090°T when visibility is reduced to 1 mile in rain and haze.  You intend to stay on 090°T until your Loran shows a reading that you can safely follow to the approaches of New London.  Which of the following Loran readings will you look for?",
+    "answer": 0,
+    "number": 500275,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Whistle from 125° relative",
+      "Bell from 350° relative",
+      "Whistle from 075° relative",
+      "Horn from 330° relative"
+    ],
+    "question": "At 1200, your position is 2.0 miles southwest of Bartlett Reef Light.  Your heading is 075°T.  Visibility is less than 0.2 mile in fog and rain.  Which of the following signals is most likely to be from another vessel?",
+    "answer": 2,
+    "number": 500276,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "13211",
+      "13214",
+      "13213",
+      "13272"
+    ],
+    "question": "What chart should you use after you enter New London Harbor?",
+    "answer": 2,
+    "number": 500277,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°05.2'N, LONG 73°07.8'W",
+      "LAT 41°05.4'N, LONG 73°07.3'W",
+      "LAT 41°05.3'N, LONG 73°07.5'W",
+      "LAT 41°05.4'N, LONG 73°07.7'W"
+    ],
+    "question": "You are on course 082°T, and the engines are turning for 8 knots.  At 0352, you take the following bearings:    \nStratford Point Light 016°pgc  Stratford Shoal (Middle Ground) Light 137°pgc  \n\nWhat is your 0352 position?",
+    "answer": 0,
+    "number": 500341,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The light is visible at 0352.",
+      "0443",
+      "0414",
+      "You will not sight the light."
+    ],
+    "question": "If the visibility is 11 miles, what is the earliest time you can expect to see New Haven Light?",
+    "answer": 1,
+    "number": 500342,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "deviation table is correct for that heading",
+      "variation",
+      "compass error is 17.5°E",
+      "deviation is 3.5°E for a bearing of 206° per standard magnetic compass"
+    ],
+    "question": "While on a heading of 082°T, you sight Middle Ground Light in line with Old Field Point Light bearing 206° per standard magnetic compass.  From this you can determine the __________.",
+    "answer": 0,
+    "number": 500343,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "087°T",
+      "085°T",
+      "083°T",
+      "081°T"
+    ],
+    "question": "The maximum ebb current at a location 4.3 miles south of Stratford Point will occur at 0413.  The predicted current will be 1.0 knot at 075°.  What will be your course made good if you steer 082°T at 8 knots?",
+    "answer": 3,
+    "number": 500344,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "flashing red every 4 seconds",
+      "flashing red every 3 seconds",
+      "flashing yellow every 4 seconds",
+      "flashing white every 6 seconds"
+    ],
+    "question": "The characteristic of Branford Reef Light is __________.",
+    "answer": 3,
+    "number": 500345,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The current's drift is greater than predicted.",
+      "You are to the right of your intended track line.",
+      "The course made good since 0352 is 081°T.",
+      "Your fathometer reads about 76 fathoms."
+    ],
+    "question": "At 0415, you take the following bearings:\n\nStratford Point Light    329.5°pgc  \nMiddle Ground Light    223.5°pgc  \nOld Field Point Light    199.5°pgc  \n\nWhich statement is TRUE?",
+    "answer": 1,
+    "number": 500346,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "086°T",
+      "084°T",
+      "082°T",
+      "079°T"
+    ],
+    "question": "If you change course at 0420, what is the course to make good to leave Twenty Eight Foot Shoal Lighted Buoy abeam to port at 1 mile?",
+    "answer": 1,
+    "number": 500347,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°08.9'N, LONG 73°00.0'W",
+      "LAT 41°05.0'N, LONG 73°01.1'W",
+      "LAT 41°05.8'N, LONG 73°00.8'W",
+      "LAT 41°06.5'N, LONG 73°01.4'W"
+    ],
+    "question": "At 0430, you take the following loran readings:\n\n 9960-X-26605.5\n 9960-Y-43985.0\n\nWhat is your 0430 position?",
+    "answer": 2,
+    "number": 500348,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "101.5°",
+      "098.0°",
+      "086.0°",
+      "082.5°"
+    ],
+    "question": "From your 0430 position, what is the course per standard magnetic compass to a position where Twenty-eight foot Shoal lighted buoy \"TE\" is abeam to port at 1 mile?",
+    "answer": 0,
+    "number": 500349,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "090°",
+      "086°",
+      "083°",
+      "080°"
+    ],
+    "question": "By 0430, the wind has increased, and the visibility cleared due to passage of a front.  You estimate 3° leeway due to NW'ly winds.  What is the course per gyrocompass to pass 1.2 miles due south of Twenty-eight Foot Shoal Lighted Buoy \"TE\"?",
+    "answer": 3,
+    "number": 500350,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0624",
+      "0620",
+      "0609",
+      "0601"
+    ],
+    "question": "At 0430, you change course and speed to make good 090°T at 10 knots. At 0433, you slow due to an engineering casualty and estimate you are making good 5.5 knots.  At what time will Branford Reef Light bear 000°T?",
+    "answer": 2,
+    "number": 500351,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "122 miles",
+      "115 miles",
+      "104 miles",
+      "95 miles"
+    ],
+    "question": "What is the approximate distance to New Bedford, MA, from your 0530 DR position, if your 0352 position was 7 miles from Bridgeport, CT?",
+    "answer": 2,
+    "number": 500352,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Your course made good from 0630 to 0700 was 082°T.",
+      "The speed made good from 0630 to 0700 was 10.1 knots.",
+      "You are making good your intended speed.",
+      "The current from 0630 to 0700 was 279°T at 0.6 knot."
+    ],
+    "question": "At 0550, engineering repairs are complete and speed is increased to 9.6 knots.  At 0630, Falkner Island Light bears 023°pgc and Horton Point Light bears 097°pgc.   From your 0630 fix you steer to make good a course of 086°T while turning for 9.6 knots.  At 0700, Falkner Island Light bears 336.0°pgc and Horton Point Light bears 105.5°pgc.  The radar range to the south tip of Falkner Island is 5.7 miles.  Which statement is TRUE?",
+    "answer": 2,
+    "number": 500353,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "bluff and rocky",
+      "low and marshy",
+      "marked by sandy beaches and wooded uplands",
+      "bound by gradual shoaling"
+    ],
+    "question": "The south shore of Long Island Sound from Horton Point to Orient Point is __________.",
+    "answer": 0,
+    "number": 500354,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "9.3 miles",
+      "10.8 miles",
+      "12.1 miles",
+      "13.9 miles"
+    ],
+    "question": "Orient Point Light will break the horizon at a range of about __________.",
+    "answer": 3,
+    "number": 500355,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "192°psc",
+      "190°psc",
+      "187°psc",
+      "175°psc"
+    ],
+    "question": "At 0345, you set a course to depart New London Harbor. Assuming no set and drift, which standard magnetic compass course must you steer to stay in the middle of the channel?",
+    "answer": 2,
+    "number": 500421,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The wreck presents a danger to all vessels with drafts in excess of 30 feet (9.1 meters).",
+      "The wreck is visible above the sounding datum between the months of March and June.",
+      "The wreck was cleared by wire drag in 1982 and will not appear on future charts.",
+      "The wreck is shown on the chart, but its actual existence is doubtful."
+    ],
+    "question": "Which statement regarding the wreck 0.2 mile south of buoys \"1\" and \"2\" at the entrance to New London Harbor is TRUE?",
+    "answer": 3,
+    "number": 500422,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Green",
+      "White",
+      "Red",
+      "Alternating white and green"
+    ],
+    "question": "At 0530, your position is LAT 41°12.6'N, LONG 72°08.5'W. What is the color of New London Harbor Light?",
+    "answer": 2,
+    "number": 500423,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "9.5 knots",
+      "9.0 knots",
+      "8.6 knots",
+      "7.5 knots"
+    ],
+    "question": "From your 0530 position, you set a course of 271°psc with an engine speed of 9 knots.  At 0645, Cornfield Safe-Water Buoy is abeam to starboard.  What speed have you averaged since 0530?",
+    "answer": 2,
+    "number": 500424,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "67 feet (20.3 meters)",
+      "62 feet (18.8 meters)",
+      "57 feet (17.3 meters)",
+      "52 feet (15.8 meters)"
+    ],
+    "question": "At 0730, your position is LAT 41°10.5'N, LONG 72°32.2'W. From this position you steer course 286°psc with an engine speed of 9.0 knots.  What is the approximate depth of water under your keel?",
+    "answer": 3,
+    "number": 500425,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "fish trap area",
+      "pipeline",
+      "demarcation line",
+      "cable area"
+    ],
+    "question": "The broken magenta line which runs parallel to the shore between Roanoke Point and Mattituck Inlet marks a __________.",
+    "answer": 0,
+    "number": 500426,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0910",
+      "0905",
+      "0902",
+      "0859"
+    ],
+    "question": "Assuming no current, at what time can you expect to be abeam of Townshend Ledge Lighted Buoy?",
+    "answer": 0,
+    "number": 500427,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "It is not visible at 0730",
+      "0733",
+      "0751",
+      "0812"
+    ],
+    "question": "At 0730, visibility is 5.5 miles.  At what time will you lose sight of Horton Point Light?",
+    "answer": 2,
+    "number": 500428,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Set 052°T, drift 1.1 knots",
+      "Set 052°T, drift 1.3 knots",
+      "Set 232°T, drift 1.3 knot",
+      "Set 232°T, drift 1.1 knots"
+    ],
+    "question": "At 0820, you take the following Loran-C readings:\n\n 9960-W-14978.0\n 9960-Y-43993.5\n 9960-X-26464.1\n\nWhat are the set and drift since 0730?",
+    "answer": 2,
+    "number": 500429,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°11.9'N,  LONG 72°50.6'W",
+      "LAT 41°12.1'N,  LONG 72°48.6'W",
+      "LAT 41°12.3'N,  LONG 72°47.7'W",
+      "LAT 41°12.5'N,  LONG 72°44.3'W"
+    ],
+    "question": "At 0820, you change course to 301°psc and reduce speed to 7.5 knots.  At 0900, you take the following visual bearings:\n\nBranford Reef Light              023°psc  \nNew Haven Light                 293°psc  \nTweed Airport Aerobeacon  332°psc  \n\nYour 0900 position is __________.",
+    "answer": 1,
+    "number": 500430,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "319°psc",
+      "317°psc",
+      "311°psc",
+      "302°psc"
+    ],
+    "question": "At 0900, the current is flooding in a direction of 350°T at 1.2 knots.  If your engines are turning RPMs for 9 knots, which course should you steer per standard magnetic compass to make good a course of 297° true?",
+    "answer": 3,
+    "number": 500431,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "12371",
+      "12370",
+      "12372",
+      "12373"
+    ],
+    "question": "Which chart would you use for more detailed information on New Haven Harbor?",
+    "answer": 0,
+    "number": 500432,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "271°T, 8.9 knots",
+      "273°T, 8.7 knots",
+      "277°T, 8.4 knots",
+      "284°T, 7.5 knots"
+    ],
+    "question": "What true course and speed did you make good between 0730 and 0900?",
+    "answer": 2,
+    "number": 500433,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "4.5°West",
+      "3.5°West",
+      "3.0°East",
+      "0.5°East"
+    ],
+    "question": "As you enter the New Haven Outer Channel, you sight the outer range markers in line directly ahead.  Your heading at this time is 347°psc.  What is your compass deviation by observation?",
+    "answer": 3,
+    "number": 500434,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "026°psc",
+      "022°psc",
+      "014°psc",
+      "007°psc"
+    ],
+    "question": "Which course should you change to per standard magnetic compass as you pass SW Ledge Light to remain in the channel?",
+    "answer": 1,
+    "number": 500435,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "052°",
+      "049°",
+      "046°",
+      "035°"
+    ],
+    "question": "Your position is LAT 40°59.0'N, LONG 73°06.2'W.  What is the course per standard magnetic compass to New Haven Harbor Lighted Whistle Buoy \"NH\"?",
+    "answer": 0,
+    "number": 500500,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The light is visible at 2114.",
+      "2152",
+      "2159",
+      "2206"
+    ],
+    "question": "You depart from the position in the previous question at 2114 and make good 12 knots on a course of 040°T.  At what time will you sight New Haven Light if the visibility is 11 miles?",
+    "answer": 2,
+    "number": 500501,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°02.7'N, LONG 73°01.2'W",
+      "LAT 41°03.0'N, LONG 73°01.7'W",
+      "LAT 41°03.1'N, LONG 73°01.3'W",
+      "LAT 41°03.3'N, LONG 73°01.9'W"
+    ],
+    "question": "At 2142, you take the following bearings:\n\nStratford Point Light                           331°T  \nStratford Shoal Middle Ground Light  280°T  \nOld Field Point Light                           223°T  \n\nWhat is your 2142 position?",
+    "answer": 1,
+    "number": 500502,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "11.4 knots",
+      "11.7 knots",
+      "12.0 knots",
+      "12.3 knots"
+    ],
+    "question": "What was the speed made good between 2114 and 2142?",
+    "answer": 0,
+    "number": 500503,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "_ .",
+      "_ _",
+      ". .",
+      ". _"
+    ],
+    "question": "At 2142, you change course to make good 030°T and increase speed to 14 knots.  You rendezvous with another vessel and receive fresh supplies while off New Haven Harbor lighted whistle buoy \"NH\".  What is the light characteristic of this buoy?",
+    "answer": 3,
+    "number": 500504,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°11.0'N, LONG 72°51.0'W",
+      "LAT 41°11.4'N, LONG 72°51.3'W",
+      "LAT 41°11.6'N, LONG 72°51.6'W",
+      "LAT 41°11.8'N, LONG 72°51.8'W"
+    ],
+    "question": "At 0109 you get underway, and at 0112 you take the following Loran-C readings:\n\n 9960-W-15026.9\n 9960-X-26536.9\n 9960-Y-44015.7\n\nWhat is your 0112 position?",
+    "answer": 1,
+    "number": 500505,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "57 feet (17.3 meters)",
+      "51 feet (15.5 meters)",
+      "47 feet (14.2 meters)",
+      "38 feet (11.5 meters)"
+    ],
+    "question": "At 0112, what is the approximate depth under the keel?",
+    "answer": 3,
+    "number": 500506,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "118°",
+      "120°",
+      "129°",
+      "132°"
+    ],
+    "question": "At 0112, you are on course 124°T and turning for 12.0 knots.  What course will you make good if the current is 255°T at 1.2 knots?",
+    "answer": 2,
+    "number": 500507,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "a hard sand shoal marked with a light",
+      "completely submerged at all stages of the tide",
+      "surrounded by rocks awash at low water spring tides",
+      "a small, low, sandy islet surrounded by shoal water"
+    ],
+    "question": "Branford Reef is __________.",
+    "answer": 1,
+    "number": 500508,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°09.3'N, LONG 72°48.7'W",
+      "LAT 41°09.7'N, LONG 72°48.1'W",
+      "LAT 41°09.8'N, LONG 72°47.2'W",
+      "LAT 41°10.2'N, LONG 72°47.7'W"
+    ],
+    "question": "At 0112, the radar range to Branford Reef Light is 2.9 miles.  At 0125, the range is 3.6 miles.  What is the position of your 0125 running fix if you are steering 124°T at 12 knots?`",
+    "answer": 1,
+    "number": 500509,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1.2 mile",
+      "1.1 mile",
+      "0.9 miles",
+      "0.7 miles"
+    ],
+    "question": "At 0130, your position is LAT 41°09.3'N, LONG 72°46.9'W when you change course to 086°T.  If you make good 086°T, what is the closest point of approach to Twenty-Eight Foot Shoal Lighted Buoy?",
+    "answer": 2,
+    "number": 500511,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "260° at 1.0 knot",
+      "080° at 0.5 knot",
+      "260° at 0.5 knot",
+      "There is no current."
+    ],
+    "question": "At 0200, you take the following bearings:\n\nFalkner Island Light           004.5°T  \nKelsey Pt. Breakwater Lt.  054.0°T  \nHorton Point Light             115.0°T  \n\nWhat were the set and drift from 0130?",
+    "answer": 0,
+    "number": 500512,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "7.3 miles",
+      "7.1 miles",
+      "6.9 miles",
+      "6.6 miles"
+    ],
+    "question": "What is the distance from your 0200 position to the point where Twenty-Eight Foot Shoal lighted buoy is abeam to starboard?",
+    "answer": 2,
+    "number": 500513,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "the shore is bluff and rocky",
+      "of offshore exposed rocks",
+      "submerged reefs cause prominent breakers",
+      "the lookout tower is marked with radar reflectors"
+    ],
+    "question": "The shoreline along Rocky Point should give a good radar return because __________.",
+    "answer": 0,
+    "number": 500514,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The true heading at the observation was 090°.",
+      "The gyro error is 2°E.",
+      "The magnetic compass error is 9.5°W.",
+      "The deviation is 1.5°E by observation."
+    ],
+    "question": "You sight Bartlett Reef Light in line with New London Harbor Light bearing 043°pgc.  You are heading 088°pgc and 098.5° per standard magnetic compass at the time of the observation.  Which statement is TRUE?",
+    "answer": 3,
+    "number": 500516,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°05.2'N, LONG 73°07.8'W",
+      "LAT 41°05.0'N, LONG 73°07.5'W",
+      "LAT 41°05.0'N, LONG 73°07.3'W",
+      "LAT 41°04.8'N, LONG 73°07.3'W"
+    ],
+    "question": "You are on course 092°T, and the engines are turning for 8 knots.  At 0452, you take the following bearings:\nStratford Point Light 020°pgc  Stratford Shoal (Middle Ground) Light 141°pgc  \n\nWhat is your 0452 position?",
+    "answer": 0,
+    "number": 500551,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0500",
+      "0508",
+      "0514",
+      "You will not sight the light."
+    ],
+    "question": "If the visibility is 10 miles, what is the earliest time you can expect to see New Haven Light?",
+    "answer": 3,
+    "number": 500552,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°04.6'N, LONG 73°04.7'W",
+      "LAT 41°04.8'N, LONG 73°04.8'W",
+      "LAT 41°04.8'N, LONG 73°04.9'W",
+      "LAT 41°05.1'N, LONG 73°05.1'W"
+    ],
+    "question": "At 0507, Stratford Shoal Middle Ground Light bears 208°pgc.  What is the position of your 0507 running fix?",
+    "answer": 3,
+    "number": 500553,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "have a following current",
+      "have a head current",
+      "are being set to the north",
+      "are not affected by a current"
+    ],
+    "question": "Based on your running fix, you __________.",
+    "answer": 0,
+    "number": 500554,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "114 miles",
+      "101 miles",
+      "95 miles",
+      "88 miles"
+    ],
+    "question": "Your 0507 position is about 7 miles from Bridgeport, CT. What is the distance from this position to Newport, RI?",
+    "answer": 3,
+    "number": 500555,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "099.5°psc",
+      "096.0°psc",
+      "092.5°psc",
+      "082.0°psc"
+    ],
+    "question": "Your 0530 position is LAT 41°04.9'N, LONG 73°01.1'W. What is the course per standard magnetic compass to a position 1.0 mile south of Twenty Eight Foot Shoal \"TE\" buoy?",
+    "answer": 0,
+    "number": 500556,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "high with numerous cliffs",
+      "fringed with rock shoals",
+      "backed by marshes and wooded uplands",
+      "low and marshy"
+    ],
+    "question": "The south shore of Long Island Sound near your position is __________.",
+    "answer": 1,
+    "number": 500557,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "094°pgc",
+      "092°pgc",
+      "090°pgc",
+      "088°pgc"
+    ],
+    "question": "At 0530, you change course to 090°T and increase speed to 8.5 knots.  What is the course to steer per gyro compass if northerly winds are causing 2° of leeway?",
+    "answer": 2,
+    "number": 500558,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "083° at 0.9 knots",
+      "083° at 1.2 knots",
+      "263° at 1.2 knots",
+      "263° at 0.9 knots"
+    ],
+    "question": "At 0615, Stratford Point Light bears 292°pgc, Falkner Island Light bears 052°pgc, and Branford Reef Light bears 018°pgc.  What was the current since 0530?",
+    "answer": 1,
+    "number": 500559,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "9960-Y-43960",
+      "9960-X-26450",
+      "9960-W-14900",
+      "9960-W-15000"
+    ],
+    "question": "Which loran line can you follow to remain clear of all danger until south of New London?",
+    "answer": 0,
+    "number": 500560,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0730",
+      "0735",
+      "0743",
+      "0750"
+    ],
+    "question": "At 0615 you change course to 078°T.  If there is no current, when will Falkner Island Light be abeam?",
+    "answer": 0,
+    "number": 500561,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "087°T",
+      "084°T",
+      "081°T",
+      "078°T"
+    ],
+    "question": "At 0700, Falkner Island Light bears 023°pgc, and the range to the south tip of Falkner Island is 7.1 miles.  What was the course made good since 0615?",
+    "answer": 2,
+    "number": 500562,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°06.7'N, LONG 72°36.0'W",
+      "LAT 41°07.0'N, LONG 72°36.2'W",
+      "LAT 41°07.2'N, LONG 72°36.4'W",
+      "LAT 41°07.4'N, LONG 72°36.4'W"
+    ],
+    "question": "At 0705, the gyro loses power.  At 0715, you are on course 092° per standard magnetic compass (psc) when you take the following bearings:  Falkner Light bears 356°psc, Horton Point Light bears 123°psc, and Kelsey Point Breakwater Light bears 048°psc.  What is the position of your 0715 fix?",
+    "answer": 1,
+    "number": 500563,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "is 14 feet above sea level",
+      "has a fixed green light",
+      "is shown from a white square tower",
+      "is synchronized with a radio beacon"
+    ],
+    "question": "Horton Point Light __________.",
+    "answer": 2,
+    "number": 500564,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "18.0 miles",
+      "15.6 miles",
+      "12.8 miles",
+      "11.1 miles"
+    ],
+    "question": "If visibility permits, Little Gull Island Light will break the horizon at a range of approximately __________.",
+    "answer": 1,
+    "number": 500565,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "38.5 feet (11.7 meters)",
+      "43.5 feet (13.2 meters)",
+      "51.0 feet (15.5 meters)",
+      "59.5 feet (18.0 meters)"
+    ],
+    "question": "From your 0100 position, you change course to 258° per standard magnetic compass.  Your engine speed is 10.0 knots.  A short time later, your fathometer reads 51 feet (15.5 meters) under the keel.  What is the water depth?",
+    "answer": 3,
+    "number": 500631,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "You are in the red sector of New London Harbor Light.",
+      "Your fathometer reads approximately 40 feet.",
+      "You can follow loran reading 9960-Y-43990 to remain clear of all dangers until west of Stratford Shoal.",
+      "Little Gull Island Light bears 339°T at 4.3 miles."
+    ],
+    "question": "At 2216 your position is LAT 41°16.0'N, LONG 72°08.0'W. Which statement is TRUE?",
+    "answer": 0,
+    "number": 516538,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "267°psc",
+      "270°psc",
+      "272°psc",
+      "274°psc"
+    ],
+    "question": "If you estimate 3° leeway due to northerly winds, which course will you steer per standard magnetic compass (psc)\nto make good 255°T?",
+    "answer": 1,
+    "number": 516539,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1°E",
+      "1°W",
+      "4°E",
+      "4°W"
+    ],
+    "question": "You sight Bartlett Reef Light in range with New London Harbor Light bearing 038°pgc.  At the time of the bearing,\nthe helmsman reports he was heading 253°pgc and 269° per standard magnetic compass.  What is the deviation for that heading?",
+    "answer": 0,
+    "number": 516540,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°13.6'N, LONG 72°19.2'W",
+      "LAT 41°13.8'N, LONG 72°19.6'W",
+      "LAT 41°14.0'N, LONG 72°19.0'W",
+      "LAT 41°14.2'N, LONG 72°19.7'W"
+    ],
+    "question": "At 2255 you take the following visual bearings. \n\nSaybrook Breakwater Light 333°pgc  \nLittle Gull Island Light          094°pgc \nHorton Point Light               211°pgc \n\nWhat is your position?",
+    "answer": 0,
+    "number": 516541,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "208°pgc",
+      "212°pgc",
+      "216°pgc",
+      "220°pgc"
+    ],
+    "question": "At 2308 your position is LAT 41°12.7'N, LONG 72°22.8'W.\nYou steer a course to make good 255°T from this position. At 2310 you receive a distress call from a vessel anchored 2.1 miles due north of Mattituck Inlet Light.  If you change course at 2314, what is the course to steer per gyrocompass to arrive at the distress site if you allow 2°\nleeway for northerly winds, 3°E gyro error and correct your course for a current of 073°T at 1.3 knots?",
+    "answer": 3,
+    "number": 516542,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0006",
+      "0010",
+      "0016",
+      "0021"
+    ],
+    "question": "Based on the information in the previous question, what is your ETA at the distress scene?",
+    "answer": 2,
+    "number": 516543,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "CMG 262°T,  SMG 10.4 knots",
+      "CMG 268°T,  SMG 10.8 knots",
+      "CMG 268°T,  SMG 10.4 knots",
+      "CMG 272°T,  SMG 10.8 knots"
+    ],
+    "question": "At 2347 you are advised that your assistance is no longer needed.  At 2350 you change course to make good 268°T.  At 0015 you take the following round of bearings:\n  Kelsey Point Breakwater light  024°pgc \n  Horton Point Light                   100°pgc \n  Falkner Island Light                 333°pgc  \n\nAt 0030 Falkner Island Lt. bears 000°T at 5.9 miles.\n\nWhat is the course and speed made good between 0015 and 0030?",
+    "answer": 3,
+    "number": 516544,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0218",
+      "0223",
+      "0228",
+      "0233"
+    ],
+    "question": "At 0030 you alter course and speed to make good 265°T at 10 knots.  What is your ETA at a point where Stratford Shoal Middle Ground Light is abeam?",
+    "answer": 3,
+    "number": 516545,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "You should alter course to the right to increase the rate of the bearing change.",
+      "You are making more speed over the ground than you estimated.",
+      "You should alter course to decrease the distance that you will pass off Middle Ground Shoal.",
+      "You can hold the present course and safely pass buoy \"18\"."
+    ],
+    "question": "At 0100 you notice that the wind has become SSW'ly and has freshened. At 0200 you sight Stratford Point Lighted Bell Buoy \"18\" bearing 268°pgc.  At 0215 the buoy bears 269°pgc.  Which statement is TRUE?",
+    "answer": 2,
+    "number": 516546,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "42.5 feet  (12.9 meters)",
+      "51.0 feet  (15.5 meters)",
+      "59.5 feet  (18.0 meters)",
+      "60.4 feet  (18.4 meters)"
+    ],
+    "question": "From your 0100 position, you change course to 258° per standard magnetic compass.  Your engine speed is 10.0 knots.  A short time later, your fathometer reads 51 feet (15.5 meters) under the keel.  What is the water depth?",
+    "answer": 2,
+    "number": 502082,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "116°,  0.4 knot",
+      "116°,  1.0 knot",
+      "296°,  0.4 knot",
+      "296°,  1.0 knot"
+    ],
+    "question": "At 1732, Bartlett Reef Lt bears 016°psc.  Race Rock Lt bears 125.5°psc with a radar range of 4.4 miles.  What is the set and drift?",
+    "answer": 3,
+    "number": 502581,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1819",
+      "1850",
+      "1910",
+      "1917"
+    ],
+    "question": "From your 1750 GPS position at LAT 41°15.6'N,  LONG  072°11.5'W, you plot a course of 255°T at 8.5 kts.  At what time would you see Falkner Island Light, if visibility is 10 miles?",
+    "answer": 1,
+    "number": 502582,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "9960-W-14885.0",
+      "9960-Y-43980.5",
+      "9960-Y-43982.0",
+      "9960-Y-43983.5"
+    ],
+    "question": "You lose GPS and are navigating solely on LORAN.  What LORAN line would you follow to leave Six Mile Reef buoy \"8C\" abeam to port at 1.0 mile?",
+    "answer": 2,
+    "number": 502583,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°11.2'N,  LONG 072°30.6'W",
+      "LAT 41°11.7'N,  LONG 072°29.2'W",
+      "LAT 41°11.8'N,  LONG 072°29.6'W",
+      "LAT 41°11.9'N,  LONG 072°29.2'W"
+    ],
+    "question": "At 1930 you obtain two radar ranges:  Hammonasset Point at 4.1 miles and the East side of Falkner Island at 7.6 miles.  What is your position?",
+    "answer": 1,
+    "number": 502584,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "257°T,  9.3 knots",
+      "253°T,  9.3 knots",
+      "257°T,  7.7 knots",
+      "253°T,  7.7 knots"
+    ],
+    "question": "At 2000 you plot your position as: LAT 41°11'N,  LONG 072°35'W.  The set and drift is 095°T at 0.8 knot.  What course must you steer, and what engine speed must you turn, in order to make good 255°T at 8.5 knots?",
+    "answer": 0,
+    "number": 502585,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "14994.0,  26473.0,  43982.0",
+      "14994.5,  26482.0,  43982.0",
+      "14996.0,  26477.5,  43981.0",
+      "14997.5,  26479.5,  43981.0"
+    ],
+    "question": "At 2100 Branford Reef Light bears 347°psc and Falkner Island Light bears 059°psc.  You also get a radar range of 5.3 miles from Branford Reef Light.  What are your LORAN readings?",
+    "answer": 2,
+    "number": 502586,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "156.65 MHz",
+      "156.85 MHz",
+      "162.475 MHz",
+      "162.775 MHz"
+    ],
+    "question": "What VHF frequency would you use to listen to a weather forecast for the eastern part of Long Island Sound?",
+    "answer": 2,
+    "number": 502587,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "9.0  knots",
+      "9.3  knots",
+      "9.6  knots",
+      "10.7  knots"
+    ],
+    "question": "At 2130 New Haven buoy \"NH\" bears 337° per gyro compass and Middle Ground Lt bears 254° per gyro compass.  You must arrive 0.3 miles off Port Jefferson buoy \"PJ\" at 2300.  What speed will you have to make good, for arrival at 2300?",
+    "answer": 1,
+    "number": 502588,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "232° psc",
+      "240° psc",
+      "244° psc",
+      "252° psc"
+    ],
+    "question": "From the 2130 position, you steer 236°T at 10 knots.  A strong northerly wind is causing 4° of leeway.  What course must you steer per standard compass, to make good 236°T?",
+    "answer": 3,
+    "number": 502589,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "237° psc",
+      "257° psc",
+      "261° psc",
+      "265° psc"
+    ],
+    "question": "You have maneuvered for traffic and at 2215 your LORAN readings are:  26567.5 and 15089.5.  What course must you steer to arrive at buoy \"PJ\",  passing 0.5 nm off \"Mt Misery Shoal\"?",
+    "answer": 2,
+    "number": 502590,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Wooded, barren hills with a rocky beach",
+      "Low, rocky cliffs with heavily wooded hills inland",
+      "Sand dunes and beaches with a mud and sand bottom",
+      "Sand bluffs 60 feet high and banks dug out by sand and gravel companies"
+    ],
+    "question": "Which statement best describes the shoreline at Mount Misery?",
+    "answer": 3,
+    "number": 502591,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "12362",
+      "12364",
+      "12369",
+      "12370"
+    ],
+    "question": "What chart would you need to enter Port Jefferson Harbor?",
+    "answer": 0,
+    "number": 502592,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "41 feet",
+      "47 feet",
+      "51 feet",
+      "57 feet"
+    ],
+    "question": "At 2315, you are notified that the Port Jefferson pilot will be delayed.  Old Field Point Light bears 257°T, Stratford Shoal Middle Ground Light bears 355°T and Port Jefferson East Breakwater Light bears 171°T.  What is the depth under the keel at this time on December 4, 1983?",
+    "answer": 1,
+    "number": 502593,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1.4 knots,  flood",
+      "1.4 knots,  ebb",
+      "0.8 knot,  flood",
+      "0.8 knot,  ebb"
+    ],
+    "question": "What will be the current at Port Jefferson entrance at 0130 on December 5, 1983?",
+    "answer": 3,
+    "number": 502594,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1° W",
+      "1° E",
+      "2° E",
+      "0°"
+    ],
+    "question": "At 0145 you take on the pilot and are inbound Port Jefferson.  The ship's heading is 147°pgc when lined up on the Port Jefferson range.  What is your gyro error?",
+    "answer": 0,
+    "number": 502595,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "15°W",
+      "1°W",
+      "1°E",
+      "0°"
+    ],
+    "question": "You are in New Haven Outer Channel and sight the range markers in line directly over the stern.  Your heading at the time is 168° per standard magnetic compass.  What is the magnetic compass error?",
+    "answer": 0,
+    "number": 515056,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "120°pgc",
+      "118°pgc",
+      "116°pgc",
+      "114°pgc"
+    ],
+    "question": "At 0720, you are in the outer channel between buoy \"1\" and buoy \"2\" and change course to pass Townshend Ledge Lighted Gong Buoy \"10A\" abeam to port at 0.1 miles.  What is the course to steer per gyro compass if a northerly wind causes 2° of leeway?",
+    "answer": 3,
+    "number": 515057,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°12.0'N, LONG 72°51.3'W",
+      "LAT 41°12.0'N, LONG 72°51.8'W",
+      "LAT 41°12.1'N, LONG 72°51.5'W",
+      "LAT 41°12.1'N, LONG 72°52.0'W"
+    ],
+    "question": "At 0740, you plot a loran fix from the following readings:\n\n 9960-X-26545.9\n 9960-Y-44022.3\n 9960-W-15030.3\n\nWhat is your position?",
+    "answer": 3,
+    "number": 515058,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "9960 W: not less than 14942",
+      "9960 X: not more than 26452",
+      "9960 Y: not less than 44013",
+      "None of the above"
+    ],
+    "question": "From your 0740 position, you change course to pass 0.8 miles north of Falkner Island Light.  Which loran reading will ensure that you will remain clear of the 18' shoal located 1 mile NW of Falkner Island Light?",
+    "answer": 2,
+    "number": 515059,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Set 085°T, drift .2 knot",
+      "Set 085°T, drift .6 knot",
+      "Set 265°T, drift .2 knot",
+      "Set 265°T, drift .6 knot"
+    ],
+    "question": "At 0802, the radar range and bearing to Branford Reef Light are 350°pgc at 0.8 mile, and  the north point of Falkner Island are 090°pgc at 6.7 miles.  What were the set and drift that you encountered since 0740?",
+    "answer": 1,
+    "number": 515060,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "46 feet (13.9 meters) above sea level",
+      "only from 1 June to 10 October",
+      "from a white octagonal tower",
+      "with a six-second period"
+    ],
+    "question": "Falkner Island Light is shown __________.",
+    "answer": 2,
+    "number": 515061,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "064°psc",
+      "068°psc",
+      "091°psc",
+      "095°psc"
+    ],
+    "question": "If there is no current, what is the course per standard magnetic compass from your 0802 fix to a position 1.1 miles north of Falkner Island Light?",
+    "answer": 3,
+    "number": 515062,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2182 kHz",
+      "162.80 Mhz",
+      "156.65 Mhz",
+      "162.55 Mhz"
+    ],
+    "question": "At 0830, you want the latest weather forecasts for the Falkner Island area.  On what frequency do you set your FM radio for this information?",
+    "answer": 3,
+    "number": 515063,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "14 ft (4.2 meters)",
+      "19 ft (5.8 meters)",
+      "22 ft (6.7 meters)",
+      "29 ft (8.8 meters)"
+    ],
+    "question": "At 0844, the range to the north end of Falkner Island is 2.0 miles and the left tangent bearing is 102°T.  If the height of the tide is +1.0 foot, what is the approximate depth of the water under the keel?",
+    "answer": 1,
+    "number": 515064,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "089°T",
+      "092°T",
+      "095°T",
+      "102°T"
+    ],
+    "question": "At 0925, you plot the following loran fix:\n\n 9960-W-14930.5\n 9960-X-26417.0\n 9960-Y-44006.5\n\nIf you correct for a current setting 035°T at 0.5 knot,\nwhat true course will you steer from the 0925 position to arrive at a position 0.5 mile south of Long Sand Shoal West End Horn Buoy \"W\"?",
+    "answer": 2,
+    "number": 515065,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1016",
+      "1021",
+      "1026",
+      "1030"
+    ],
+    "question": "If you correct for the current in the preceding question (035°T at 0.5 knot) and maintain an engine speed of 7.5 knots, what is your ETA 0.5 mile south of buoy \"W\"?",
+    "answer": 1,
+    "number": 515066,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT  41°13.1'N,  LONG 72°34.8'W",
+      "LAT  41°13.0'N,  LONG 72°34.5'W",
+      "LAT  41°12.8'N,  LONG 72°35.1'W",
+      "LAT  41°12.8'N,  LONG 72°34.4'W"
+    ],
+    "question": "At 0946, the radar range to Hammonasset Point is 2.5 miles.\n The range to the eastern most point of Falkner Island is 3.3 miles, and the range to Horton Point is 10.1 miles. What is your position at 0946?",
+    "answer": 0,
+    "number": 515067,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "shoals gradually on the north and south sides",
+      "is hard and lumpy",
+      "shows breakers when northerly winds exceed 10 knots",
+      "has gray sand with scattered shells"
+    ],
+    "question": "Long Sand Shoal __________.",
+    "answer": 1,
+    "number": 515068,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1 foot (+.3 meters)",
+      "-2 feet (-.6 meters)",
+      "-3.5 feet (-1.1 meters)",
+      "The sounding datum is based on extreme low water and no correction is necessary"
+    ],
+    "question": "During extreme low water, the soundings near Saybrook may require corrections up to __________.",
+    "answer": 2,
+    "number": 515069,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2°E",
+      "0°",
+      "1°W",
+      "3°W"
+    ],
+    "question": "As you enter New London Harbor, you are steering on the entrance range.  The lights are in line over the bow as you are heading 352°pgc.  What is the gyro error?",
+    "answer": 0,
+    "number": 515070,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "41°16.0'N, 72°09.5'W",
+      "41°15.1'N, 72°04.6'W",
+      "41°17.4'N, 72°06.0'W",
+      "41°14.6'N, 72°03.0'W"
+    ],
+    "question": "At 0930 you obtain a position from the following information:  Race Rock Light bears 110°T at a range of 1.4 miles, and Goshen Point bears 330°T at a range of 3.3 miles.  What are your present latitude and longitude?",
+    "answer": 1,
+    "number": 515238,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "247°T",
+      "249°T",
+      "251°T",
+      "253°T"
+    ],
+    "question": "At 1000 buoy \"PI\" is abeam to starboard a distance of 0.5 mile.  From this position, with a set of 295° and a drift of 1.6 knots, what course must you steer to arrive at a point with Buoy \"TE\" one mile abeam to starboard?",
+    "answer": 0,
+    "number": 515239,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "north of your intended track line",
+      "41°09.4'N, 72°22.6'W",
+      "three miles southeast of Six Mile Reef Buoy \"8A\"",
+      "41°08.5'N, 72°27.3'W"
+    ],
+    "question": "You take a Loran-C fix at 1130 using the following lines:\n\n 9960-X-26319\n 9960-W-14880\n\nThe fathometer reads 81 ft.  Your position is __________.",
+    "answer": 3,
+    "number": 515240,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1315",
+      "1320",
+      "1325",
+      "1330"
+    ],
+    "question": "At 1155 your vessel's position is LAT 41°09.0'N, LONG  72°34.4'W.  If you make good a course of 282°T and a speed of 10.0 knots, when will you arrive at New Haven Harbor Lighted Whistle Buoy \"NH\"?",
+    "answer": 2,
+    "number": 515241,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "north of your intended track",
+      "3.1 miles SSW of Falkner Island Light",
+      "ahead of the DR position",
+      "south of your intended track"
+    ],
+    "question": "From your 1155 position, you steer a course of 282°T at a speed of 9.5 knots.  You obtain the following bearings:\n\n  1205:  Falkner Island Light bears 318°T  \n  1225:  Falkner Island Light bears 355°T \n\nYour 1225 running fix is __________.",
+    "answer": 3,
+    "number": 515242,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1318",
+      "1323",
+      "1328",
+      "1343"
+    ],
+    "question": "At 1245 the loran readings obtained show your position to be LAT 41°10.3'N, LONG 72°44.2'W.  You are steering a course of 284°T at an engine speed of 13.0 knots.  At what time would you expect the New Haven Harbor Outer Range to be in line if you have a current setting 112°T at 1.2 knots?",
+    "answer": 1,
+    "number": 515243,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Your fathometer should indicate a reading of approximately 47 feet.",
+      "Bradford Reef is 5.7 miles on the starboard bow.",
+      "You are in a danger area.",
+      "You must follow the International Rules of the Road."
+    ],
+    "question": "At the time of your 1245 position, which statement is TRUE?",
+    "answer": 0,
+    "number": 515244,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "294°T at 0.5 knot",
+      "294°T at 0.8 knot",
+      "114°T at 0.5 knot",
+      "114°T at 0.8 knot"
+    ],
+    "question": "After departing the New Haven terminals, your 1800 position puts the New Haven Harbor Lighted Bell Buoy \"NH\" bearing 130°T at a range of 0.2 mile.  From this position you set a course to leave Stratford Shoal Middle Ground Light 1.0 mile off your starboard beam.  Your speed is 12.5 knots. At 1845 you determine your position to be LAT 41°05.5'N,\nLONG 73°03.1'W.  What were the set and drift of the current?",
+    "answer": 1,
+    "number": 515245,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "205°T at  9.2 knots",
+      "208°T at 11.4 knots",
+      "215°T at  9.2 knots",
+      "225°T at 11.5 knots"
+    ],
+    "question": "From your 1845 position, you desire to leave Stratford Shoal Middle Ground Light 1.0 mile off your starboard beam at 1900.  Which course and speed would you order if you allow for a 2.0 knot current with a set of 180°T?",
+    "answer": 2,
+    "number": 515246,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°04.8'N, LONG 73°06.7'W",
+      "LAT 41°05.0'N, LONG 73°07.6'W",
+      "LAT 41°05.1'N, LONG 73°06.8'W",
+      "LAT 41°05.3'N, LONG 73°07.9'W"
+    ],
+    "question": "At 0700, Stratford Shoal Middle Ground Light bears 143°pgc at 1.8 miles.  What is your 0700 position?",
+    "answer": 1,
+    "number": 515256,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "035°T",
+      "038°T",
+      "041°T",
+      "044°T"
+    ],
+    "question": "At 0725, Stratford Point Light bears 327°pgc at 3.1 miles.\n At this time, you wish to change course to 048°T.  The current is 135°T at  1.8 knots.  Your engine speed is 8 knots. What course must you steer to make good 048°T?",
+    "answer": 0,
+    "number": 515257,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "White conical tower with a brown band midway of height",
+      "White octagonal house on a cylindrical pier",
+      "Conical tower, upper half white, lower half brown",
+      "Black skeleton tower on a granite dwelling"
+    ],
+    "question": "Which structure should you look for while trying to locate Stratford Point Light?",
+    "answer": 0,
+    "number": 515258,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°12.1'N, LONG 73°53.8'W",
+      "LAT 40°12.2'N, LONG 73°54.4'W",
+      "LAT 41°12.3'N, LONG 72°53.6'W",
+      "LAT 41°12.4'N, LONG 72°54.0'W"
+    ],
+    "question": "At 0830, you obtain the following Loran-C readings:\n\n 9960-W-15043.1\n 9960-Y-44028.1\n\n What is your vessel's position?",
+    "answer": 3,
+    "number": 515259,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "101°psc",
+      "108°psc",
+      "110°psc",
+      "115°psc"
+    ],
+    "question": "From your 0830 position, you wish to make good 097°T. There is no current, but a southerly wind is producing 4°\nleeway.  What course should you steer per standard magnetic compass in order to make good your true course?",
+    "answer": 3,
+    "number": 515260,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "9.7 knots",
+      "10.5 knots",
+      "10.9 knots",
+      "12.1 knots"
+    ],
+    "question": "You make good 097°T from your 0830 fix.  With a westerly current of 1.2 knots, what engine speed will you have to turn for from your 0830 position in order to arrive abeam of Six Mile Reef Buoy \"8C\" at 1030?",
+    "answer": 1,
+    "number": 515261,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°11.3'N, LONG 72°41.2'W",
+      "LAT 41°11.3'N, LONG 72°41.0'W",
+      "LAT 41°11.5'N, LONG 72°40.7'W",
+      "LAT 41°11.6'N, LONG 72°41.0'W"
+    ],
+    "question": "At 0910, your DR position is LAT 41°11.9'N, LONG 72°47.8'W.  Your vessel is on course 097°T at 9.5 knots, and the weather is foggy.  At 0915, Branford Reef Light is sighted through a break in the fog bearing 318°T.  At 0945,\nFalkner Island Light is sighted bearing 042°T.  What is your 0945 running fix position?",
+    "answer": 2,
+    "number": 515262,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Danger soundings",
+      "Breakers",
+      "Tide rips",
+      "Depth contours"
+    ],
+    "question": "What do the dotted lines around Goose Island and Kimberly Reef represent?",
+    "answer": 3,
+    "number": 515263,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Danger bearing to Black Point of not less than 065°T",
+      "A Loran reading of not more than 9960-Y-43982.0",
+      "A bearing to Little Gull Island Light of not less than 090°",
+      "A distance to Saybrook Breakwater Light of not less than 1.3 miles"
+    ],
+    "question": "At 1100, your position is LAT 41°11.3'N, LONG 72°28.0'W. You are steering a course of 069°T to leave Black Point one mile off your port beam.  It has been reported that the Long Sand Shoal Buoys and Hatchett Reef Buoys are off station.  What will serve to keep your vessel in safe water and away from these hazards?",
+    "answer": 1,
+    "number": 515264,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "lighted only during daytime when the sound signal is in operation",
+      "maintained only from May 1 to Oct 1",
+      "64 feet (19.4 meters) above mean low water",
+      "lighted throughout 24 hours"
+    ],
+    "question": "Orient Point Light is __________.",
+    "answer": 3,
+    "number": 515265,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "97 feet (29.4 meters)",
+      "108 feet (32.7 meters)",
+      "119 feet (36.1 meters)",
+      "125 feet (37.9 meters)"
+    ],
+    "question": "At 1210, you are in position LAT 41°14.3'N, LONG 72°16.5'W.  What is the charted depth of water?",
+    "answer": 1,
+    "number": 515266,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1243",
+      "1249",
+      "1253",
+      "1301"
+    ],
+    "question": "From your 1210 position, you are making good a course of 083°\nT.  Your engines are turning RPMs for 10 knots.  The set and drift of the current are 310° at 1.7 knots.  At what time should you expect to enter the red sector of New London Harbor Light?",
+    "answer": 0,
+    "number": 515267,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "352°",
+      "354°",
+      "002°",
+      "007°"
+    ],
+    "question": "Your vessel is proceeding up New London Harbor Channel, and you are in line with the range.  What would be your course per standard magnetic compass?",
+    "answer": 3,
+    "number": 515268,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "limited to vessels drawing less than 36 feet (10.8 meters)",
+      "closed during the winter season",
+      "subject to dangerous freshets in the fall",
+      "difficult to enter at night"
+    ],
+    "question": "New London Harbor is __________.",
+    "answer": 0,
+    "number": 515269,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "66 miles",
+      "77 miles",
+      "89 miles",
+      "136 miles"
+    ],
+    "question": "The distance from New London to the east entrance of the Cape Cod Canal is __________.",
+    "answer": 2,
+    "number": 515270,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°05.4'N, LONG 73°07.7'W",
+      "LAT 41°05.2'N, LONG 73°07.8'W",
+      "LAT 41°05.2'N, LONG 73°07.5'W",
+      "LAT 41°05.1'N, LONG 73°07.7'W"
+    ],
+    "question": "You are on course 092°T, and the engines are turning for 8 knots.  At 0452, you take the following bearings:\n\n  Stratford Point Light                             020°pgc  \n  Stratford Shoal (Middle Ground) Light  141°pgc  \n\nWhat is your 0452 position?",
+    "answer": 1,
+    "number": 515356,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The light is visible at 0452.",
+      "0458",
+      "0510",
+      "You will not sight the light."
+    ],
+    "question": "If the visibility is 10 miles, what is the earliest time you can expect to see New Haven Light?",
+    "answer": 3,
+    "number": 515357,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°04.8'N, LONG 73°05.0'W",
+      "LAT 41°04.9'N, LONG 73°04.8'W",
+      "LAT 41°05.1'N, LONG 73°05.1'W",
+      "LAT 41°05.3'N, LONG 73°04.8'W"
+    ],
+    "question": "At 0507, Stratford Shoal Middle Ground Light bears 208°pgc.  What is the position of your 0507 running fix?",
+    "answer": 2,
+    "number": 515358,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "have a head current",
+      "have a following current",
+      "are being set to the north",
+      "are not affected by a current"
+    ],
+    "question": "Based on your running fix, you __________.",
+    "answer": 1,
+    "number": 515359,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "88 miles",
+      "95 miles",
+      "101 miles",
+      "114 miles"
+    ],
+    "question": "Your 0507 position is about 7 miles from Bridgeport, CT. What is the distance from this position to Newport, RI?",
+    "answer": 0,
+    "number": 515360,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "082.0°psc",
+      "092.5°psc",
+      "096.0°psc",
+      "099.5°psc"
+    ],
+    "question": "Your 0530 position is LAT 41°04.9'N, LONG 73°01.1'W. What is the course per standard magnetic compass to a position 1.0 mile south of Twenty Eight Foot Shoal \"TE\"\nbuoy?",
+    "answer": 3,
+    "number": 515361,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "marked by gradual shoaling",
+      "low and marshy",
+      "backed by marshes and wooded uplands",
+      "bluff and rocky"
+    ],
+    "question": "The south shore of Long Island Sound near your position is __________.",
+    "answer": 3,
+    "number": 515362,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "088°pgc",
+      "090°pgc",
+      "092°pgc",
+      "094°pgc"
+    ],
+    "question": "At 0530, you change course to 090°T and increase speed to 8.5 knots.  What is the course to steer per gyro compass if northerly winds are causing 2° of leeway?",
+    "answer": 1,
+    "number": 515363,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "083° at 1.2 knots",
+      "083° at 0.9 knots",
+      "263° at 1.2 knots",
+      "263° at 0.9 knots"
+    ],
+    "question": "At 0615, Stratford Point Light bears 292°pgc, Falkner Island Light bears 052°pgc, and Branford Reef Light bears 018°pgc.  What was the current since 0530?",
+    "answer": 0,
+    "number": 515364,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "9960-W-15000",
+      "9960-W-14900",
+      "9960-X-26450",
+      "9960-Y-43960"
+    ],
+    "question": "Which loran line can you follow to remain clear of all danger until south of New London?",
+    "answer": 3,
+    "number": 515365,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0750",
+      "0743",
+      "0735",
+      "0730"
+    ],
+    "question": "At 0615 you change course to 078°T.  If there is no current, when will Falkner Island Light be abeam?",
+    "answer": 3,
+    "number": 515366,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "078°T",
+      "081°T",
+      "084°T",
+      "087°T"
+    ],
+    "question": "At 0700, Falkner Island Light bears 023°pgc, and the range to the south tip of Falkner Island is 7.1 miles.  What was the course made good since 0615?",
+    "answer": 1,
+    "number": 515367,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°06.7'N, LONG 72°36.1'W",
+      "LAT 41°06.8'N, LONG 72°36.0'W",
+      "LAT 41°07.0'N, LONG 72°36.2'W",
+      "LAT 41°07.2'N, LONG 72°36.1'W"
+    ],
+    "question": "At 0705, the gyro loses power.  At 0730, you are on course 092° per standard magnetic compass (psc).  Falkner Light bears 356°psc, Horton Point Light bears 123°psc, and Kelsey Point Breakwater Light bears 048°psc.  What is the position of your 0730 fix?",
+    "answer": 2,
+    "number": 515368,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "is shown from a white square tower",
+      "has a fixed green light",
+      "is 14 feet above sea level",
+      "is synchronized with a radio beacon"
+    ],
+    "question": "Horton Point Light __________.",
+    "answer": 0,
+    "number": 515369,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "11.1 miles",
+      "12.8 miles",
+      "15.6 miles",
+      "18.0 miles"
+    ],
+    "question": "If visibility permits, Little Gull Island Light will break the horizon at a range of approximately __________.",
+    "answer": 2,
+    "number": 515370,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "At 2127, your fathometer reads about 17 fathoms.",
+      "You are south of Mt. Misery Shoal.",
+      "By following loran line 9960-Y-4395O, you will have safe water to the eastern tip of Great Gull Island.",
+      "You have lost sight of the red light at Old Field Point."
+    ],
+    "question": "At 2127 you take the following round of bearings:\n\n  Old Field Point Light  224.0°pgc  \n  Middle Ground Light 320.5°pgc  \n  Stratford Point Light  348.0°pgc  \n\nBased on the above fix, which statement is TRUE?",
+    "answer": 0,
+    "number": 515538,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2316",
+      "2324",
+      "2332",
+      "2345"
+    ],
+    "question": "At 2127 you are on course 076°T.  What is your ETA at a position where Twenty Eight Foot Shoal Lighted Bell Buoy \"TE\" is abeam to port?",
+    "answer": 2,
+    "number": 515539,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The current is flooding.",
+      "You are being set to the left of the track.",
+      "The set is towards the southwest.",
+      "The drift is 0.6 knot."
+    ],
+    "question": "At 2200 you take the following loran readings:\n\n 9960-W-15064.5\n 9960-Y-43954.8\n\nWhich statement is TRUE?",
+    "answer": 1,
+    "number": 515540,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The light is visible at 2200",
+      "2221",
+      "2236",
+      "You will not sight the light"
+    ],
+    "question": "You alter course to make good 076°T from your 2200 fix,\nand estimate you will make 13.6 knots over the ground.  If the visibility is 5.5 miles, what is the earliest time you will sight Falkner Island Light? (nominal range 13 miles)",
+    "answer": 2,
+    "number": 515541,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "079°pgc",
+      "083°pgc",
+      "086°pgc",
+      "089°pgc"
+    ],
+    "question": "At 2214 you receive a \"Securite\" call requesting you to remain at least 2 miles away from underwater work taking place at LAT 41°07.8'N, LONG 72°34.6'W. If you change course at 2220 and allow 3° leeway for southerly winds which course will you steer per gyrocompass to comply with this request?  No allowance made for current.",
+    "answer": 3,
+    "number": 515542,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "12.7 knots",
+      "13.5 knots",
+      "13.9 knots",
+      "14.2 knots"
+    ],
+    "question": "At 2236 you take the following loran readings:\n\n 9960-W-14994.6\n 9960-X-26455.2\n 9960-Y-43949.0\n\nWhat was the speed made good along the track line since your 2200 fix?",
+    "answer": 1,
+    "number": 515543,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°07.9'N, LONG 72°25.9'W",
+      "LAT 41°08.3'N, LONG 72°25.8'W",
+      "LAT 41°08.5'N, LONG 72°25.6'W",
+      "LAT 41°08.8'N, LONG 72°25.2'W"
+    ],
+    "question": "At 2310 your position is LAT 41°05.5'N, LONG 72°33.7'W and you change course to make good 068°T.  A radar speed check using Twenty Eight Foot Shoal Buoy indicates your speed over the ground is 13.6 knots.  At 2325 Horton Point Light bears 129°T.  At 2341 the same light bears 194°T.  What is the position of your 2341 running fix?",
+    "answer": 2,
+    "number": 515544,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "054.0°",
+      "079.5°",
+      "081.0°",
+      "084.5°"
+    ],
+    "question": "At 2342 the gyro alarm sounds and you commence steering by standard magnetic compass.  If you allow 3° leeway for southerly winds and do not correct for any existing current, what is the course to steer by standard magnetic compass to make good 068°T?",
+    "answer": 3,
+    "number": 515545,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2°E",
+      "0°",
+      "2°W",
+      "4°W"
+    ],
+    "question": "At 2350 the gyro is restored to service.  At 0016 the visibility improves.  At 0028 you sight Bartlett Reef Light in line with New London Harbor Light bearing 039°pgc.  What is the gyro error?",
+    "answer": 0,
+    "number": 515546,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°04.6'N, LONG 73°07.0'W",
+      "LAT 41°04.6'N, LONG 73°07.4'W",
+      "LAT 41°04.7'N, LONG 73°07.2'W",
+      "LAT 41°04.8'N, LONG 73°07.0'W"
+    ],
+    "question": "At 0700, Stratford Shoal Middle Ground Light bears 137°\npgc.  From your radar, you get a bearing of 007°pgc to the south tip of Stratford Point with a range of 4.5 miles. What is your 0700 position?",
+    "answer": 2,
+    "number": 515706,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "035°T",
+      "042°T",
+      "047°T",
+      "055°T"
+    ],
+    "question": "At 0725, you are heading 054°T, and Stratford Point Light is abeam to port at 3.1 miles.  The current is 135°T at 1.8 knots.  If you make turns for an engine speed of 8 knots, which course must you steer to make good 048°T.",
+    "answer": 0,
+    "number": 515707,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "White conical tower with a brown band midway of height",
+      "White octagonal house on a cylindrical pier",
+      "Conical tower, upper half white, lower half brown",
+      "Black skeleton tower on a granite dwelling"
+    ],
+    "question": "Which structure should you look for while trying to locate Southwest Ledge Light?",
+    "answer": 1,
+    "number": 515708,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°12.4'N, LONG 73°56.0'W",
+      "LAT 40°17.4'N, LONG 73°54.0'W",
+      "LAT 41°12.0'N, LONG 72°53.8'W",
+      "LAT 41°12.4'N, LONG 72°53.8'W"
+    ],
+    "question": "At 0830, you obtained the following Loran-C readings:\n\n 9960-X-26562.5\n 9960-Y-44028.1\n\n What is your vessel's position?",
+    "answer": 3,
+    "number": 515709,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "118°psc",
+      "115°psc",
+      "112°psc",
+      "109°psc"
+    ],
+    "question": "From your 0830 position, you wish to make good 097°T. There is no current, but a southerly wind is producing 3°\nleeway.  What course should you steer per standard magnetic compass in order to make good your true course?",
+    "answer": 1,
+    "number": 515710,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°11.1'N, LONG 72°41.2'W",
+      "LAT 41°11.3'N, LONG 72°41.3'W",
+      "LAT 41°11.4'N, LONG 72°41.0'W",
+      "LAT 41°11.5'N, LONG 72°40.7'W"
+    ],
+    "question": "At 0910, your DR position is LAT 41°11.9'N, LONG 72°47.8'\nW.  Your vessel is on course 097°T at 9.5 knots, and the weather is foggy.  At 0915, Branford Reef Light is sighted through a break in the fog bearing 318°T.  At 0945,\nFalkner Island Light is sighted bearing 042°T.  What is your 0945 running fix position?",
+    "answer": 3,
+    "number": 515712,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Limiting danger",
+      "Breakers",
+      "Depth contours",
+      "Tide rips"
+    ],
+    "question": "What do the dotted lines around Goose Island and Kimberly Reef represent?",
+    "answer": 2,
+    "number": 515713,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Danger bearing to Black Point of not more than 064°T",
+      "A Loran reading of more than 9960-Y-43985.0",
+      "A bearing to Little Gull Island Light of not less than 090°",
+      "A distance to Saybrook Breakwater Light of not less than 1.3 miles"
+    ],
+    "question": "At 1100, your position is LAT 41°11.3'N, LONG 72°28.0'W. You are steering a course of 069°T to leave Black Point one mile off your port beam.  It has been reported that the Long Sand Shoal Buoys and Hatchett Reef Buoys are off station.  Which of the following will serve as a line marking the hazards and keep your vessel in safe water?",
+    "answer": 0,
+    "number": 515714,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "lighted only during daytime when the sound signal is in operation",
+      "maintained only from May 1 to Oct 1",
+      "lighted throughout 24 hours",
+      "obscured by trees from 253° to 352°"
+    ],
+    "question": "Little Gull Island Light is __________.",
+    "answer": 2,
+    "number": 515715,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "97 feet (29.4 meters)",
+      "108 feet (32.7 meters)",
+      "119 feet (36.1 meters)",
+      "125 feet (37.9 meters)"
+    ],
+    "question": "At 1210, you are in position LAT 41°14.3'N, LONG 72°16.5'W.  What is the depth of water below your keel?",
+    "answer": 0,
+    "number": 515716,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1241",
+      "1249",
+      "1256",
+      "1309"
+    ],
+    "question": "From your 1210 position, you are steering a course of 083°\nT.  Your engines are turning RPMs for 10 knots.  The set and drift of the current are 310° at 1.7 knots.  At what time should you expect to enter the red sector of New London Harbor Light?",
+    "answer": 1,
+    "number": 515717,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "351°",
+      "354°",
+      "357°",
+      "006°"
+    ],
+    "question": "Your vessel is entering New London Harbor Channel.  If there is no current, what should you steer per gyro compass to stay on the range?",
+    "answer": 0,
+    "number": 515718,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "mean high water",
+      "mean low water",
+      "lowest low water",
+      "mean lower low water"
+    ],
+    "question": "On chart 12354, the datum from which heights of objects are taken is __________.",
+    "answer": 0,
+    "number": 515719,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "040° - 310°",
+      "000° - 041°",
+      "208° - 220°",
+      "204° - 239°"
+    ],
+    "question": "The red sector of New London Harbor Light covers from __________.",
+    "answer": 1,
+    "number": 515720,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "8.5 knots",
+      "9.7 knots",
+      "10.9 knots",
+      "12.1 knots"
+    ],
+    "question": "At 0845, you are on a course of 097°T, and Townshend Ledge Buoy \"10A\" is close abeam to port.  With a westerly current of 1.2 knots, what speed will you have to turn for from your 0845 position in order to arrive abeam of Six Mile Reef Buoy \"8C\" at 1030?",
+    "answer": 2,
+    "number": 515799,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Rocky",
+      "Muddy",
+      "Sandy",
+      "Hard"
+    ],
+    "question": "What type of bottom is found at Long Sand Shoal?",
+    "answer": 3,
+    "number": 515806,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "shoal water",
+      "a tide rips area",
+      "the junction with the Connecticut River",
+      "a sunken wreck"
+    ],
+    "question": "You are southeast of Saybrook Breakwater Light passing Saybrook Bar Lighted Bell Buoy \"8\".  This buoy marks __________.",
+    "answer": 0,
+    "number": 515807,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "207°psc",
+      "213°psc",
+      "220°psc",
+      "235°psc"
+    ],
+    "question": "At 0005, on 26 January, your position is LAT 41°11.8'N,\nLONG 72°20.5'W.  From this position, you plot a course to steer to a point one half mile north of Mattituck Breakwater Light \"MI\" with an engine speed of 9.0 knots.  If there are no set and drift, what course should you steer?",
+    "answer": 3,
+    "number": 515808,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "272°true, 0.9 knot",
+      "272°true, 1.4 knots",
+      "092°true, 0.9 knot",
+      "092°True, 1.4 knots"
+    ],
+    "question": "At 0045, you obtain the following bearings:\n\n  Rocky Point lookout tower 072°T \n  Horton Point lighthouse      213°T  \n\nWhat were the set and drift between 0005 and 0045?",
+    "answer": 3,
+    "number": 515809,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "You have already lost sight at 0045",
+      "0055",
+      "0120",
+      "The light is visible all the way to Mattituck Inlet"
+    ],
+    "question": "You alter course from your 0045 position to head for a point  0.5 mile north of Mattituck Breakwater Light \"MI\".  If the visibility is 10 miles and you make good 9 knots, at approximately what time will you lose sight of Saybrook Breakwater Light?",
+    "answer": 1,
+    "number": 515810,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "7.4 knots",
+      "8.0 knots",
+      "8.7 knots",
+      "9.2 knots"
+    ],
+    "question": "At 0100, you obtain the following bearings:\n\n Rocky Point Lookout Tower 062°T  \n Horton Point Lighthouse       189°T  \n\nWhat was the speed made good between 0045 and 0100?",
+    "answer": 0,
+    "number": 515811,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0.2 mile",
+      "0.6 mile",
+      "1.3 mile",
+      "1.8 miles"
+    ],
+    "question": "According to the DR track line from your 0100 position, how far off Roanoke Point Shoal Buoy \"5\" should you be when the buoy is abeam?",
+    "answer": 1,
+    "number": 515813,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "246°T at 9.8 knots",
+      "253°T at 9.4 knots",
+      "259°T at 9.8 knots",
+      "267°T at 9.4 knots"
+    ],
+    "question": "At 0130, you obtain the following bearings:\n\n  Horton Point Lighthouse              078°T  \n  Mattituck Breakwater Light tower 196°T \n\n What were the course and speed made good between 0100 and 0130?",
+    "answer": 0,
+    "number": 515814,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°00.8'N,  LONG 72°40.8'W",
+      "LAT 41°01.2'N,  LONG 72°40.4'W",
+      "LAT 41°01.6'N,  LONG 72°40.0'W",
+      "LAT 41°02.0'N,  LONG 72°39.5'W"
+    ],
+    "question": "From your 0130 position, you change course to adjust for set and drift, and you later obtain the following loran lines of position:\n\n 9960-W-14975\n 9960-X-26412\n 9960-Y-43919\n\nWhat is the latitude and longitude of the loran fix?",
+    "answer": 3,
+    "number": 515815,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "262.0°psc",
+      "265.0°psc",
+      "275.5°psc",
+      "280.5°psc"
+    ],
+    "question": "At 0209, your position is LAT 41°01.8'N,  LONG 72°40.8'W.\n What course should you steer per standard magnetic compass to make good 278° magnetic?  (assume no set and drift)",
+    "answer": 2,
+    "number": 515816,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "composed of high rocky bluffs",
+      "a high, flat plateau with sheer cliffs",
+      "fringed by rocky shoals",
+      "low and marshy with isolated beaches"
+    ],
+    "question": "The south coast of Long Island Sound between Mattituck Inlet and Port Jefferson is __________.",
+    "answer": 2,
+    "number": 515817,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0303",
+      "0309",
+      "0312",
+      "0318"
+    ],
+    "question": "At 0300, your position is LAT 41°01.7'N, LONG 72°55.1'W. From this position you steer a course of 289° per standard magnetic compass at an engine speed of 10.0 knots.  At what time can you first expect to see Stratford Shoal Middle Ground Light if the luminous range is 8.0 miles?",
+    "answer": 0,
+    "number": 515818,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "8.1 knots",
+      "8.5 knots",
+      "9.3 knots",
+      "9.6 knots"
+    ],
+    "question": "You must arrive at your final destination by 0800.  The distance from your 0300 position to the final destination is 40.5 miles.  What minimum speed must be made good to arrive on time?",
+    "answer": 0,
+    "number": 515819,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "140°psc",
+      "146°psc",
+      "157°psc",
+      "160°psc"
+    ],
+    "question": "You are northwest of Port Jefferson Harbor steering 242° per standard magnetic compass.  As you continue westward, you see that the Port Jefferson Range Front Light and Rear Light come into line.  If the deviation table is correct, the bearing of the range should be __________.",
+    "answer": 2,
+    "number": 515820,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Rocky",
+      "Hard",
+      "Sandy",
+      "Muddy"
+    ],
+    "question": "What type of bottom is found at Long Sand Shoal?",
+    "answer": 1,
+    "number": 515856,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "a sunken wreck",
+      "a tide rips area",
+      "the junction with the Connecticut River",
+      "shoal water"
+    ],
+    "question": "You are southeast of Saybrook Breakwater Light passing a horizontally-banded buoy.  This buoy marks __________.",
+    "answer": 3,
+    "number": 515857,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "219°pgc",
+      "222°pgc",
+      "225°pgc",
+      "228°pgc"
+    ],
+    "question": "At 0005, on 26 January, your position is LAT 41°11.8'N,\nLONG 72°20.5'W.  From this position, you plot a course to a position one mile North of Mattituck Breakwater Light \"MI\". If there are no set and drift, what course should you steer per gyro compass?",
+    "answer": 1,
+    "number": 515858,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°05.7'N, LONG 72°27.6'W",
+      "LAT 41°05.8'N, LONG 72°28.1'W",
+      "LAT 41°05.9'N, LONG 72°27.4'W",
+      "LAT 41°06.0'N, LONG 72°28.2'W"
+    ],
+    "question": "You are turning for 9 knots on course 230°T.  At 0023,\nHorton Point Light bears 208°pgc.  At 0053, Horton Point Light bears 126°pgc.  What is the position of your 0053 running fix?",
+    "answer": 3,
+    "number": 515859,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1.0°E",
+      "1.0°W",
+      "2.0°W",
+      "0°"
+    ],
+    "question": "As you enter the New Haven Outer Channel, you sight the range markers in line directly over the stern.  Your heading at the time is 155.5° per gyrocompass.  What is the gyro error?",
+    "answer": 2,
+    "number": 515906,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0734",
+      "0738",
+      "0741",
+      "0745"
+    ],
+    "question": "At 0720, you are in the outer channel between buoy \"1\" and buoy \"2\" and change course to pass Townshend Ledge Lighted Gong Buoy \"10A\" abeam to port at 200 yards.  What is your ETA off the buoy?",
+    "answer": 1,
+    "number": 515907,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°12.6'N, LONG 72°51.3'W",
+      "LAT 41°12.6'N, LONG 72°51.8'W",
+      "LAT 41°12.4'N, LONG 72°51.5'W",
+      "LAT 41°12.3'N, LONG 72°52.0'W"
+    ],
+    "question": "At 0740, you plot a loran fix from the following readings:\n\n 9960-X-26542.0\n 9960-Y-44023.0\n 9960-W-15027.0\n\n What is your position?",
+    "answer": 2,
+    "number": 515908,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "9960 W: not less than 14942",
+      "9960 X: not more than 26452",
+      "9960 Y: not less than 44013",
+      "None of the above"
+    ],
+    "question": "From your 0740 position, you change course to pass 1.1 miles north of Falkner Island Light.  What loran reading will ensure that you will remain clear of the 18' shoal located 1 mile NW of Falkner Island Light?",
+    "answer": 2,
+    "number": 515909,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Set 040°T, drift .3 knot",
+      "Set 220°T, drift .9 knot",
+      "Set 220°T, drift .3 knot",
+      "You are making good your intended course and speed."
+    ],
+    "question": "At 0802,  Branford Reef Light bears 348°T at 0.75 mile,\nand the north point of Falkner Island bears 088°T at 6.7 miles.  What were the set and drift since 0740?",
+    "answer": 1,
+    "number": 515910,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The navigational regulations in Title 46 Code of Federal Regulations",
+      "Inland Navigation Rules",
+      "U.S. Coast Guard Light List",
+      "U.S. Coast Pilot"
+    ],
+    "question": "What publication contains information on the navigational hazards in the vicinity of Falkner Island?",
+    "answer": 3,
+    "number": 515911,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "064°",
+      "068°",
+      "095°",
+      "099°"
+    ],
+    "question": "If there is no current, what is the course per standard magnetic compass from your 0802 fix to the position 1.1 miles north of Falkner Island Light?",
+    "answer": 2,
+    "number": 515912,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "2181 kHz",
+      "156.65 Mhz",
+      "156.80 Mhz",
+      "162.40 Mhz"
+    ],
+    "question": "At 0830, you wish to get the latest weather forecasts for the Falkner Island area.  On what frequency would you set your FM radio for this information?",
+    "answer": 3,
+    "number": 515913,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "14 ft (4.2 meters)",
+      "19 ft (5.8 meters)",
+      "22 ft (6.7 meters)",
+      "29 ft (8.8 meters)"
+    ],
+    "question": "At 0844, the range to the north end of Falkner Island is 2.0 miles and the left tangent bearing is 102°T.  What is the approximate charted depth of the water?",
+    "answer": 3,
+    "number": 515914,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "089°T",
+      "093°T",
+      "096°T",
+      "102°T"
+    ],
+    "question": "At 0925, you plot the following loran fix:\n\n 9960-W-14931.5\n 9960-X-26418.2\n 9960-Y-44006.5\n\n If you correct for a current setting 215°T at 0.5 knot,\nwhat course will you steer from the 0925 position to arrive at a position 0.5 mile south of Long Sand Shoal West End Horn Buoy \"W\"?",
+    "answer": 0,
+    "number": 515915,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1016",
+      "1021",
+      "1026",
+      "1030"
+    ],
+    "question": "If you correct for the current in the preceding question  (215°T at 0.5 knot) and maintain an engine speed of 7.5 knots, what is your ETA 0.5 mile south of buoy \"W\"?",
+    "answer": 2,
+    "number": 515916,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "5.9 nm",
+      "6.9 nm",
+      "12.0 nm",
+      "12.8 nm"
+    ],
+    "question": "At what approximate distance would you expect Bartlett Reef Light to break the horizon, if the visibility is 27 nautical miles?",
+    "answer": 3,
+    "number": 515917,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "9960-W-14720",
+      "9960-X-26290",
+      "9960-Y-43980",
+      "9960-W-14810"
+    ],
+    "question": "At 1038, you are 0.4 mile south of Long Sand Shoal Buoy \"8A\" on course 090°T when visibility is reduced to 1 mile in rain and haze.  You intend to stay on 090°T until your Loran shows a reading that you can safely follow to the approaches of New London.  Which of the following Loran readings will you look for?",
+    "answer": 2,
+    "number": 515918,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Whistle from 125° relative",
+      "Whistle from 075° relative",
+      "Bell from 350° relative",
+      "Horn from 330° relative"
+    ],
+    "question": "At 1200, your position is 2.0 miles southwest of Bartlett Reef Light.  Your heading is 075°T.  Visibility is less than 0.2 mile in fog and rain.  Which of the following signals is most likely to be from another vessel?",
+    "answer": 1,
+    "number": 515919,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "13211",
+      "13213",
+      "13214",
+      "13272"
+    ],
+    "question": "What chart should you use after you enter New London Harbor?",
+    "answer": 1,
+    "number": 515920,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°05.0'N, LONG 73°08.0'W",
+      "LAT 41°05.2'N, LONG 73°07.8'W",
+      "LAT 41°05.3'N, LONG 73°07.5'W",
+      "LAT 41°05.4'N, LONG 73°07.7'W"
+    ],
+    "question": "You are on course 082°T, and the engines are turning for 8 knots.  At 0352, you take the following bearings:\n\n  Stratford Point Light                             016°pgc  \n  Stratford Shoal (Middle  Ground) Light 137°pgc  \n\nWhat is your 0352 position?",
+    "answer": 1,
+    "number": 516006,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The light is visible at 0352.",
+      "0414",
+      "0443",
+      "You will not sight the light."
+    ],
+    "question": "If the visibility is 11 miles, what is the earliest time you can expect to see New Haven Light?",
+    "answer": 2,
+    "number": 516007,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "variation",
+      "deviation table is correct for that heading",
+      "compass error is 17.5°E",
+      "deviation is 3.5°E for a bearing of 206° per standard magnetic compass"
+    ],
+    "question": "While on a heading of 082°T, you sight Middle Ground Light in line with Old Field Point Light bearing 206° per standard magnetic compass.  From this you can determine the __________.",
+    "answer": 1,
+    "number": 516008,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "081°T",
+      "083°T",
+      "085°T",
+      "087°T"
+    ],
+    "question": "The maximum ebb current at a location 4.3 miles south of Stratford Point will occur at 0413.  The predicted current will be 1.0 knot at 075°.  What will be your course made good if you steer 082°T at 8 knots?",
+    "answer": 0,
+    "number": 516009,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "flashing red every 4 seconds",
+      "flashing red every 3 seconds",
+      "flashing white every 6 seconds",
+      "flashing yellow every 4 seconds"
+    ],
+    "question": "The characteristic of Branford Reef Light is __________.",
+    "answer": 2,
+    "number": 516010,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "You are to the right of your intended track line.",
+      "The current's drift is greater than predicted.",
+      "The course made good since 0452 is 081°T.",
+      "Your fathometer reads about 76 fathoms."
+    ],
+    "question": "At 0415, you take the following bearings:\n\n  Stratford Point Light   329.5°pgc  \n  Middle Ground Light  223.5°pgc  \n  Old Field Point Light  199.5°pgc  \n\nWhich statement is TRUE?",
+    "answer": 0,
+    "number": 516011,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "079°T",
+      "082°T",
+      "084°T",
+      "086°T"
+    ],
+    "question": "If you change course at 0420, what is the course to make good to leave Twenty Eight Foot Shoal Lighted Buoy abeam to port at 1 mile?",
+    "answer": 2,
+    "number": 516012,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°08.9'N, LONG 73°00.0'W",
+      "LAT 41°05.0'N, LONG 73°01.1'W",
+      "LAT 41°05.5'N, LONG 72°59.7'W",
+      "LAT 41°05.8'N, LONG 73°00.8'W"
+    ],
+    "question": "At 0430, you take the following loran readings:\n\n 9960-X-26605.5\n 9960-Y-43985.0\n\n What is your 0430 position?",
+    "answer": 3,
+    "number": 516013,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "082.5°",
+      "086.0°",
+      "098.0°",
+      "101.5°"
+    ],
+    "question": "From your 0430 position, what is the course per standard magnetic compass to a position where Twenty-eight foot Shoal lighted buoy \"TE\" is abeam to port at 1 mile?",
+    "answer": 3,
+    "number": 516014,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "080°",
+      "083°",
+      "086°",
+      "090°"
+    ],
+    "question": "By 0430, the wind has increased, and the visibility cleared due to passage of a front.  You estimate 3° leeway due to NW'ly winds.  What is the course per gyrocompass to pass 1.2 miles due south of Twenty-eight Foot Shoal Lighted Buoy \"TE\"?",
+    "answer": 0,
+    "number": 516015,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0601",
+      "0609",
+      "0620",
+      "0624"
+    ],
+    "question": "At 0430, you change course and speed to make good 090°T at 10 knots. At 0433, you slow due to an engineering casualty and estimate you are making good 5.5 knots.  At what time will Branford Reef Light bear 000°T?",
+    "answer": 1,
+    "number": 516016,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "77 miles",
+      "91 miles",
+      "104 miles",
+      "115 miles"
+    ],
+    "question": "What is the approximate distance to New Bedford, MA, from your 0530 DR position, if your 0352 position was 7 miles from Bridgeport, CT?",
+    "answer": 2,
+    "number": 516017,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Your course made good from 0630 to 0700 was 082°T.",
+      "The speed made good from 0630 to 0700 was 10.1 knots.",
+      "The current from 0630 to 0700 was 279°T at 0.6 knot.",
+      "You are making good your intended speed."
+    ],
+    "question": "At 0550, engineering repairs are complete and speed is increased to 9.6 knots.  At 0630, Falkner Island Light bears 023°pgc and Horton Point Light bears 097°pgc.  From your 0630 fix you steer to make good a course of 086°T while turning for 9.6 knots.  At 0700, Falkner Island Light bears 336.0°pgc and Horton Point Light bears 105.5°pgc.  The radar range to the south tip of Falkner Island is 5.7 miles.  Which statement is TRUE?",
+    "answer": 3,
+    "number": 516018,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "low and marshy",
+      "bluff and rocky",
+      "marked by sandy beaches and wooded uplands",
+      "bound by gradual shoaling"
+    ],
+    "question": "The south shore of Long Island Sound from Horton Point to Orient Point is __________.",
+    "answer": 1,
+    "number": 516019,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "9.3 miles",
+      "10.8 miles",
+      "13.9 miles",
+      "17.0 miles"
+    ],
+    "question": "If visibility permits, Orient Point Light will break the horizon at a range of about __________.",
+    "answer": 2,
+    "number": 516020,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°02.6'N, LONG 73°05.2'W",
+      "LAT 41°02.5'N, LONG 73°04.9'W",
+      "LAT 41°02.3'N, LONG 73°05.2'W",
+      "LAT 41°02.0'N, LONG 73°05.1'W"
+    ],
+    "question": "At 0820 Old Field Point Light bears 206° per gyrocompass,\nand Stratford Shoals Middle Ground Light bears 322° per gyrocompass.  The radar range to Middle Ground Light is 1.5 miles.  Your 0820 fix gives you a position of __________.",
+    "answer": 1,
+    "number": 516038,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "039°",
+      "041°",
+      "043°",
+      "045°"
+    ],
+    "question": "From your 0820 position you change course to your rendezvous position, one mile due south of buoy \"NH\", speed 14.5 knots.  You estimate the current to be 260°T at 0.5 knot.  The wind is northwesterly at 20 knots and you estimate 2° leeway.  What is your course per gyrocompass (pgc) to the rendezvous position, if you correct your heading for current and leeway?",
+    "answer": 3,
+    "number": 516039,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Set 180°T, drift 0.6 kt",
+      "Set 360°T, drift 0.3 kt",
+      "Set 180°T, drift 0.3 kt",
+      "Set 360°T, drift 0.6 kt"
+    ],
+    "question": "At 0847 you take a round of bearings as follows:\n\n  Middle Ground Shoal Light - 237° pgc          \n  Stratford Point Light            - 289° pgc\n  New Haven Light               - 019° pgc  \n\nWhat were the set and drift since your 0820 position?",
+    "answer": 3,
+    "number": 516040,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0902",
+      "0905",
+      "0908",
+      "0911"
+    ],
+    "question": "From your 0847 fix, you change course to arrive at the rendezvous position and, correcting for current, you estimate your speed over the ground at 15 knots.  What is your ETA at the rendezvous?",
+    "answer": 2,
+    "number": 516041,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "1102, 3.0 miles",
+      "1108, 3.3 miles",
+      "1114, 3.1 miles",
+      "1118, 3.3 miles"
+    ],
+    "question": "At 1022 when you complete the evacuation, you get underway on course 098°T and order turns for 14.5 knots.  You take the following round of bearings at that time:\n  Stratford Point Light - 260° per gyrocompass  \n  New Haven Light - 326° per gyrocompass  \n  SW Ledge Light - 358° per gyrocompass  \n\nDetermine your ETA and distance off when abeam of Falkner Island Light, if there are no set and drift?",
+    "answer": 1,
+    "number": 516042,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Gyro error 2°E, deviation 3°E",
+      "Gyro error 0°  , deviation 2°W",
+      "Gyro error 2°W, deviation 9°W",
+      "Gyro error 2°W, deviation 3°E"
+    ],
+    "question": "As you cross the New Haven Outer Channel range, you observe the range in line bearing 335.5° per gyrocompass.  The helmsman reports that he was heading 100° per gyrocompass,\nand that the standard magnetic compass read 109° at the time of the observation.  What are the gyro error and\ndeviation of the standard magnetic compass on this heading?",
+    "answer": 3,
+    "number": 516043,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "You are required by regulation to change course to avoid steaming through the dumping ground.",
+      "You are making more speed over the ground, since your 1022 fix, than indicated by your engine RPM.",
+      "When the loran reads 9960-Y-43964.0, you should follow that loran reading to the approaches to the Race.",
+      "Your fathometer reads about 25 feet."
+    ],
+    "question": "At 1038 Branford Reef Light bears 019°pgc, Falkner Island Light bears 075°pgc, and the radar range to Branford Reef Light is 3.0 miles.  Which statement is TRUE of your 1038 position?",
+    "answer": 3,
+    "number": 516044,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "bluff and rocky",
+      "low and sparsely wooded",
+      "marked by long sandy beaches at low water",
+      "marshy and backed with sand dunes"
+    ],
+    "question": "The north shore of Long Island, from Horton Point to Orient Point,\n is __________.",
+    "answer": 0,
+    "number": 516045,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "8.5 miles",
+      "9.6 miles",
+      "14.0 miles",
+      "17.9 miles"
+    ],
+    "question": "The visibility is excellent.  When Race Rock Light Tower breaks the horizon, how far will you be from the Tower?",
+    "answer": 3,
+    "number": 516046,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "175°psc",
+      "187°psc",
+      "190°psc",
+      "192°psc"
+    ],
+    "question": "At 0345, you set a course to depart New London Harbor. Assuming no set and drift, which standard magnetic compass course must you steer to stay in the middle of the channel?",
+    "answer": 1,
+    "number": 516306,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The wreck presents a danger to all vessels with drafts in excess of 30 feet (9.1 meters).",
+      "The wreck is visible above the sounding datum between the months of March and June.",
+      "The wreck is shown on the chart, but its actual existence is doubtful.",
+      "The wreck was cleared by wire drag in 1982 and will not appear on future charts."
+    ],
+    "question": "Which statement regarding the wreck 0.2 mile south of buoys \"1\" and \"2\" at the entrance to New London Harbor is TRUE?",
+    "answer": 2,
+    "number": 516307,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Red",
+      "White",
+      "Green",
+      "Alternating white and green"
+    ],
+    "question": "At 0530, your position is LAT 41°13.6'N, LONG 72°08.5'W. What is the color of New London Harbor Light?",
+    "answer": 0,
+    "number": 516308,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "7.5 knots",
+      "8.6 knots",
+      "9.0 knots",
+      "9.5 knots"
+    ],
+    "question": "From your 0530 position, you set a course of 271°psc with an engine speed of 9 knots.  At 0645, Cornfield Safe-Water Buoy \"CF\" is abeam to port.  What speed have you averaged since 0530?",
+    "answer": 1,
+    "number": 516309,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "52 feet (15.8 meters)",
+      "57 feet (17.3 meters)",
+      "62 feet (18.8 meters)",
+      "67 feet (20.3 meters)"
+    ],
+    "question": "At 0730, your position is LAT 41°10.5'N, LONG 72°32.2'W. From this position you steer course 286°psc with an engine speed of 9.0 knots.  What is the approximate depth of water under your keel?",
+    "answer": 0,
+    "number": 516310,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "pipeline",
+      "fish trap area",
+      "demarcation line",
+      "cable area"
+    ],
+    "question": "The broken magenta line which runs parallel to the shore between Roanoke Point and Mattituck Inlet marks a __________.",
+    "answer": 1,
+    "number": 516311,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0859",
+      "0902",
+      "0905",
+      "0910"
+    ],
+    "question": "Assuming no current, at what time can you expect to be abeam of Townshend Ledge Lighted Buoy?",
+    "answer": 3,
+    "number": 516312,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "It is not visible at 0730",
+      "0751",
+      "0812",
+      "0825"
+    ],
+    "question": "At 0730, visibility is 5.5 miles.  At what time will you lose sight of Horton Point Light?",
+    "answer": 1,
+    "number": 516313,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "Set 052°T, drift 1.1 knots",
+      "Set 052°T, drift 1.3 knots",
+      "Set 236°T, drift 1.1 knot",
+      "Set 236°T, drift 1.3 knots"
+    ],
+    "question": "At 0820, you take the following Loran-C readings:\n\n 9960-W-14978.0\n 9960-Y-43993.5\n 9960-X-26464.1\n\n What are the set and drift since 0730?",
+    "answer": 3,
+    "number": 516314,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°11.9'N,  LONG 72°50.6'W",
+      "LAT 41°11.9'N,  LONG 72°49.5'W",
+      "LAT 41°12.1'N,  LONG 72°48.6'W",
+      "LAT 41°12.5'N,  LONG 72°44.3'W"
+    ],
+    "question": "At 0820, you change course to 301°psc and reduce speed to 7.5 knots.  At 0900, you take the following visual bearings:\n  Branford Reef Light              023°psc \n  New Haven Light                 293°psc  \n  Tweed Airport Aerobeacon  332°psc  \n\nYour 0900 position is __________.",
+    "answer": 2,
+    "number": 516315,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "302°psc",
+      "311°psc",
+      "317°psc",
+      "319°psc"
+    ],
+    "question": "At 0900, the current is flooding in a direction of 350°T at 1.2 knots.  If your engines are turning RPMs for 9 knots, which course should you steer per standard magnetic compass to make good a course of 297° true?",
+    "answer": 0,
+    "number": 516316,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "12370",
+      "12371",
+      "12372",
+      "12373"
+    ],
+    "question": "Which chart would you use for more detailed information on New Haven Harbor?",
+    "answer": 1,
+    "number": 516317,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "273°T, 8.7 knots",
+      "277°T, 8.4 knots",
+      "279°T, 8.0 knots",
+      "284°T, 7.5 knots"
+    ],
+    "question": "What true course and speed did you make good between 0730 and 0900?",
+    "answer": 1,
+    "number": 516318,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0.5°East",
+      "3.0°East",
+      "3.5°West",
+      "4.5°East"
+    ],
+    "question": "As you enter the New Haven Outer Channel, you sight the outer range markers in line directly ahead.  Your heading at this time is 347°psc.  What is your compass deviation by observation?",
+    "answer": 0,
+    "number": 516319,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "007°psc",
+      "014°psc",
+      "021°psc",
+      "026°psc"
+    ],
+    "question": "Which course should you change to per standard magnetic compass as you pass SW Ledge Light to remain in the channel?",
+    "answer": 2,
+    "number": 516320,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "035°",
+      "046°",
+      "049°",
+      "052°"
+    ],
+    "question": "Your position is LAT 40°59.0'N, LONG 73°06.2'W.  What is the course per standard magnetic compass to New Haven Harbor Lighted Whistle Buoy \"NH\"?",
+    "answer": 3,
+    "number": 516606,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The light is visible at 2114.",
+      "2140",
+      "2152",
+      "2159"
+    ],
+    "question": "You depart from the position in the previous question at 2114 and make good 12 knots on a course of 040°T.  At what time will you sight New Haven Light if the visibility is 11 miles?",
+    "answer": 3,
+    "number": 516607,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°03.0'N, LONG 73°01.7'W",
+      "LAT 41°03.1'N, LONG 73°02.1'W",
+      "LAT 41°03.1'N, LONG 73°01.3'W",
+      "LAT 41°03.3'N, LONG 73°01.9'W"
+    ],
+    "question": "At 2142, you take the following bearings:\n\n  Stratford Point Light                           331°T  \n  Stratford Shoal Middle Ground Light  280°T \n  Old Field Point Light                           223°T  \n\nWhat is your 2142 position?",
+    "answer": 0,
+    "number": 516608,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "12.3 knots",
+      "12.0 knots",
+      "11.7 knots",
+      "11.4 knots"
+    ],
+    "question": "What was the speed made good between 2114 and 2142?",
+    "answer": 3,
+    "number": 516609,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "_ .",
+      "_ _",
+      ". _",
+      ". ."
+    ],
+    "question": "At 2142, you change course to make good 030°T and increase speed to 14 knots.  You rendezvous with another vessel and receive fresh supplies while off New Haven Harbor lighted whistle buoy \"NH\".  What is the light characteristic of this buoy?",
+    "answer": 2,
+    "number": 516610,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°11.2'N, LONG 72°51.7'W",
+      "LAT 41°11.4'N, LONG 72°50.5'W",
+      "LAT 41°11.4'N, LONG 72°51.3'W",
+      "LAT 41°11.8'N, LONG 72°51.5'W"
+    ],
+    "question": "At 0109 you get underway, and at 0112 you take the following Loran-C readings:\n\n 9960-W-15026.9\n 9960-X-26536.9\n 9960-Y-44015.7\n\n What is your 0112 position?",
+    "answer": 2,
+    "number": 516611,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "38 feet (11.5 meters)",
+      "47 feet (14.2 meters)",
+      "51 feet (15.5 meters)",
+      "57 feet (17.3 meters)"
+    ],
+    "question": "At 0112, what is the approximate depth under the keel?",
+    "answer": 0,
+    "number": 516612,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "132°",
+      "129°",
+      "120°",
+      "118°"
+    ],
+    "question": "At 0112, you are on course 124°T and turning for 12.0 knots.  What course will you make good if the current is 255°T at 1.2 knots?",
+    "answer": 1,
+    "number": 516613,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "completely submerged at all stages of the tide",
+      "a hard sand shoal",
+      "surrounded by rocks awash at low water spring tides",
+      "a small, low, sandy islet surrounded by shoal water"
+    ],
+    "question": "Branford Reef is __________.",
+    "answer": 0,
+    "number": 516614,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "LAT 41°09.7'N, LONG 72°48.1'W",
+      "LAT 41°09.7'N, LONG 72°48.7'W",
+      "LAT 41°09.8'N, LONG 72°47.2'W",
+      "LAT 41°10.2'N, LONG 72°47.7'W"
+    ],
+    "question": "At 0112, the radar range to Branford Reef Light is 2.9 miles.  At 0125, the range is 3.6 miles.  What is the position of your 0125 running fix if you are steering 124°T at 12 knots?",
+    "answer": 0,
+    "number": 516615,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "0.7 mile",
+      "0.9 mile",
+      "1.1 miles",
+      "1.2 miles"
+    ],
+    "question": "At 0130, your position is LAT 41°09.3'N, LONG 72°46.9'W when you change course to 086°T.  If you make good 086°T,\nwhat is the closest point of approach to Twenty-Eight Foot Shoal Lighted Buoy?",
+    "answer": 1,
+    "number": 516616,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "260° at 0.5 knot",
+      "080° at 1.0 knot",
+      "260° at 1.0 knot",
+      "There is no current."
+    ],
+    "question": "At 0200, you take the following bearings:\n\n  Falkner Island Light           004.5°T \n  Kelsey Pt. Breakwater Lt.  054.0°T  \n  Horton Point Light             115.0°T  \n\nWhat were the set and drift from 0130?",
+    "answer": 2,
+    "number": 516617,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "6.6 miles",
+      "6.9 miles",
+      "7.1 miles",
+      "7.3 miles"
+    ],
+    "question": "What is the distance from your 0200 position to the point where Twenty-Eight Foot Shoal lighted buoy is abeam to starboard?",
+    "answer": 1,
+    "number": 516618,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "the lookout tower is marked with radar reflectors",
+      "of offshore exposed rocks",
+      "submerged reefs cause prominent breakers",
+      "the shore is bluff and rocky"
+    ],
+    "question": "The shoreline along Rocky Point should give a good radar return because __________.",
+    "answer": 3,
+    "number": 516619,
+    "duration": 120,
+    "points": 1
+  },
+  {
+    "options": [
+      "The true heading at the observation was 090°.",
+      "The deviation is 1.5°E by observation.",
+      "The magnetic compass error is 9.5°W.",
+      "The gyro error is 2°E."
+    ],
+    "question": "You sight Bartlett Reef Light in line with New London Harbor Light bearing 043°pgc.  You are heading 088°pgc and 098.5° per standard magnetic compass at the time of the observation.  Which statement is TRUE?",
+    "answer": 1,
+    "number": 516620,
+    "duration": 120,
+    "points": 1
+  }
+]

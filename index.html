@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <!-- Ensure the viewport matches the device width, and include viewport-fit for iPhone notch support -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="CaptainQuiz">
+  <link rel="manifest" href="manifest.json">
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  <link rel="apple-touch-icon" sizes="120x120" href="icons/CaptainQuiz-120x120.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="icons/CaptainQuiz-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="icons/CaptainQuiz-180x180.png">
+  <title>Svala WebAssembly</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      background-image: url('Default_ipad.png');
+      background-size: contain;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-color: black;
+    }
+    canvas {
+      display: block; /* Eliminates extra spacing below the canvas */
+      width: 100%;
+      height: 100%;
+      user-select: none;
+      touch-action: none;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      outline: none;
+    }
+  </style>
+</head>
+<body>
+  <!--
+   Data‑attributes:
+     - data-width & data-height: fixed dimensions.
+     - data-aspect-ratio: e.g. "3:4" to maintain a ratio.
+     - data-device: can be "auto-fit" or a filter string.
+     - data-device-idiom: optional ("phone", "tablet", "tv", "watch", "desktop") to narrow selection.
+     - data-device-screen-diagonal: desired screen diagonal (in inches) to refine matching.
+     - data-orientation: optional override ("portrait" or "landscape").
+     - data-legacy-mode: if present, ignore normal auto-fit and choose a legacy preset.
+         • The legacy presets are:
+             - iPhone 5: 320×568 (portrait) or 568×320 (landscape), scale 2.
+             - iPad: 768×1024 (portrait) or 1024×768 (landscape), scale 2.
+     - data-min-width, data-min-height, data-max-width, data-max-height: clamping for final size.
+  -->
+  <canvas data-svala="wasm/CaptainQuiz.wasm" data-legacy-mode="true" data-device="Apple" tabindex="0"></canvas>
+  <!-- <script src="//cdn.jsdelivr.net/npm/eruda"></script> -->
+  <!-- <script>eruda.init();</script> -->
+
+  <script type="module" id="svalascript" src="js/svala.js"></script>
+</body>
+
+</html>
