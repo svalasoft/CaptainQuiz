@@ -1,13 +1,5 @@
 [
   {
-    "category_id": 800,
-    "category_name": "Ham Techician",
-    "category_description": "Take the Ham Technican's Exam",
-    "category_questionlimit": 30,
-    "category_passpercent": 90,
-    "category_image_path": "Icons/ham.png"
-  },
-  {
     "category_id": 100,
     "category_name": "Six-Pack - Rules of the Road",
     "category_description": "Take the Six-Pack Captain's Exam",

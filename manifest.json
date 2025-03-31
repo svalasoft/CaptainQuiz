@@ -1,6 +1,6 @@
 {
   "short_name": "CaptainQuiz",
-  "name": "US Coast Guard Exam Quiz",
+  "name": ""US Coast Guard Exam Quiz"",
   "icons": [
     {
       "src": "icons/CaptainQuiz-72x72.png",
@@ -26,6 +26,11 @@
       "src": "icons/CaptainQuiz-152x152.png",
       "type": "image/png",
       "sizes": "152x152"
+    },
+    {
+      "src": "icons/CaptainQuiz-180x180.png",
+      "type": "image/png",
+      "sizes": "180x180"
     },
     {
       "src": "icons/CaptainQuiz-192x192.png",

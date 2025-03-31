@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <!-- Ensure the viewport matches the device width, and include viewport-fit for iPhone notch support -->
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="default">
@@ -53,11 +52,10 @@
              - iPad: 768×1024 (portrait) or 1024×768 (landscape), scale 2.
      - data-min-width, data-min-height, data-max-width, data-max-height: clamping for final size.
   -->
-  <canvas data-svala="wasm/CaptainQuiz.wasm" data-legacy-mode="true" data-device="Apple" tabindex="0"></canvas>
+  <canvas data-svala="wasm/CaptainQuiz.wasm" data-legacy-mode="true" data-device="Apple" tabindex="0" data-dir="data"></canvas>
   <!-- <script src="//cdn.jsdelivr.net/npm/eruda"></script> -->
   <!-- <script>eruda.init();</script> -->
 
   <script type="module" id="svalascript" src="js/svala.js"></script>
 </body>
-
 </html>
